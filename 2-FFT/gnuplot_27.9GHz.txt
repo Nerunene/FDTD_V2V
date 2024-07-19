@@ -1,0 +1,12 @@
+set term png
+set output '2-FFT00221.png'
+
+set logscale y
+
+set xlabel "Doppler frequency(fD) [Hz]"
+set ylabel "Relative spectrum [V^2/Hz]"
+
+
+plot "FFT00221" with lines
+
+set out

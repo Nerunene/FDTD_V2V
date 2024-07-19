@@ -1,0 +1,1032 @@
+ set zrange [-0.02:0.02]
+ set cbrange [-0.02:0.02]
+ set pm3d
+ set palette defined(-1.0"#FFFFFF",-0.5"#D9D9D9",0.5"#969696",1.0"#525252")
+ set term gif animate
+ set output "aroad.gif"
+ splot"rod-0000" with pm3d
+ pause 0.1
+ splot"rod-0001" with pm3d
+ pause 0.1
+ splot"rod-0002" with pm3d
+ pause 0.1
+ splot"rod-0003" with pm3d
+ pause 0.1
+ splot"rod-0004" with pm3d
+ pause 0.1
+ splot"rod-0005" with pm3d
+ pause 0.1
+ splot"rod-0006" with pm3d
+ pause 0.1
+ splot"rod-0007" with pm3d
+ pause 0.1
+ splot"rod-0008" with pm3d
+ pause 0.1
+ splot"rod-0009" with pm3d
+ pause 0.1
+ splot"rod-0010" with pm3d
+ pause 0.1
+ splot"rod-0011" with pm3d
+ pause 0.1
+ splot"rod-0012" with pm3d
+ pause 0.1
+ splot"rod-0013" with pm3d
+ pause 0.1
+ splot"rod-0014" with pm3d
+ pause 0.1
+ splot"rod-0015" with pm3d
+ pause 0.1
+ splot"rod-0016" with pm3d
+ pause 0.1
+ splot"rod-0017" with pm3d
+ pause 0.1
+ splot"rod-0018" with pm3d
+ pause 0.1
+ splot"rod-0019" with pm3d
+ pause 0.1
+ splot"rod-0020" with pm3d
+ pause 0.1
+ splot"rod-0021" with pm3d
+ pause 0.1
+ splot"rod-0022" with pm3d
+ pause 0.1
+ splot"rod-0023" with pm3d
+ pause 0.1
+ splot"rod-0024" with pm3d
+ pause 0.1
+ splot"rod-0025" with pm3d
+ pause 0.1
+ splot"rod-0026" with pm3d
+ pause 0.1
+ splot"rod-0027" with pm3d
+ pause 0.1
+ splot"rod-0028" with pm3d
+ pause 0.1
+ splot"rod-0029" with pm3d
+ pause 0.1
+ splot"rod-0030" with pm3d
+ pause 0.1
+ splot"rod-0031" with pm3d
+ pause 0.1
+ splot"rod-0032" with pm3d
+ pause 0.1
+ splot"rod-0033" with pm3d
+ pause 0.1
+ splot"rod-0034" with pm3d
+ pause 0.1
+ splot"rod-0035" with pm3d
+ pause 0.1
+ splot"rod-0036" with pm3d
+ pause 0.1
+ splot"rod-0037" with pm3d
+ pause 0.1
+ splot"rod-0038" with pm3d
+ pause 0.1
+ splot"rod-0039" with pm3d
+ pause 0.1
+ splot"rod-0040" with pm3d
+ pause 0.1
+ splot"rod-0041" with pm3d
+ pause 0.1
+ splot"rod-0042" with pm3d
+ pause 0.1
+ splot"rod-0043" with pm3d
+ pause 0.1
+ splot"rod-0044" with pm3d
+ pause 0.1
+ splot"rod-0045" with pm3d
+ pause 0.1
+ splot"rod-0046" with pm3d
+ pause 0.1
+ splot"rod-0047" with pm3d
+ pause 0.1
+ splot"rod-0048" with pm3d
+ pause 0.1
+ splot"rod-0049" with pm3d
+ pause 0.1
+ splot"rod-0050" with pm3d
+ pause 0.1
+ splot"rod-0051" with pm3d
+ pause 0.1
+ splot"rod-0052" with pm3d
+ pause 0.1
+ splot"rod-0053" with pm3d
+ pause 0.1
+ splot"rod-0054" with pm3d
+ pause 0.1
+ splot"rod-0055" with pm3d
+ pause 0.1
+ splot"rod-0056" with pm3d
+ pause 0.1
+ splot"rod-0057" with pm3d
+ pause 0.1
+ splot"rod-0058" with pm3d
+ pause 0.1
+ splot"rod-0059" with pm3d
+ pause 0.1
+ splot"rod-0060" with pm3d
+ pause 0.1
+ splot"rod-0061" with pm3d
+ pause 0.1
+ splot"rod-0062" with pm3d
+ pause 0.1
+ splot"rod-0063" with pm3d
+ pause 0.1
+ splot"rod-0064" with pm3d
+ pause 0.1
+ splot"rod-0065" with pm3d
+ pause 0.1
+ splot"rod-0066" with pm3d
+ pause 0.1
+ splot"rod-0067" with pm3d
+ pause 0.1
+ splot"rod-0068" with pm3d
+ pause 0.1
+ splot"rod-0069" with pm3d
+ pause 0.1
+ splot"rod-0070" with pm3d
+ pause 0.1
+ splot"rod-0071" with pm3d
+ pause 0.1
+ splot"rod-0072" with pm3d
+ pause 0.1
+ splot"rod-0073" with pm3d
+ pause 0.1
+ splot"rod-0074" with pm3d
+ pause 0.1
+ splot"rod-0075" with pm3d
+ pause 0.1
+ splot"rod-0076" with pm3d
+ pause 0.1
+ splot"rod-0077" with pm3d
+ pause 0.1
+ splot"rod-0078" with pm3d
+ pause 0.1
+ splot"rod-0079" with pm3d
+ pause 0.1
+ splot"rod-0080" with pm3d
+ pause 0.1
+ splot"rod-0081" with pm3d
+ pause 0.1
+ splot"rod-0082" with pm3d
+ pause 0.1
+ splot"rod-0083" with pm3d
+ pause 0.1
+ splot"rod-0084" with pm3d
+ pause 0.1
+ splot"rod-0085" with pm3d
+ pause 0.1
+ splot"rod-0086" with pm3d
+ pause 0.1
+ splot"rod-0087" with pm3d
+ pause 0.1
+ splot"rod-0088" with pm3d
+ pause 0.1
+ splot"rod-0089" with pm3d
+ pause 0.1
+ splot"rod-0090" with pm3d
+ pause 0.1
+ splot"rod-0091" with pm3d
+ pause 0.1
+ splot"rod-0092" with pm3d
+ pause 0.1
+ splot"rod-0093" with pm3d
+ pause 0.1
+ splot"rod-0094" with pm3d
+ pause 0.1
+ splot"rod-0095" with pm3d
+ pause 0.1
+ splot"rod-0096" with pm3d
+ pause 0.1
+ splot"rod-0097" with pm3d
+ pause 0.1
+ splot"rod-0098" with pm3d
+ pause 0.1
+ splot"rod-0099" with pm3d
+ pause 0.1
+ splot"rod-0100" with pm3d
+ pause 0.1
+ splot"rod-0101" with pm3d
+ pause 0.1
+ splot"rod-0102" with pm3d
+ pause 0.1
+ splot"rod-0103" with pm3d
+ pause 0.1
+ splot"rod-0104" with pm3d
+ pause 0.1
+ splot"rod-0105" with pm3d
+ pause 0.1
+ splot"rod-0106" with pm3d
+ pause 0.1
+ splot"rod-0107" with pm3d
+ pause 0.1
+ splot"rod-0108" with pm3d
+ pause 0.1
+ splot"rod-0109" with pm3d
+ pause 0.1
+ splot"rod-0110" with pm3d
+ pause 0.1
+ splot"rod-0111" with pm3d
+ pause 0.1
+ splot"rod-0112" with pm3d
+ pause 0.1
+ splot"rod-0113" with pm3d
+ pause 0.1
+ splot"rod-0114" with pm3d
+ pause 0.1
+ splot"rod-0115" with pm3d
+ pause 0.1
+ splot"rod-0116" with pm3d
+ pause 0.1
+ splot"rod-0117" with pm3d
+ pause 0.1
+ splot"rod-0118" with pm3d
+ pause 0.1
+ splot"rod-0119" with pm3d
+ pause 0.1
+ splot"rod-0120" with pm3d
+ pause 0.1
+ splot"rod-0121" with pm3d
+ pause 0.1
+ splot"rod-0122" with pm3d
+ pause 0.1
+ splot"rod-0123" with pm3d
+ pause 0.1
+ splot"rod-0124" with pm3d
+ pause 0.1
+ splot"rod-0125" with pm3d
+ pause 0.1
+ splot"rod-0126" with pm3d
+ pause 0.1
+ splot"rod-0127" with pm3d
+ pause 0.1
+ splot"rod-0128" with pm3d
+ pause 0.1
+ splot"rod-0129" with pm3d
+ pause 0.1
+ splot"rod-0130" with pm3d
+ pause 0.1
+ splot"rod-0131" with pm3d
+ pause 0.1
+ splot"rod-0132" with pm3d
+ pause 0.1
+ splot"rod-0133" with pm3d
+ pause 0.1
+ splot"rod-0134" with pm3d
+ pause 0.1
+ splot"rod-0135" with pm3d
+ pause 0.1
+ splot"rod-0136" with pm3d
+ pause 0.1
+ splot"rod-0137" with pm3d
+ pause 0.1
+ splot"rod-0138" with pm3d
+ pause 0.1
+ splot"rod-0139" with pm3d
+ pause 0.1
+ splot"rod-0140" with pm3d
+ pause 0.1
+ splot"rod-0141" with pm3d
+ pause 0.1
+ splot"rod-0142" with pm3d
+ pause 0.1
+ splot"rod-0143" with pm3d
+ pause 0.1
+ splot"rod-0144" with pm3d
+ pause 0.1
+ splot"rod-0145" with pm3d
+ pause 0.1
+ splot"rod-0146" with pm3d
+ pause 0.1
+ splot"rod-0147" with pm3d
+ pause 0.1
+ splot"rod-0148" with pm3d
+ pause 0.1
+ splot"rod-0149" with pm3d
+ pause 0.1
+ splot"rod-0150" with pm3d
+ pause 0.1
+ splot"rod-0151" with pm3d
+ pause 0.1
+ splot"rod-0152" with pm3d
+ pause 0.1
+ splot"rod-0153" with pm3d
+ pause 0.1
+ splot"rod-0154" with pm3d
+ pause 0.1
+ splot"rod-0155" with pm3d
+ pause 0.1
+ splot"rod-0156" with pm3d
+ pause 0.1
+ splot"rod-0157" with pm3d
+ pause 0.1
+ splot"rod-0158" with pm3d
+ pause 0.1
+ splot"rod-0159" with pm3d
+ pause 0.1
+ splot"rod-0160" with pm3d
+ pause 0.1
+ splot"rod-0161" with pm3d
+ pause 0.1
+ splot"rod-0162" with pm3d
+ pause 0.1
+ splot"rod-0163" with pm3d
+ pause 0.1
+ splot"rod-0164" with pm3d
+ pause 0.1
+ splot"rod-0165" with pm3d
+ pause 0.1
+ splot"rod-0166" with pm3d
+ pause 0.1
+ splot"rod-0167" with pm3d
+ pause 0.1
+ splot"rod-0168" with pm3d
+ pause 0.1
+ splot"rod-0169" with pm3d
+ pause 0.1
+ splot"rod-0170" with pm3d
+ pause 0.1
+ splot"rod-0171" with pm3d
+ pause 0.1
+ splot"rod-0172" with pm3d
+ pause 0.1
+ splot"rod-0173" with pm3d
+ pause 0.1
+ splot"rod-0174" with pm3d
+ pause 0.1
+ splot"rod-0175" with pm3d
+ pause 0.1
+ splot"rod-0176" with pm3d
+ pause 0.1
+ splot"rod-0177" with pm3d
+ pause 0.1
+ splot"rod-0178" with pm3d
+ pause 0.1
+ splot"rod-0179" with pm3d
+ pause 0.1
+ splot"rod-0180" with pm3d
+ pause 0.1
+ splot"rod-0181" with pm3d
+ pause 0.1
+ splot"rod-0182" with pm3d
+ pause 0.1
+ splot"rod-0183" with pm3d
+ pause 0.1
+ splot"rod-0184" with pm3d
+ pause 0.1
+ splot"rod-0185" with pm3d
+ pause 0.1
+ splot"rod-0186" with pm3d
+ pause 0.1
+ splot"rod-0187" with pm3d
+ pause 0.1
+ splot"rod-0188" with pm3d
+ pause 0.1
+ splot"rod-0189" with pm3d
+ pause 0.1
+ splot"rod-0190" with pm3d
+ pause 0.1
+ splot"rod-0191" with pm3d
+ pause 0.1
+ splot"rod-0192" with pm3d
+ pause 0.1
+ splot"rod-0193" with pm3d
+ pause 0.1
+ splot"rod-0194" with pm3d
+ pause 0.1
+ splot"rod-0195" with pm3d
+ pause 0.1
+ splot"rod-0196" with pm3d
+ pause 0.1
+ splot"rod-0197" with pm3d
+ pause 0.1
+ splot"rod-0198" with pm3d
+ pause 0.1
+ splot"rod-0199" with pm3d
+ pause 0.1
+ splot"rod-0200" with pm3d
+ pause 0.1
+ splot"rod-0201" with pm3d
+ pause 0.1
+ splot"rod-0202" with pm3d
+ pause 0.1
+ splot"rod-0203" with pm3d
+ pause 0.1
+ splot"rod-0204" with pm3d
+ pause 0.1
+ splot"rod-0205" with pm3d
+ pause 0.1
+ splot"rod-0206" with pm3d
+ pause 0.1
+ splot"rod-0207" with pm3d
+ pause 0.1
+ splot"rod-0208" with pm3d
+ pause 0.1
+ splot"rod-0209" with pm3d
+ pause 0.1
+ splot"rod-0210" with pm3d
+ pause 0.1
+ splot"rod-0211" with pm3d
+ pause 0.1
+ splot"rod-0212" with pm3d
+ pause 0.1
+ splot"rod-0213" with pm3d
+ pause 0.1
+ splot"rod-0214" with pm3d
+ pause 0.1
+ splot"rod-0215" with pm3d
+ pause 0.1
+ splot"rod-0216" with pm3d
+ pause 0.1
+ splot"rod-0217" with pm3d
+ pause 0.1
+ splot"rod-0218" with pm3d
+ pause 0.1
+ splot"rod-0219" with pm3d
+ pause 0.1
+ splot"rod-0220" with pm3d
+ pause 0.1
+ splot"rod-0221" with pm3d
+ pause 0.1
+ splot"rod-0222" with pm3d
+ pause 0.1
+ splot"rod-0223" with pm3d
+ pause 0.1
+ splot"rod-0224" with pm3d
+ pause 0.1
+ splot"rod-0225" with pm3d
+ pause 0.1
+ splot"rod-0226" with pm3d
+ pause 0.1
+ splot"rod-0227" with pm3d
+ pause 0.1
+ splot"rod-0228" with pm3d
+ pause 0.1
+ splot"rod-0229" with pm3d
+ pause 0.1
+ splot"rod-0230" with pm3d
+ pause 0.1
+ splot"rod-0231" with pm3d
+ pause 0.1
+ splot"rod-0232" with pm3d
+ pause 0.1
+ splot"rod-0233" with pm3d
+ pause 0.1
+ splot"rod-0234" with pm3d
+ pause 0.1
+ splot"rod-0235" with pm3d
+ pause 0.1
+ splot"rod-0236" with pm3d
+ pause 0.1
+ splot"rod-0237" with pm3d
+ pause 0.1
+ splot"rod-0238" with pm3d
+ pause 0.1
+ splot"rod-0239" with pm3d
+ pause 0.1
+ splot"rod-0240" with pm3d
+ pause 0.1
+ splot"rod-0241" with pm3d
+ pause 0.1
+ splot"rod-0242" with pm3d
+ pause 0.1
+ splot"rod-0243" with pm3d
+ pause 0.1
+ splot"rod-0244" with pm3d
+ pause 0.1
+ splot"rod-0245" with pm3d
+ pause 0.1
+ splot"rod-0246" with pm3d
+ pause 0.1
+ splot"rod-0247" with pm3d
+ pause 0.1
+ splot"rod-0248" with pm3d
+ pause 0.1
+ splot"rod-0249" with pm3d
+ pause 0.1
+ splot"rod-0250" with pm3d
+ pause 0.1
+ splot"rod-0251" with pm3d
+ pause 0.1
+ splot"rod-0252" with pm3d
+ pause 0.1
+ splot"rod-0253" with pm3d
+ pause 0.1
+ splot"rod-0254" with pm3d
+ pause 0.1
+ splot"rod-0255" with pm3d
+ pause 0.1
+ splot"rod-0256" with pm3d
+ pause 0.1
+ splot"rod-0257" with pm3d
+ pause 0.1
+ splot"rod-0258" with pm3d
+ pause 0.1
+ splot"rod-0259" with pm3d
+ pause 0.1
+ splot"rod-0260" with pm3d
+ pause 0.1
+ splot"rod-0261" with pm3d
+ pause 0.1
+ splot"rod-0262" with pm3d
+ pause 0.1
+ splot"rod-0263" with pm3d
+ pause 0.1
+ splot"rod-0264" with pm3d
+ pause 0.1
+ splot"rod-0265" with pm3d
+ pause 0.1
+ splot"rod-0266" with pm3d
+ pause 0.1
+ splot"rod-0267" with pm3d
+ pause 0.1
+ splot"rod-0268" with pm3d
+ pause 0.1
+ splot"rod-0269" with pm3d
+ pause 0.1
+ splot"rod-0270" with pm3d
+ pause 0.1
+ splot"rod-0271" with pm3d
+ pause 0.1
+ splot"rod-0272" with pm3d
+ pause 0.1
+ splot"rod-0273" with pm3d
+ pause 0.1
+ splot"rod-0274" with pm3d
+ pause 0.1
+ splot"rod-0275" with pm3d
+ pause 0.1
+ splot"rod-0276" with pm3d
+ pause 0.1
+ splot"rod-0277" with pm3d
+ pause 0.1
+ splot"rod-0278" with pm3d
+ pause 0.1
+ splot"rod-0279" with pm3d
+ pause 0.1
+ splot"rod-0280" with pm3d
+ pause 0.1
+ splot"rod-0281" with pm3d
+ pause 0.1
+ splot"rod-0282" with pm3d
+ pause 0.1
+ splot"rod-0283" with pm3d
+ pause 0.1
+ splot"rod-0284" with pm3d
+ pause 0.1
+ splot"rod-0285" with pm3d
+ pause 0.1
+ splot"rod-0286" with pm3d
+ pause 0.1
+ splot"rod-0287" with pm3d
+ pause 0.1
+ splot"rod-0288" with pm3d
+ pause 0.1
+ splot"rod-0289" with pm3d
+ pause 0.1
+ splot"rod-0290" with pm3d
+ pause 0.1
+ splot"rod-0291" with pm3d
+ pause 0.1
+ splot"rod-0292" with pm3d
+ pause 0.1
+ splot"rod-0293" with pm3d
+ pause 0.1
+ splot"rod-0294" with pm3d
+ pause 0.1
+ splot"rod-0295" with pm3d
+ pause 0.1
+ splot"rod-0296" with pm3d
+ pause 0.1
+ splot"rod-0297" with pm3d
+ pause 0.1
+ splot"rod-0298" with pm3d
+ pause 0.1
+ splot"rod-0299" with pm3d
+ pause 0.1
+ splot"rod-0300" with pm3d
+ pause 0.1
+ splot"rod-0301" with pm3d
+ pause 0.1
+ splot"rod-0302" with pm3d
+ pause 0.1
+ splot"rod-0303" with pm3d
+ pause 0.1
+ splot"rod-0304" with pm3d
+ pause 0.1
+ splot"rod-0305" with pm3d
+ pause 0.1
+ splot"rod-0306" with pm3d
+ pause 0.1
+ splot"rod-0307" with pm3d
+ pause 0.1
+ splot"rod-0308" with pm3d
+ pause 0.1
+ splot"rod-0309" with pm3d
+ pause 0.1
+ splot"rod-0310" with pm3d
+ pause 0.1
+ splot"rod-0311" with pm3d
+ pause 0.1
+ splot"rod-0312" with pm3d
+ pause 0.1
+ splot"rod-0313" with pm3d
+ pause 0.1
+ splot"rod-0314" with pm3d
+ pause 0.1
+ splot"rod-0315" with pm3d
+ pause 0.1
+ splot"rod-0316" with pm3d
+ pause 0.1
+ splot"rod-0317" with pm3d
+ pause 0.1
+ splot"rod-0318" with pm3d
+ pause 0.1
+ splot"rod-0319" with pm3d
+ pause 0.1
+ splot"rod-0320" with pm3d
+ pause 0.1
+ splot"rod-0321" with pm3d
+ pause 0.1
+ splot"rod-0322" with pm3d
+ pause 0.1
+ splot"rod-0323" with pm3d
+ pause 0.1
+ splot"rod-0324" with pm3d
+ pause 0.1
+ splot"rod-0325" with pm3d
+ pause 0.1
+ splot"rod-0326" with pm3d
+ pause 0.1
+ splot"rod-0327" with pm3d
+ pause 0.1
+ splot"rod-0328" with pm3d
+ pause 0.1
+ splot"rod-0329" with pm3d
+ pause 0.1
+ splot"rod-0330" with pm3d
+ pause 0.1
+ splot"rod-0331" with pm3d
+ pause 0.1
+ splot"rod-0332" with pm3d
+ pause 0.1
+ splot"rod-0333" with pm3d
+ pause 0.1
+ splot"rod-0334" with pm3d
+ pause 0.1
+ splot"rod-0335" with pm3d
+ pause 0.1
+ splot"rod-0336" with pm3d
+ pause 0.1
+ splot"rod-0337" with pm3d
+ pause 0.1
+ splot"rod-0338" with pm3d
+ pause 0.1
+ splot"rod-0339" with pm3d
+ pause 0.1
+ splot"rod-0340" with pm3d
+ pause 0.1
+ splot"rod-0341" with pm3d
+ pause 0.1
+ splot"rod-0342" with pm3d
+ pause 0.1
+ splot"rod-0343" with pm3d
+ pause 0.1
+ splot"rod-0344" with pm3d
+ pause 0.1
+ splot"rod-0345" with pm3d
+ pause 0.1
+ splot"rod-0346" with pm3d
+ pause 0.1
+ splot"rod-0347" with pm3d
+ pause 0.1
+ splot"rod-0348" with pm3d
+ pause 0.1
+ splot"rod-0349" with pm3d
+ pause 0.1
+ splot"rod-0350" with pm3d
+ pause 0.1
+ splot"rod-0351" with pm3d
+ pause 0.1
+ splot"rod-0352" with pm3d
+ pause 0.1
+ splot"rod-0353" with pm3d
+ pause 0.1
+ splot"rod-0354" with pm3d
+ pause 0.1
+ splot"rod-0355" with pm3d
+ pause 0.1
+ splot"rod-0356" with pm3d
+ pause 0.1
+ splot"rod-0357" with pm3d
+ pause 0.1
+ splot"rod-0358" with pm3d
+ pause 0.1
+ splot"rod-0359" with pm3d
+ pause 0.1
+ splot"rod-0360" with pm3d
+ pause 0.1
+ splot"rod-0361" with pm3d
+ pause 0.1
+ splot"rod-0362" with pm3d
+ pause 0.1
+ splot"rod-0363" with pm3d
+ pause 0.1
+ splot"rod-0364" with pm3d
+ pause 0.1
+ splot"rod-0365" with pm3d
+ pause 0.1
+ splot"rod-0366" with pm3d
+ pause 0.1
+ splot"rod-0367" with pm3d
+ pause 0.1
+ splot"rod-0368" with pm3d
+ pause 0.1
+ splot"rod-0369" with pm3d
+ pause 0.1
+ splot"rod-0370" with pm3d
+ pause 0.1
+ splot"rod-0371" with pm3d
+ pause 0.1
+ splot"rod-0372" with pm3d
+ pause 0.1
+ splot"rod-0373" with pm3d
+ pause 0.1
+ splot"rod-0374" with pm3d
+ pause 0.1
+ splot"rod-0375" with pm3d
+ pause 0.1
+ splot"rod-0376" with pm3d
+ pause 0.1
+ splot"rod-0377" with pm3d
+ pause 0.1
+ splot"rod-0378" with pm3d
+ pause 0.1
+ splot"rod-0379" with pm3d
+ pause 0.1
+ splot"rod-0380" with pm3d
+ pause 0.1
+ splot"rod-0381" with pm3d
+ pause 0.1
+ splot"rod-0382" with pm3d
+ pause 0.1
+ splot"rod-0383" with pm3d
+ pause 0.1
+ splot"rod-0384" with pm3d
+ pause 0.1
+ splot"rod-0385" with pm3d
+ pause 0.1
+ splot"rod-0386" with pm3d
+ pause 0.1
+ splot"rod-0387" with pm3d
+ pause 0.1
+ splot"rod-0388" with pm3d
+ pause 0.1
+ splot"rod-0389" with pm3d
+ pause 0.1
+ splot"rod-0390" with pm3d
+ pause 0.1
+ splot"rod-0391" with pm3d
+ pause 0.1
+ splot"rod-0392" with pm3d
+ pause 0.1
+ splot"rod-0393" with pm3d
+ pause 0.1
+ splot"rod-0394" with pm3d
+ pause 0.1
+ splot"rod-0395" with pm3d
+ pause 0.1
+ splot"rod-0396" with pm3d
+ pause 0.1
+ splot"rod-0397" with pm3d
+ pause 0.1
+ splot"rod-0398" with pm3d
+ pause 0.1
+ splot"rod-0399" with pm3d
+ pause 0.1
+ splot"rod-0400" with pm3d
+ pause 0.1
+ splot"rod-0401" with pm3d
+ pause 0.1
+ splot"rod-0402" with pm3d
+ pause 0.1
+ splot"rod-0403" with pm3d
+ pause 0.1
+ splot"rod-0404" with pm3d
+ pause 0.1
+ splot"rod-0405" with pm3d
+ pause 0.1
+ splot"rod-0406" with pm3d
+ pause 0.1
+ splot"rod-0407" with pm3d
+ pause 0.1
+ splot"rod-0408" with pm3d
+ pause 0.1
+ splot"rod-0409" with pm3d
+ pause 0.1
+ splot"rod-0410" with pm3d
+ pause 0.1
+ splot"rod-0411" with pm3d
+ pause 0.1
+ splot"rod-0412" with pm3d
+ pause 0.1
+ splot"rod-0413" with pm3d
+ pause 0.1
+ splot"rod-0414" with pm3d
+ pause 0.1
+ splot"rod-0415" with pm3d
+ pause 0.1
+ splot"rod-0416" with pm3d
+ pause 0.1
+ splot"rod-0417" with pm3d
+ pause 0.1
+ splot"rod-0418" with pm3d
+ pause 0.1
+ splot"rod-0419" with pm3d
+ pause 0.1
+ splot"rod-0420" with pm3d
+ pause 0.1
+ splot"rod-0421" with pm3d
+ pause 0.1
+ splot"rod-0422" with pm3d
+ pause 0.1
+ splot"rod-0423" with pm3d
+ pause 0.1
+ splot"rod-0424" with pm3d
+ pause 0.1
+ splot"rod-0425" with pm3d
+ pause 0.1
+ splot"rod-0426" with pm3d
+ pause 0.1
+ splot"rod-0427" with pm3d
+ pause 0.1
+ splot"rod-0428" with pm3d
+ pause 0.1
+ splot"rod-0429" with pm3d
+ pause 0.1
+ splot"rod-0430" with pm3d
+ pause 0.1
+ splot"rod-0431" with pm3d
+ pause 0.1
+ splot"rod-0432" with pm3d
+ pause 0.1
+ splot"rod-0433" with pm3d
+ pause 0.1
+ splot"rod-0434" with pm3d
+ pause 0.1
+ splot"rod-0435" with pm3d
+ pause 0.1
+ splot"rod-0436" with pm3d
+ pause 0.1
+ splot"rod-0437" with pm3d
+ pause 0.1
+ splot"rod-0438" with pm3d
+ pause 0.1
+ splot"rod-0439" with pm3d
+ pause 0.1
+ splot"rod-0440" with pm3d
+ pause 0.1
+ splot"rod-0441" with pm3d
+ pause 0.1
+ splot"rod-0442" with pm3d
+ pause 0.1
+ splot"rod-0443" with pm3d
+ pause 0.1
+ splot"rod-0444" with pm3d
+ pause 0.1
+ splot"rod-0445" with pm3d
+ pause 0.1
+ splot"rod-0446" with pm3d
+ pause 0.1
+ splot"rod-0447" with pm3d
+ pause 0.1
+ splot"rod-0448" with pm3d
+ pause 0.1
+ splot"rod-0449" with pm3d
+ pause 0.1
+ splot"rod-0450" with pm3d
+ pause 0.1
+ splot"rod-0451" with pm3d
+ pause 0.1
+ splot"rod-0452" with pm3d
+ pause 0.1
+ splot"rod-0453" with pm3d
+ pause 0.1
+ splot"rod-0454" with pm3d
+ pause 0.1
+ splot"rod-0455" with pm3d
+ pause 0.1
+ splot"rod-0456" with pm3d
+ pause 0.1
+ splot"rod-0457" with pm3d
+ pause 0.1
+ splot"rod-0458" with pm3d
+ pause 0.1
+ splot"rod-0459" with pm3d
+ pause 0.1
+ splot"rod-0460" with pm3d
+ pause 0.1
+ splot"rod-0461" with pm3d
+ pause 0.1
+ splot"rod-0462" with pm3d
+ pause 0.1
+ splot"rod-0463" with pm3d
+ pause 0.1
+ splot"rod-0464" with pm3d
+ pause 0.1
+ splot"rod-0465" with pm3d
+ pause 0.1
+ splot"rod-0466" with pm3d
+ pause 0.1
+ splot"rod-0467" with pm3d
+ pause 0.1
+ splot"rod-0468" with pm3d
+ pause 0.1
+ splot"rod-0469" with pm3d
+ pause 0.1
+ splot"rod-0470" with pm3d
+ pause 0.1
+ splot"rod-0471" with pm3d
+ pause 0.1
+ splot"rod-0472" with pm3d
+ pause 0.1
+ splot"rod-0473" with pm3d
+ pause 0.1
+ splot"rod-0474" with pm3d
+ pause 0.1
+ splot"rod-0475" with pm3d
+ pause 0.1
+ splot"rod-0476" with pm3d
+ pause 0.1
+ splot"rod-0477" with pm3d
+ pause 0.1
+ splot"rod-0478" with pm3d
+ pause 0.1
+ splot"rod-0479" with pm3d
+ pause 0.1
+ splot"rod-0480" with pm3d
+ pause 0.1
+ splot"rod-0481" with pm3d
+ pause 0.1
+ splot"rod-0482" with pm3d
+ pause 0.1
+ splot"rod-0483" with pm3d
+ pause 0.1
+ splot"rod-0484" with pm3d
+ pause 0.1
+ splot"rod-0485" with pm3d
+ pause 0.1
+ splot"rod-0486" with pm3d
+ pause 0.1
+ splot"rod-0487" with pm3d
+ pause 0.1
+ splot"rod-0488" with pm3d
+ pause 0.1
+ splot"rod-0489" with pm3d
+ pause 0.1
+ splot"rod-0490" with pm3d
+ pause 0.1
+ splot"rod-0491" with pm3d
+ pause 0.1
+ splot"rod-0492" with pm3d
+ pause 0.1
+ splot"rod-0493" with pm3d
+ pause 0.1
+ splot"rod-0494" with pm3d
+ pause 0.1
+ splot"rod-0495" with pm3d
+ pause 0.1
+ splot"rod-0496" with pm3d
+ pause 0.1
+ splot"rod-0497" with pm3d
+ pause 0.1
+ splot"rod-0498" with pm3d
+ pause 0.1
+ splot"rod-0499" with pm3d
+ pause 0.1
+ splot"rod-0500" with pm3d
+ pause 0.1
+ splot"rod-0501" with pm3d
+ pause 0.1
+ splot"rod-0502" with pm3d
+ pause 0.1
+ splot"rod-0503" with pm3d
+ pause 0.1
+ splot"rod-0504" with pm3d
+ pause 0.1
+ splot"rod-0505" with pm3d
+ pause 0.1
+ splot"rod-0506" with pm3d
+ pause 0.1
+ splot"rod-0507" with pm3d
+ pause 0.1
+ splot"rod-0508" with pm3d
+ pause 0.1
+ splot"rod-0509" with pm3d
+ pause 0.1
+ splot"rod-0510" with pm3d
+ pause 0.1
+ splot"rod-0511" with pm3d
+ pause 0.1
+ splot"rod-0512" with pm3d
+ pause 0.1
