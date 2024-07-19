@@ -1,0 +1,8197 @@
+ set xrange [*:*]
+ plot "FFT00000" with lines
+ pause 0.5
+ plot "FFT00001" with lines
+ pause 0.5
+ plot "FFT00002" with lines
+ pause 0.5
+ plot "FFT00003" with lines
+ pause 0.5
+ plot "FFT00004" with lines
+ pause 0.5
+ plot "FFT00005" with lines
+ pause 0.5
+ plot "FFT00006" with lines
+ pause 0.5
+ plot "FFT00007" with lines
+ pause 0.5
+ plot "FFT00008" with lines
+ pause 0.5
+ plot "FFT00009" with lines
+ pause 0.5
+ plot "FFT00010" with lines
+ pause 0.5
+ plot "FFT00011" with lines
+ pause 0.5
+ plot "FFT00012" with lines
+ pause 0.5
+ plot "FFT00013" with lines
+ pause 0.5
+ plot "FFT00014" with lines
+ pause 0.5
+ plot "FFT00015" with lines
+ pause 0.5
+ plot "FFT00016" with lines
+ pause 0.5
+ plot "FFT00017" with lines
+ pause 0.5
+ plot "FFT00018" with lines
+ pause 0.5
+ plot "FFT00019" with lines
+ pause 0.5
+ plot "FFT00020" with lines
+ pause 0.5
+ plot "FFT00021" with lines
+ pause 0.5
+ plot "FFT00022" with lines
+ pause 0.5
+ plot "FFT00023" with lines
+ pause 0.5
+ plot "FFT00024" with lines
+ pause 0.5
+ plot "FFT00025" with lines
+ pause 0.5
+ plot "FFT00026" with lines
+ pause 0.5
+ plot "FFT00027" with lines
+ pause 0.5
+ plot "FFT00028" with lines
+ pause 0.5
+ plot "FFT00029" with lines
+ pause 0.5
+ plot "FFT00030" with lines
+ pause 0.5
+ plot "FFT00031" with lines
+ pause 0.5
+ plot "FFT00032" with lines
+ pause 0.5
+ plot "FFT00033" with lines
+ pause 0.5
+ plot "FFT00034" with lines
+ pause 0.5
+ plot "FFT00035" with lines
+ pause 0.5
+ plot "FFT00036" with lines
+ pause 0.5
+ plot "FFT00037" with lines
+ pause 0.5
+ plot "FFT00038" with lines
+ pause 0.5
+ plot "FFT00039" with lines
+ pause 0.5
+ plot "FFT00040" with lines
+ pause 0.5
+ plot "FFT00041" with lines
+ pause 0.5
+ plot "FFT00042" with lines
+ pause 0.5
+ plot "FFT00043" with lines
+ pause 0.5
+ plot "FFT00044" with lines
+ pause 0.5
+ plot "FFT00045" with lines
+ pause 0.5
+ plot "FFT00046" with lines
+ pause 0.5
+ plot "FFT00047" with lines
+ pause 0.5
+ plot "FFT00048" with lines
+ pause 0.5
+ plot "FFT00049" with lines
+ pause 0.5
+ plot "FFT00050" with lines
+ pause 0.5
+ plot "FFT00051" with lines
+ pause 0.5
+ plot "FFT00052" with lines
+ pause 0.5
+ plot "FFT00053" with lines
+ pause 0.5
+ plot "FFT00054" with lines
+ pause 0.5
+ plot "FFT00055" with lines
+ pause 0.5
+ plot "FFT00056" with lines
+ pause 0.5
+ plot "FFT00057" with lines
+ pause 0.5
+ plot "FFT00058" with lines
+ pause 0.5
+ plot "FFT00059" with lines
+ pause 0.5
+ plot "FFT00060" with lines
+ pause 0.5
+ plot "FFT00061" with lines
+ pause 0.5
+ plot "FFT00062" with lines
+ pause 0.5
+ plot "FFT00063" with lines
+ pause 0.5
+ plot "FFT00064" with lines
+ pause 0.5
+ plot "FFT00065" with lines
+ pause 0.5
+ plot "FFT00066" with lines
+ pause 0.5
+ plot "FFT00067" with lines
+ pause 0.5
+ plot "FFT00068" with lines
+ pause 0.5
+ plot "FFT00069" with lines
+ pause 0.5
+ plot "FFT00070" with lines
+ pause 0.5
+ plot "FFT00071" with lines
+ pause 0.5
+ plot "FFT00072" with lines
+ pause 0.5
+ plot "FFT00073" with lines
+ pause 0.5
+ plot "FFT00074" with lines
+ pause 0.5
+ plot "FFT00075" with lines
+ pause 0.5
+ plot "FFT00076" with lines
+ pause 0.5
+ plot "FFT00077" with lines
+ pause 0.5
+ plot "FFT00078" with lines
+ pause 0.5
+ plot "FFT00079" with lines
+ pause 0.5
+ plot "FFT00080" with lines
+ pause 0.5
+ plot "FFT00081" with lines
+ pause 0.5
+ plot "FFT00082" with lines
+ pause 0.5
+ plot "FFT00083" with lines
+ pause 0.5
+ plot "FFT00084" with lines
+ pause 0.5
+ plot "FFT00085" with lines
+ pause 0.5
+ plot "FFT00086" with lines
+ pause 0.5
+ plot "FFT00087" with lines
+ pause 0.5
+ plot "FFT00088" with lines
+ pause 0.5
+ plot "FFT00089" with lines
+ pause 0.5
+ plot "FFT00090" with lines
+ pause 0.5
+ plot "FFT00091" with lines
+ pause 0.5
+ plot "FFT00092" with lines
+ pause 0.5
+ plot "FFT00093" with lines
+ pause 0.5
+ plot "FFT00094" with lines
+ pause 0.5
+ plot "FFT00095" with lines
+ pause 0.5
+ plot "FFT00096" with lines
+ pause 0.5
+ plot "FFT00097" with lines
+ pause 0.5
+ plot "FFT00098" with lines
+ pause 0.5
+ plot "FFT00099" with lines
+ pause 0.5
+ plot "FFT00100" with lines
+ pause 0.5
+ plot "FFT00101" with lines
+ pause 0.5
+ plot "FFT00102" with lines
+ pause 0.5
+ plot "FFT00103" with lines
+ pause 0.5
+ plot "FFT00104" with lines
+ pause 0.5
+ plot "FFT00105" with lines
+ pause 0.5
+ plot "FFT00106" with lines
+ pause 0.5
+ plot "FFT00107" with lines
+ pause 0.5
+ plot "FFT00108" with lines
+ pause 0.5
+ plot "FFT00109" with lines
+ pause 0.5
+ plot "FFT00110" with lines
+ pause 0.5
+ plot "FFT00111" with lines
+ pause 0.5
+ plot "FFT00112" with lines
+ pause 0.5
+ plot "FFT00113" with lines
+ pause 0.5
+ plot "FFT00114" with lines
+ pause 0.5
+ plot "FFT00115" with lines
+ pause 0.5
+ plot "FFT00116" with lines
+ pause 0.5
+ plot "FFT00117" with lines
+ pause 0.5
+ plot "FFT00118" with lines
+ pause 0.5
+ plot "FFT00119" with lines
+ pause 0.5
+ plot "FFT00120" with lines
+ pause 0.5
+ plot "FFT00121" with lines
+ pause 0.5
+ plot "FFT00122" with lines
+ pause 0.5
+ plot "FFT00123" with lines
+ pause 0.5
+ plot "FFT00124" with lines
+ pause 0.5
+ plot "FFT00125" with lines
+ pause 0.5
+ plot "FFT00126" with lines
+ pause 0.5
+ plot "FFT00127" with lines
+ pause 0.5
+ plot "FFT00128" with lines
+ pause 0.5
+ plot "FFT00129" with lines
+ pause 0.5
+ plot "FFT00130" with lines
+ pause 0.5
+ plot "FFT00131" with lines
+ pause 0.5
+ plot "FFT00132" with lines
+ pause 0.5
+ plot "FFT00133" with lines
+ pause 0.5
+ plot "FFT00134" with lines
+ pause 0.5
+ plot "FFT00135" with lines
+ pause 0.5
+ plot "FFT00136" with lines
+ pause 0.5
+ plot "FFT00137" with lines
+ pause 0.5
+ plot "FFT00138" with lines
+ pause 0.5
+ plot "FFT00139" with lines
+ pause 0.5
+ plot "FFT00140" with lines
+ pause 0.5
+ plot "FFT00141" with lines
+ pause 0.5
+ plot "FFT00142" with lines
+ pause 0.5
+ plot "FFT00143" with lines
+ pause 0.5
+ plot "FFT00144" with lines
+ pause 0.5
+ plot "FFT00145" with lines
+ pause 0.5
+ plot "FFT00146" with lines
+ pause 0.5
+ plot "FFT00147" with lines
+ pause 0.5
+ plot "FFT00148" with lines
+ pause 0.5
+ plot "FFT00149" with lines
+ pause 0.5
+ plot "FFT00150" with lines
+ pause 0.5
+ plot "FFT00151" with lines
+ pause 0.5
+ plot "FFT00152" with lines
+ pause 0.5
+ plot "FFT00153" with lines
+ pause 0.5
+ plot "FFT00154" with lines
+ pause 0.5
+ plot "FFT00155" with lines
+ pause 0.5
+ plot "FFT00156" with lines
+ pause 0.5
+ plot "FFT00157" with lines
+ pause 0.5
+ plot "FFT00158" with lines
+ pause 0.5
+ plot "FFT00159" with lines
+ pause 0.5
+ plot "FFT00160" with lines
+ pause 0.5
+ plot "FFT00161" with lines
+ pause 0.5
+ plot "FFT00162" with lines
+ pause 0.5
+ plot "FFT00163" with lines
+ pause 0.5
+ plot "FFT00164" with lines
+ pause 0.5
+ plot "FFT00165" with lines
+ pause 0.5
+ plot "FFT00166" with lines
+ pause 0.5
+ plot "FFT00167" with lines
+ pause 0.5
+ plot "FFT00168" with lines
+ pause 0.5
+ plot "FFT00169" with lines
+ pause 0.5
+ plot "FFT00170" with lines
+ pause 0.5
+ plot "FFT00171" with lines
+ pause 0.5
+ plot "FFT00172" with lines
+ pause 0.5
+ plot "FFT00173" with lines
+ pause 0.5
+ plot "FFT00174" with lines
+ pause 0.5
+ plot "FFT00175" with lines
+ pause 0.5
+ plot "FFT00176" with lines
+ pause 0.5
+ plot "FFT00177" with lines
+ pause 0.5
+ plot "FFT00178" with lines
+ pause 0.5
+ plot "FFT00179" with lines
+ pause 0.5
+ plot "FFT00180" with lines
+ pause 0.5
+ plot "FFT00181" with lines
+ pause 0.5
+ plot "FFT00182" with lines
+ pause 0.5
+ plot "FFT00183" with lines
+ pause 0.5
+ plot "FFT00184" with lines
+ pause 0.5
+ plot "FFT00185" with lines
+ pause 0.5
+ plot "FFT00186" with lines
+ pause 0.5
+ plot "FFT00187" with lines
+ pause 0.5
+ plot "FFT00188" with lines
+ pause 0.5
+ plot "FFT00189" with lines
+ pause 0.5
+ plot "FFT00190" with lines
+ pause 0.5
+ plot "FFT00191" with lines
+ pause 0.5
+ plot "FFT00192" with lines
+ pause 0.5
+ plot "FFT00193" with lines
+ pause 0.5
+ plot "FFT00194" with lines
+ pause 0.5
+ plot "FFT00195" with lines
+ pause 0.5
+ plot "FFT00196" with lines
+ pause 0.5
+ plot "FFT00197" with lines
+ pause 0.5
+ plot "FFT00198" with lines
+ pause 0.5
+ plot "FFT00199" with lines
+ pause 0.5
+ plot "FFT00200" with lines
+ pause 0.5
+ plot "FFT00201" with lines
+ pause 0.5
+ plot "FFT00202" with lines
+ pause 0.5
+ plot "FFT00203" with lines
+ pause 0.5
+ plot "FFT00204" with lines
+ pause 0.5
+ plot "FFT00205" with lines
+ pause 0.5
+ plot "FFT00206" with lines
+ pause 0.5
+ plot "FFT00207" with lines
+ pause 0.5
+ plot "FFT00208" with lines
+ pause 0.5
+ plot "FFT00209" with lines
+ pause 0.5
+ plot "FFT00210" with lines
+ pause 0.5
+ plot "FFT00211" with lines
+ pause 0.5
+ plot "FFT00212" with lines
+ pause 0.5
+ plot "FFT00213" with lines
+ pause 0.5
+ plot "FFT00214" with lines
+ pause 0.5
+ plot "FFT00215" with lines
+ pause 0.5
+ plot "FFT00216" with lines
+ pause 0.5
+ plot "FFT00217" with lines
+ pause 0.5
+ plot "FFT00218" with lines
+ pause 0.5
+ plot "FFT00219" with lines
+ pause 0.5
+ plot "FFT00220" with lines
+ pause 0.5
+ plot "FFT00221" with lines
+ pause 0.5
+ plot "FFT00222" with lines
+ pause 0.5
+ plot "FFT00223" with lines
+ pause 0.5
+ plot "FFT00224" with lines
+ pause 0.5
+ plot "FFT00225" with lines
+ pause 0.5
+ plot "FFT00226" with lines
+ pause 0.5
+ plot "FFT00227" with lines
+ pause 0.5
+ plot "FFT00228" with lines
+ pause 0.5
+ plot "FFT00229" with lines
+ pause 0.5
+ plot "FFT00230" with lines
+ pause 0.5
+ plot "FFT00231" with lines
+ pause 0.5
+ plot "FFT00232" with lines
+ pause 0.5
+ plot "FFT00233" with lines
+ pause 0.5
+ plot "FFT00234" with lines
+ pause 0.5
+ plot "FFT00235" with lines
+ pause 0.5
+ plot "FFT00236" with lines
+ pause 0.5
+ plot "FFT00237" with lines
+ pause 0.5
+ plot "FFT00238" with lines
+ pause 0.5
+ plot "FFT00239" with lines
+ pause 0.5
+ plot "FFT00240" with lines
+ pause 0.5
+ plot "FFT00241" with lines
+ pause 0.5
+ plot "FFT00242" with lines
+ pause 0.5
+ plot "FFT00243" with lines
+ pause 0.5
+ plot "FFT00244" with lines
+ pause 0.5
+ plot "FFT00245" with lines
+ pause 0.5
+ plot "FFT00246" with lines
+ pause 0.5
+ plot "FFT00247" with lines
+ pause 0.5
+ plot "FFT00248" with lines
+ pause 0.5
+ plot "FFT00249" with lines
+ pause 0.5
+ plot "FFT00250" with lines
+ pause 0.5
+ plot "FFT00251" with lines
+ pause 0.5
+ plot "FFT00252" with lines
+ pause 0.5
+ plot "FFT00253" with lines
+ pause 0.5
+ plot "FFT00254" with lines
+ pause 0.5
+ plot "FFT00255" with lines
+ pause 0.5
+ plot "FFT00256" with lines
+ pause 0.5
+ plot "FFT00257" with lines
+ pause 0.5
+ plot "FFT00258" with lines
+ pause 0.5
+ plot "FFT00259" with lines
+ pause 0.5
+ plot "FFT00260" with lines
+ pause 0.5
+ plot "FFT00261" with lines
+ pause 0.5
+ plot "FFT00262" with lines
+ pause 0.5
+ plot "FFT00263" with lines
+ pause 0.5
+ plot "FFT00264" with lines
+ pause 0.5
+ plot "FFT00265" with lines
+ pause 0.5
+ plot "FFT00266" with lines
+ pause 0.5
+ plot "FFT00267" with lines
+ pause 0.5
+ plot "FFT00268" with lines
+ pause 0.5
+ plot "FFT00269" with lines
+ pause 0.5
+ plot "FFT00270" with lines
+ pause 0.5
+ plot "FFT00271" with lines
+ pause 0.5
+ plot "FFT00272" with lines
+ pause 0.5
+ plot "FFT00273" with lines
+ pause 0.5
+ plot "FFT00274" with lines
+ pause 0.5
+ plot "FFT00275" with lines
+ pause 0.5
+ plot "FFT00276" with lines
+ pause 0.5
+ plot "FFT00277" with lines
+ pause 0.5
+ plot "FFT00278" with lines
+ pause 0.5
+ plot "FFT00279" with lines
+ pause 0.5
+ plot "FFT00280" with lines
+ pause 0.5
+ plot "FFT00281" with lines
+ pause 0.5
+ plot "FFT00282" with lines
+ pause 0.5
+ plot "FFT00283" with lines
+ pause 0.5
+ plot "FFT00284" with lines
+ pause 0.5
+ plot "FFT00285" with lines
+ pause 0.5
+ plot "FFT00286" with lines
+ pause 0.5
+ plot "FFT00287" with lines
+ pause 0.5
+ plot "FFT00288" with lines
+ pause 0.5
+ plot "FFT00289" with lines
+ pause 0.5
+ plot "FFT00290" with lines
+ pause 0.5
+ plot "FFT00291" with lines
+ pause 0.5
+ plot "FFT00292" with lines
+ pause 0.5
+ plot "FFT00293" with lines
+ pause 0.5
+ plot "FFT00294" with lines
+ pause 0.5
+ plot "FFT00295" with lines
+ pause 0.5
+ plot "FFT00296" with lines
+ pause 0.5
+ plot "FFT00297" with lines
+ pause 0.5
+ plot "FFT00298" with lines
+ pause 0.5
+ plot "FFT00299" with lines
+ pause 0.5
+ plot "FFT00300" with lines
+ pause 0.5
+ plot "FFT00301" with lines
+ pause 0.5
+ plot "FFT00302" with lines
+ pause 0.5
+ plot "FFT00303" with lines
+ pause 0.5
+ plot "FFT00304" with lines
+ pause 0.5
+ plot "FFT00305" with lines
+ pause 0.5
+ plot "FFT00306" with lines
+ pause 0.5
+ plot "FFT00307" with lines
+ pause 0.5
+ plot "FFT00308" with lines
+ pause 0.5
+ plot "FFT00309" with lines
+ pause 0.5
+ plot "FFT00310" with lines
+ pause 0.5
+ plot "FFT00311" with lines
+ pause 0.5
+ plot "FFT00312" with lines
+ pause 0.5
+ plot "FFT00313" with lines
+ pause 0.5
+ plot "FFT00314" with lines
+ pause 0.5
+ plot "FFT00315" with lines
+ pause 0.5
+ plot "FFT00316" with lines
+ pause 0.5
+ plot "FFT00317" with lines
+ pause 0.5
+ plot "FFT00318" with lines
+ pause 0.5
+ plot "FFT00319" with lines
+ pause 0.5
+ plot "FFT00320" with lines
+ pause 0.5
+ plot "FFT00321" with lines
+ pause 0.5
+ plot "FFT00322" with lines
+ pause 0.5
+ plot "FFT00323" with lines
+ pause 0.5
+ plot "FFT00324" with lines
+ pause 0.5
+ plot "FFT00325" with lines
+ pause 0.5
+ plot "FFT00326" with lines
+ pause 0.5
+ plot "FFT00327" with lines
+ pause 0.5
+ plot "FFT00328" with lines
+ pause 0.5
+ plot "FFT00329" with lines
+ pause 0.5
+ plot "FFT00330" with lines
+ pause 0.5
+ plot "FFT00331" with lines
+ pause 0.5
+ plot "FFT00332" with lines
+ pause 0.5
+ plot "FFT00333" with lines
+ pause 0.5
+ plot "FFT00334" with lines
+ pause 0.5
+ plot "FFT00335" with lines
+ pause 0.5
+ plot "FFT00336" with lines
+ pause 0.5
+ plot "FFT00337" with lines
+ pause 0.5
+ plot "FFT00338" with lines
+ pause 0.5
+ plot "FFT00339" with lines
+ pause 0.5
+ plot "FFT00340" with lines
+ pause 0.5
+ plot "FFT00341" with lines
+ pause 0.5
+ plot "FFT00342" with lines
+ pause 0.5
+ plot "FFT00343" with lines
+ pause 0.5
+ plot "FFT00344" with lines
+ pause 0.5
+ plot "FFT00345" with lines
+ pause 0.5
+ plot "FFT00346" with lines
+ pause 0.5
+ plot "FFT00347" with lines
+ pause 0.5
+ plot "FFT00348" with lines
+ pause 0.5
+ plot "FFT00349" with lines
+ pause 0.5
+ plot "FFT00350" with lines
+ pause 0.5
+ plot "FFT00351" with lines
+ pause 0.5
+ plot "FFT00352" with lines
+ pause 0.5
+ plot "FFT00353" with lines
+ pause 0.5
+ plot "FFT00354" with lines
+ pause 0.5
+ plot "FFT00355" with lines
+ pause 0.5
+ plot "FFT00356" with lines
+ pause 0.5
+ plot "FFT00357" with lines
+ pause 0.5
+ plot "FFT00358" with lines
+ pause 0.5
+ plot "FFT00359" with lines
+ pause 0.5
+ plot "FFT00360" with lines
+ pause 0.5
+ plot "FFT00361" with lines
+ pause 0.5
+ plot "FFT00362" with lines
+ pause 0.5
+ plot "FFT00363" with lines
+ pause 0.5
+ plot "FFT00364" with lines
+ pause 0.5
+ plot "FFT00365" with lines
+ pause 0.5
+ plot "FFT00366" with lines
+ pause 0.5
+ plot "FFT00367" with lines
+ pause 0.5
+ plot "FFT00368" with lines
+ pause 0.5
+ plot "FFT00369" with lines
+ pause 0.5
+ plot "FFT00370" with lines
+ pause 0.5
+ plot "FFT00371" with lines
+ pause 0.5
+ plot "FFT00372" with lines
+ pause 0.5
+ plot "FFT00373" with lines
+ pause 0.5
+ plot "FFT00374" with lines
+ pause 0.5
+ plot "FFT00375" with lines
+ pause 0.5
+ plot "FFT00376" with lines
+ pause 0.5
+ plot "FFT00377" with lines
+ pause 0.5
+ plot "FFT00378" with lines
+ pause 0.5
+ plot "FFT00379" with lines
+ pause 0.5
+ plot "FFT00380" with lines
+ pause 0.5
+ plot "FFT00381" with lines
+ pause 0.5
+ plot "FFT00382" with lines
+ pause 0.5
+ plot "FFT00383" with lines
+ pause 0.5
+ plot "FFT00384" with lines
+ pause 0.5
+ plot "FFT00385" with lines
+ pause 0.5
+ plot "FFT00386" with lines
+ pause 0.5
+ plot "FFT00387" with lines
+ pause 0.5
+ plot "FFT00388" with lines
+ pause 0.5
+ plot "FFT00389" with lines
+ pause 0.5
+ plot "FFT00390" with lines
+ pause 0.5
+ plot "FFT00391" with lines
+ pause 0.5
+ plot "FFT00392" with lines
+ pause 0.5
+ plot "FFT00393" with lines
+ pause 0.5
+ plot "FFT00394" with lines
+ pause 0.5
+ plot "FFT00395" with lines
+ pause 0.5
+ plot "FFT00396" with lines
+ pause 0.5
+ plot "FFT00397" with lines
+ pause 0.5
+ plot "FFT00398" with lines
+ pause 0.5
+ plot "FFT00399" with lines
+ pause 0.5
+ plot "FFT00400" with lines
+ pause 0.5
+ plot "FFT00401" with lines
+ pause 0.5
+ plot "FFT00402" with lines
+ pause 0.5
+ plot "FFT00403" with lines
+ pause 0.5
+ plot "FFT00404" with lines
+ pause 0.5
+ plot "FFT00405" with lines
+ pause 0.5
+ plot "FFT00406" with lines
+ pause 0.5
+ plot "FFT00407" with lines
+ pause 0.5
+ plot "FFT00408" with lines
+ pause 0.5
+ plot "FFT00409" with lines
+ pause 0.5
+ plot "FFT00410" with lines
+ pause 0.5
+ plot "FFT00411" with lines
+ pause 0.5
+ plot "FFT00412" with lines
+ pause 0.5
+ plot "FFT00413" with lines
+ pause 0.5
+ plot "FFT00414" with lines
+ pause 0.5
+ plot "FFT00415" with lines
+ pause 0.5
+ plot "FFT00416" with lines
+ pause 0.5
+ plot "FFT00417" with lines
+ pause 0.5
+ plot "FFT00418" with lines
+ pause 0.5
+ plot "FFT00419" with lines
+ pause 0.5
+ plot "FFT00420" with lines
+ pause 0.5
+ plot "FFT00421" with lines
+ pause 0.5
+ plot "FFT00422" with lines
+ pause 0.5
+ plot "FFT00423" with lines
+ pause 0.5
+ plot "FFT00424" with lines
+ pause 0.5
+ plot "FFT00425" with lines
+ pause 0.5
+ plot "FFT00426" with lines
+ pause 0.5
+ plot "FFT00427" with lines
+ pause 0.5
+ plot "FFT00428" with lines
+ pause 0.5
+ plot "FFT00429" with lines
+ pause 0.5
+ plot "FFT00430" with lines
+ pause 0.5
+ plot "FFT00431" with lines
+ pause 0.5
+ plot "FFT00432" with lines
+ pause 0.5
+ plot "FFT00433" with lines
+ pause 0.5
+ plot "FFT00434" with lines
+ pause 0.5
+ plot "FFT00435" with lines
+ pause 0.5
+ plot "FFT00436" with lines
+ pause 0.5
+ plot "FFT00437" with lines
+ pause 0.5
+ plot "FFT00438" with lines
+ pause 0.5
+ plot "FFT00439" with lines
+ pause 0.5
+ plot "FFT00440" with lines
+ pause 0.5
+ plot "FFT00441" with lines
+ pause 0.5
+ plot "FFT00442" with lines
+ pause 0.5
+ plot "FFT00443" with lines
+ pause 0.5
+ plot "FFT00444" with lines
+ pause 0.5
+ plot "FFT00445" with lines
+ pause 0.5
+ plot "FFT00446" with lines
+ pause 0.5
+ plot "FFT00447" with lines
+ pause 0.5
+ plot "FFT00448" with lines
+ pause 0.5
+ plot "FFT00449" with lines
+ pause 0.5
+ plot "FFT00450" with lines
+ pause 0.5
+ plot "FFT00451" with lines
+ pause 0.5
+ plot "FFT00452" with lines
+ pause 0.5
+ plot "FFT00453" with lines
+ pause 0.5
+ plot "FFT00454" with lines
+ pause 0.5
+ plot "FFT00455" with lines
+ pause 0.5
+ plot "FFT00456" with lines
+ pause 0.5
+ plot "FFT00457" with lines
+ pause 0.5
+ plot "FFT00458" with lines
+ pause 0.5
+ plot "FFT00459" with lines
+ pause 0.5
+ plot "FFT00460" with lines
+ pause 0.5
+ plot "FFT00461" with lines
+ pause 0.5
+ plot "FFT00462" with lines
+ pause 0.5
+ plot "FFT00463" with lines
+ pause 0.5
+ plot "FFT00464" with lines
+ pause 0.5
+ plot "FFT00465" with lines
+ pause 0.5
+ plot "FFT00466" with lines
+ pause 0.5
+ plot "FFT00467" with lines
+ pause 0.5
+ plot "FFT00468" with lines
+ pause 0.5
+ plot "FFT00469" with lines
+ pause 0.5
+ plot "FFT00470" with lines
+ pause 0.5
+ plot "FFT00471" with lines
+ pause 0.5
+ plot "FFT00472" with lines
+ pause 0.5
+ plot "FFT00473" with lines
+ pause 0.5
+ plot "FFT00474" with lines
+ pause 0.5
+ plot "FFT00475" with lines
+ pause 0.5
+ plot "FFT00476" with lines
+ pause 0.5
+ plot "FFT00477" with lines
+ pause 0.5
+ plot "FFT00478" with lines
+ pause 0.5
+ plot "FFT00479" with lines
+ pause 0.5
+ plot "FFT00480" with lines
+ pause 0.5
+ plot "FFT00481" with lines
+ pause 0.5
+ plot "FFT00482" with lines
+ pause 0.5
+ plot "FFT00483" with lines
+ pause 0.5
+ plot "FFT00484" with lines
+ pause 0.5
+ plot "FFT00485" with lines
+ pause 0.5
+ plot "FFT00486" with lines
+ pause 0.5
+ plot "FFT00487" with lines
+ pause 0.5
+ plot "FFT00488" with lines
+ pause 0.5
+ plot "FFT00489" with lines
+ pause 0.5
+ plot "FFT00490" with lines
+ pause 0.5
+ plot "FFT00491" with lines
+ pause 0.5
+ plot "FFT00492" with lines
+ pause 0.5
+ plot "FFT00493" with lines
+ pause 0.5
+ plot "FFT00494" with lines
+ pause 0.5
+ plot "FFT00495" with lines
+ pause 0.5
+ plot "FFT00496" with lines
+ pause 0.5
+ plot "FFT00497" with lines
+ pause 0.5
+ plot "FFT00498" with lines
+ pause 0.5
+ plot "FFT00499" with lines
+ pause 0.5
+ plot "FFT00500" with lines
+ pause 0.5
+ plot "FFT00501" with lines
+ pause 0.5
+ plot "FFT00502" with lines
+ pause 0.5
+ plot "FFT00503" with lines
+ pause 0.5
+ plot "FFT00504" with lines
+ pause 0.5
+ plot "FFT00505" with lines
+ pause 0.5
+ plot "FFT00506" with lines
+ pause 0.5
+ plot "FFT00507" with lines
+ pause 0.5
+ plot "FFT00508" with lines
+ pause 0.5
+ plot "FFT00509" with lines
+ pause 0.5
+ plot "FFT00510" with lines
+ pause 0.5
+ plot "FFT00511" with lines
+ pause 0.5
+ plot "FFT00512" with lines
+ pause 0.5
+ plot "FFT00513" with lines
+ pause 0.5
+ plot "FFT00514" with lines
+ pause 0.5
+ plot "FFT00515" with lines
+ pause 0.5
+ plot "FFT00516" with lines
+ pause 0.5
+ plot "FFT00517" with lines
+ pause 0.5
+ plot "FFT00518" with lines
+ pause 0.5
+ plot "FFT00519" with lines
+ pause 0.5
+ plot "FFT00520" with lines
+ pause 0.5
+ plot "FFT00521" with lines
+ pause 0.5
+ plot "FFT00522" with lines
+ pause 0.5
+ plot "FFT00523" with lines
+ pause 0.5
+ plot "FFT00524" with lines
+ pause 0.5
+ plot "FFT00525" with lines
+ pause 0.5
+ plot "FFT00526" with lines
+ pause 0.5
+ plot "FFT00527" with lines
+ pause 0.5
+ plot "FFT00528" with lines
+ pause 0.5
+ plot "FFT00529" with lines
+ pause 0.5
+ plot "FFT00530" with lines
+ pause 0.5
+ plot "FFT00531" with lines
+ pause 0.5
+ plot "FFT00532" with lines
+ pause 0.5
+ plot "FFT00533" with lines
+ pause 0.5
+ plot "FFT00534" with lines
+ pause 0.5
+ plot "FFT00535" with lines
+ pause 0.5
+ plot "FFT00536" with lines
+ pause 0.5
+ plot "FFT00537" with lines
+ pause 0.5
+ plot "FFT00538" with lines
+ pause 0.5
+ plot "FFT00539" with lines
+ pause 0.5
+ plot "FFT00540" with lines
+ pause 0.5
+ plot "FFT00541" with lines
+ pause 0.5
+ plot "FFT00542" with lines
+ pause 0.5
+ plot "FFT00543" with lines
+ pause 0.5
+ plot "FFT00544" with lines
+ pause 0.5
+ plot "FFT00545" with lines
+ pause 0.5
+ plot "FFT00546" with lines
+ pause 0.5
+ plot "FFT00547" with lines
+ pause 0.5
+ plot "FFT00548" with lines
+ pause 0.5
+ plot "FFT00549" with lines
+ pause 0.5
+ plot "FFT00550" with lines
+ pause 0.5
+ plot "FFT00551" with lines
+ pause 0.5
+ plot "FFT00552" with lines
+ pause 0.5
+ plot "FFT00553" with lines
+ pause 0.5
+ plot "FFT00554" with lines
+ pause 0.5
+ plot "FFT00555" with lines
+ pause 0.5
+ plot "FFT00556" with lines
+ pause 0.5
+ plot "FFT00557" with lines
+ pause 0.5
+ plot "FFT00558" with lines
+ pause 0.5
+ plot "FFT00559" with lines
+ pause 0.5
+ plot "FFT00560" with lines
+ pause 0.5
+ plot "FFT00561" with lines
+ pause 0.5
+ plot "FFT00562" with lines
+ pause 0.5
+ plot "FFT00563" with lines
+ pause 0.5
+ plot "FFT00564" with lines
+ pause 0.5
+ plot "FFT00565" with lines
+ pause 0.5
+ plot "FFT00566" with lines
+ pause 0.5
+ plot "FFT00567" with lines
+ pause 0.5
+ plot "FFT00568" with lines
+ pause 0.5
+ plot "FFT00569" with lines
+ pause 0.5
+ plot "FFT00570" with lines
+ pause 0.5
+ plot "FFT00571" with lines
+ pause 0.5
+ plot "FFT00572" with lines
+ pause 0.5
+ plot "FFT00573" with lines
+ pause 0.5
+ plot "FFT00574" with lines
+ pause 0.5
+ plot "FFT00575" with lines
+ pause 0.5
+ plot "FFT00576" with lines
+ pause 0.5
+ plot "FFT00577" with lines
+ pause 0.5
+ plot "FFT00578" with lines
+ pause 0.5
+ plot "FFT00579" with lines
+ pause 0.5
+ plot "FFT00580" with lines
+ pause 0.5
+ plot "FFT00581" with lines
+ pause 0.5
+ plot "FFT00582" with lines
+ pause 0.5
+ plot "FFT00583" with lines
+ pause 0.5
+ plot "FFT00584" with lines
+ pause 0.5
+ plot "FFT00585" with lines
+ pause 0.5
+ plot "FFT00586" with lines
+ pause 0.5
+ plot "FFT00587" with lines
+ pause 0.5
+ plot "FFT00588" with lines
+ pause 0.5
+ plot "FFT00589" with lines
+ pause 0.5
+ plot "FFT00590" with lines
+ pause 0.5
+ plot "FFT00591" with lines
+ pause 0.5
+ plot "FFT00592" with lines
+ pause 0.5
+ plot "FFT00593" with lines
+ pause 0.5
+ plot "FFT00594" with lines
+ pause 0.5
+ plot "FFT00595" with lines
+ pause 0.5
+ plot "FFT00596" with lines
+ pause 0.5
+ plot "FFT00597" with lines
+ pause 0.5
+ plot "FFT00598" with lines
+ pause 0.5
+ plot "FFT00599" with lines
+ pause 0.5
+ plot "FFT00600" with lines
+ pause 0.5
+ plot "FFT00601" with lines
+ pause 0.5
+ plot "FFT00602" with lines
+ pause 0.5
+ plot "FFT00603" with lines
+ pause 0.5
+ plot "FFT00604" with lines
+ pause 0.5
+ plot "FFT00605" with lines
+ pause 0.5
+ plot "FFT00606" with lines
+ pause 0.5
+ plot "FFT00607" with lines
+ pause 0.5
+ plot "FFT00608" with lines
+ pause 0.5
+ plot "FFT00609" with lines
+ pause 0.5
+ plot "FFT00610" with lines
+ pause 0.5
+ plot "FFT00611" with lines
+ pause 0.5
+ plot "FFT00612" with lines
+ pause 0.5
+ plot "FFT00613" with lines
+ pause 0.5
+ plot "FFT00614" with lines
+ pause 0.5
+ plot "FFT00615" with lines
+ pause 0.5
+ plot "FFT00616" with lines
+ pause 0.5
+ plot "FFT00617" with lines
+ pause 0.5
+ plot "FFT00618" with lines
+ pause 0.5
+ plot "FFT00619" with lines
+ pause 0.5
+ plot "FFT00620" with lines
+ pause 0.5
+ plot "FFT00621" with lines
+ pause 0.5
+ plot "FFT00622" with lines
+ pause 0.5
+ plot "FFT00623" with lines
+ pause 0.5
+ plot "FFT00624" with lines
+ pause 0.5
+ plot "FFT00625" with lines
+ pause 0.5
+ plot "FFT00626" with lines
+ pause 0.5
+ plot "FFT00627" with lines
+ pause 0.5
+ plot "FFT00628" with lines
+ pause 0.5
+ plot "FFT00629" with lines
+ pause 0.5
+ plot "FFT00630" with lines
+ pause 0.5
+ plot "FFT00631" with lines
+ pause 0.5
+ plot "FFT00632" with lines
+ pause 0.5
+ plot "FFT00633" with lines
+ pause 0.5
+ plot "FFT00634" with lines
+ pause 0.5
+ plot "FFT00635" with lines
+ pause 0.5
+ plot "FFT00636" with lines
+ pause 0.5
+ plot "FFT00637" with lines
+ pause 0.5
+ plot "FFT00638" with lines
+ pause 0.5
+ plot "FFT00639" with lines
+ pause 0.5
+ plot "FFT00640" with lines
+ pause 0.5
+ plot "FFT00641" with lines
+ pause 0.5
+ plot "FFT00642" with lines
+ pause 0.5
+ plot "FFT00643" with lines
+ pause 0.5
+ plot "FFT00644" with lines
+ pause 0.5
+ plot "FFT00645" with lines
+ pause 0.5
+ plot "FFT00646" with lines
+ pause 0.5
+ plot "FFT00647" with lines
+ pause 0.5
+ plot "FFT00648" with lines
+ pause 0.5
+ plot "FFT00649" with lines
+ pause 0.5
+ plot "FFT00650" with lines
+ pause 0.5
+ plot "FFT00651" with lines
+ pause 0.5
+ plot "FFT00652" with lines
+ pause 0.5
+ plot "FFT00653" with lines
+ pause 0.5
+ plot "FFT00654" with lines
+ pause 0.5
+ plot "FFT00655" with lines
+ pause 0.5
+ plot "FFT00656" with lines
+ pause 0.5
+ plot "FFT00657" with lines
+ pause 0.5
+ plot "FFT00658" with lines
+ pause 0.5
+ plot "FFT00659" with lines
+ pause 0.5
+ plot "FFT00660" with lines
+ pause 0.5
+ plot "FFT00661" with lines
+ pause 0.5
+ plot "FFT00662" with lines
+ pause 0.5
+ plot "FFT00663" with lines
+ pause 0.5
+ plot "FFT00664" with lines
+ pause 0.5
+ plot "FFT00665" with lines
+ pause 0.5
+ plot "FFT00666" with lines
+ pause 0.5
+ plot "FFT00667" with lines
+ pause 0.5
+ plot "FFT00668" with lines
+ pause 0.5
+ plot "FFT00669" with lines
+ pause 0.5
+ plot "FFT00670" with lines
+ pause 0.5
+ plot "FFT00671" with lines
+ pause 0.5
+ plot "FFT00672" with lines
+ pause 0.5
+ plot "FFT00673" with lines
+ pause 0.5
+ plot "FFT00674" with lines
+ pause 0.5
+ plot "FFT00675" with lines
+ pause 0.5
+ plot "FFT00676" with lines
+ pause 0.5
+ plot "FFT00677" with lines
+ pause 0.5
+ plot "FFT00678" with lines
+ pause 0.5
+ plot "FFT00679" with lines
+ pause 0.5
+ plot "FFT00680" with lines
+ pause 0.5
+ plot "FFT00681" with lines
+ pause 0.5
+ plot "FFT00682" with lines
+ pause 0.5
+ plot "FFT00683" with lines
+ pause 0.5
+ plot "FFT00684" with lines
+ pause 0.5
+ plot "FFT00685" with lines
+ pause 0.5
+ plot "FFT00686" with lines
+ pause 0.5
+ plot "FFT00687" with lines
+ pause 0.5
+ plot "FFT00688" with lines
+ pause 0.5
+ plot "FFT00689" with lines
+ pause 0.5
+ plot "FFT00690" with lines
+ pause 0.5
+ plot "FFT00691" with lines
+ pause 0.5
+ plot "FFT00692" with lines
+ pause 0.5
+ plot "FFT00693" with lines
+ pause 0.5
+ plot "FFT00694" with lines
+ pause 0.5
+ plot "FFT00695" with lines
+ pause 0.5
+ plot "FFT00696" with lines
+ pause 0.5
+ plot "FFT00697" with lines
+ pause 0.5
+ plot "FFT00698" with lines
+ pause 0.5
+ plot "FFT00699" with lines
+ pause 0.5
+ plot "FFT00700" with lines
+ pause 0.5
+ plot "FFT00701" with lines
+ pause 0.5
+ plot "FFT00702" with lines
+ pause 0.5
+ plot "FFT00703" with lines
+ pause 0.5
+ plot "FFT00704" with lines
+ pause 0.5
+ plot "FFT00705" with lines
+ pause 0.5
+ plot "FFT00706" with lines
+ pause 0.5
+ plot "FFT00707" with lines
+ pause 0.5
+ plot "FFT00708" with lines
+ pause 0.5
+ plot "FFT00709" with lines
+ pause 0.5
+ plot "FFT00710" with lines
+ pause 0.5
+ plot "FFT00711" with lines
+ pause 0.5
+ plot "FFT00712" with lines
+ pause 0.5
+ plot "FFT00713" with lines
+ pause 0.5
+ plot "FFT00714" with lines
+ pause 0.5
+ plot "FFT00715" with lines
+ pause 0.5
+ plot "FFT00716" with lines
+ pause 0.5
+ plot "FFT00717" with lines
+ pause 0.5
+ plot "FFT00718" with lines
+ pause 0.5
+ plot "FFT00719" with lines
+ pause 0.5
+ plot "FFT00720" with lines
+ pause 0.5
+ plot "FFT00721" with lines
+ pause 0.5
+ plot "FFT00722" with lines
+ pause 0.5
+ plot "FFT00723" with lines
+ pause 0.5
+ plot "FFT00724" with lines
+ pause 0.5
+ plot "FFT00725" with lines
+ pause 0.5
+ plot "FFT00726" with lines
+ pause 0.5
+ plot "FFT00727" with lines
+ pause 0.5
+ plot "FFT00728" with lines
+ pause 0.5
+ plot "FFT00729" with lines
+ pause 0.5
+ plot "FFT00730" with lines
+ pause 0.5
+ plot "FFT00731" with lines
+ pause 0.5
+ plot "FFT00732" with lines
+ pause 0.5
+ plot "FFT00733" with lines
+ pause 0.5
+ plot "FFT00734" with lines
+ pause 0.5
+ plot "FFT00735" with lines
+ pause 0.5
+ plot "FFT00736" with lines
+ pause 0.5
+ plot "FFT00737" with lines
+ pause 0.5
+ plot "FFT00738" with lines
+ pause 0.5
+ plot "FFT00739" with lines
+ pause 0.5
+ plot "FFT00740" with lines
+ pause 0.5
+ plot "FFT00741" with lines
+ pause 0.5
+ plot "FFT00742" with lines
+ pause 0.5
+ plot "FFT00743" with lines
+ pause 0.5
+ plot "FFT00744" with lines
+ pause 0.5
+ plot "FFT00745" with lines
+ pause 0.5
+ plot "FFT00746" with lines
+ pause 0.5
+ plot "FFT00747" with lines
+ pause 0.5
+ plot "FFT00748" with lines
+ pause 0.5
+ plot "FFT00749" with lines
+ pause 0.5
+ plot "FFT00750" with lines
+ pause 0.5
+ plot "FFT00751" with lines
+ pause 0.5
+ plot "FFT00752" with lines
+ pause 0.5
+ plot "FFT00753" with lines
+ pause 0.5
+ plot "FFT00754" with lines
+ pause 0.5
+ plot "FFT00755" with lines
+ pause 0.5
+ plot "FFT00756" with lines
+ pause 0.5
+ plot "FFT00757" with lines
+ pause 0.5
+ plot "FFT00758" with lines
+ pause 0.5
+ plot "FFT00759" with lines
+ pause 0.5
+ plot "FFT00760" with lines
+ pause 0.5
+ plot "FFT00761" with lines
+ pause 0.5
+ plot "FFT00762" with lines
+ pause 0.5
+ plot "FFT00763" with lines
+ pause 0.5
+ plot "FFT00764" with lines
+ pause 0.5
+ plot "FFT00765" with lines
+ pause 0.5
+ plot "FFT00766" with lines
+ pause 0.5
+ plot "FFT00767" with lines
+ pause 0.5
+ plot "FFT00768" with lines
+ pause 0.5
+ plot "FFT00769" with lines
+ pause 0.5
+ plot "FFT00770" with lines
+ pause 0.5
+ plot "FFT00771" with lines
+ pause 0.5
+ plot "FFT00772" with lines
+ pause 0.5
+ plot "FFT00773" with lines
+ pause 0.5
+ plot "FFT00774" with lines
+ pause 0.5
+ plot "FFT00775" with lines
+ pause 0.5
+ plot "FFT00776" with lines
+ pause 0.5
+ plot "FFT00777" with lines
+ pause 0.5
+ plot "FFT00778" with lines
+ pause 0.5
+ plot "FFT00779" with lines
+ pause 0.5
+ plot "FFT00780" with lines
+ pause 0.5
+ plot "FFT00781" with lines
+ pause 0.5
+ plot "FFT00782" with lines
+ pause 0.5
+ plot "FFT00783" with lines
+ pause 0.5
+ plot "FFT00784" with lines
+ pause 0.5
+ plot "FFT00785" with lines
+ pause 0.5
+ plot "FFT00786" with lines
+ pause 0.5
+ plot "FFT00787" with lines
+ pause 0.5
+ plot "FFT00788" with lines
+ pause 0.5
+ plot "FFT00789" with lines
+ pause 0.5
+ plot "FFT00790" with lines
+ pause 0.5
+ plot "FFT00791" with lines
+ pause 0.5
+ plot "FFT00792" with lines
+ pause 0.5
+ plot "FFT00793" with lines
+ pause 0.5
+ plot "FFT00794" with lines
+ pause 0.5
+ plot "FFT00795" with lines
+ pause 0.5
+ plot "FFT00796" with lines
+ pause 0.5
+ plot "FFT00797" with lines
+ pause 0.5
+ plot "FFT00798" with lines
+ pause 0.5
+ plot "FFT00799" with lines
+ pause 0.5
+ plot "FFT00800" with lines
+ pause 0.5
+ plot "FFT00801" with lines
+ pause 0.5
+ plot "FFT00802" with lines
+ pause 0.5
+ plot "FFT00803" with lines
+ pause 0.5
+ plot "FFT00804" with lines
+ pause 0.5
+ plot "FFT00805" with lines
+ pause 0.5
+ plot "FFT00806" with lines
+ pause 0.5
+ plot "FFT00807" with lines
+ pause 0.5
+ plot "FFT00808" with lines
+ pause 0.5
+ plot "FFT00809" with lines
+ pause 0.5
+ plot "FFT00810" with lines
+ pause 0.5
+ plot "FFT00811" with lines
+ pause 0.5
+ plot "FFT00812" with lines
+ pause 0.5
+ plot "FFT00813" with lines
+ pause 0.5
+ plot "FFT00814" with lines
+ pause 0.5
+ plot "FFT00815" with lines
+ pause 0.5
+ plot "FFT00816" with lines
+ pause 0.5
+ plot "FFT00817" with lines
+ pause 0.5
+ plot "FFT00818" with lines
+ pause 0.5
+ plot "FFT00819" with lines
+ pause 0.5
+ plot "FFT00820" with lines
+ pause 0.5
+ plot "FFT00821" with lines
+ pause 0.5
+ plot "FFT00822" with lines
+ pause 0.5
+ plot "FFT00823" with lines
+ pause 0.5
+ plot "FFT00824" with lines
+ pause 0.5
+ plot "FFT00825" with lines
+ pause 0.5
+ plot "FFT00826" with lines
+ pause 0.5
+ plot "FFT00827" with lines
+ pause 0.5
+ plot "FFT00828" with lines
+ pause 0.5
+ plot "FFT00829" with lines
+ pause 0.5
+ plot "FFT00830" with lines
+ pause 0.5
+ plot "FFT00831" with lines
+ pause 0.5
+ plot "FFT00832" with lines
+ pause 0.5
+ plot "FFT00833" with lines
+ pause 0.5
+ plot "FFT00834" with lines
+ pause 0.5
+ plot "FFT00835" with lines
+ pause 0.5
+ plot "FFT00836" with lines
+ pause 0.5
+ plot "FFT00837" with lines
+ pause 0.5
+ plot "FFT00838" with lines
+ pause 0.5
+ plot "FFT00839" with lines
+ pause 0.5
+ plot "FFT00840" with lines
+ pause 0.5
+ plot "FFT00841" with lines
+ pause 0.5
+ plot "FFT00842" with lines
+ pause 0.5
+ plot "FFT00843" with lines
+ pause 0.5
+ plot "FFT00844" with lines
+ pause 0.5
+ plot "FFT00845" with lines
+ pause 0.5
+ plot "FFT00846" with lines
+ pause 0.5
+ plot "FFT00847" with lines
+ pause 0.5
+ plot "FFT00848" with lines
+ pause 0.5
+ plot "FFT00849" with lines
+ pause 0.5
+ plot "FFT00850" with lines
+ pause 0.5
+ plot "FFT00851" with lines
+ pause 0.5
+ plot "FFT00852" with lines
+ pause 0.5
+ plot "FFT00853" with lines
+ pause 0.5
+ plot "FFT00854" with lines
+ pause 0.5
+ plot "FFT00855" with lines
+ pause 0.5
+ plot "FFT00856" with lines
+ pause 0.5
+ plot "FFT00857" with lines
+ pause 0.5
+ plot "FFT00858" with lines
+ pause 0.5
+ plot "FFT00859" with lines
+ pause 0.5
+ plot "FFT00860" with lines
+ pause 0.5
+ plot "FFT00861" with lines
+ pause 0.5
+ plot "FFT00862" with lines
+ pause 0.5
+ plot "FFT00863" with lines
+ pause 0.5
+ plot "FFT00864" with lines
+ pause 0.5
+ plot "FFT00865" with lines
+ pause 0.5
+ plot "FFT00866" with lines
+ pause 0.5
+ plot "FFT00867" with lines
+ pause 0.5
+ plot "FFT00868" with lines
+ pause 0.5
+ plot "FFT00869" with lines
+ pause 0.5
+ plot "FFT00870" with lines
+ pause 0.5
+ plot "FFT00871" with lines
+ pause 0.5
+ plot "FFT00872" with lines
+ pause 0.5
+ plot "FFT00873" with lines
+ pause 0.5
+ plot "FFT00874" with lines
+ pause 0.5
+ plot "FFT00875" with lines
+ pause 0.5
+ plot "FFT00876" with lines
+ pause 0.5
+ plot "FFT00877" with lines
+ pause 0.5
+ plot "FFT00878" with lines
+ pause 0.5
+ plot "FFT00879" with lines
+ pause 0.5
+ plot "FFT00880" with lines
+ pause 0.5
+ plot "FFT00881" with lines
+ pause 0.5
+ plot "FFT00882" with lines
+ pause 0.5
+ plot "FFT00883" with lines
+ pause 0.5
+ plot "FFT00884" with lines
+ pause 0.5
+ plot "FFT00885" with lines
+ pause 0.5
+ plot "FFT00886" with lines
+ pause 0.5
+ plot "FFT00887" with lines
+ pause 0.5
+ plot "FFT00888" with lines
+ pause 0.5
+ plot "FFT00889" with lines
+ pause 0.5
+ plot "FFT00890" with lines
+ pause 0.5
+ plot "FFT00891" with lines
+ pause 0.5
+ plot "FFT00892" with lines
+ pause 0.5
+ plot "FFT00893" with lines
+ pause 0.5
+ plot "FFT00894" with lines
+ pause 0.5
+ plot "FFT00895" with lines
+ pause 0.5
+ plot "FFT00896" with lines
+ pause 0.5
+ plot "FFT00897" with lines
+ pause 0.5
+ plot "FFT00898" with lines
+ pause 0.5
+ plot "FFT00899" with lines
+ pause 0.5
+ plot "FFT00900" with lines
+ pause 0.5
+ plot "FFT00901" with lines
+ pause 0.5
+ plot "FFT00902" with lines
+ pause 0.5
+ plot "FFT00903" with lines
+ pause 0.5
+ plot "FFT00904" with lines
+ pause 0.5
+ plot "FFT00905" with lines
+ pause 0.5
+ plot "FFT00906" with lines
+ pause 0.5
+ plot "FFT00907" with lines
+ pause 0.5
+ plot "FFT00908" with lines
+ pause 0.5
+ plot "FFT00909" with lines
+ pause 0.5
+ plot "FFT00910" with lines
+ pause 0.5
+ plot "FFT00911" with lines
+ pause 0.5
+ plot "FFT00912" with lines
+ pause 0.5
+ plot "FFT00913" with lines
+ pause 0.5
+ plot "FFT00914" with lines
+ pause 0.5
+ plot "FFT00915" with lines
+ pause 0.5
+ plot "FFT00916" with lines
+ pause 0.5
+ plot "FFT00917" with lines
+ pause 0.5
+ plot "FFT00918" with lines
+ pause 0.5
+ plot "FFT00919" with lines
+ pause 0.5
+ plot "FFT00920" with lines
+ pause 0.5
+ plot "FFT00921" with lines
+ pause 0.5
+ plot "FFT00922" with lines
+ pause 0.5
+ plot "FFT00923" with lines
+ pause 0.5
+ plot "FFT00924" with lines
+ pause 0.5
+ plot "FFT00925" with lines
+ pause 0.5
+ plot "FFT00926" with lines
+ pause 0.5
+ plot "FFT00927" with lines
+ pause 0.5
+ plot "FFT00928" with lines
+ pause 0.5
+ plot "FFT00929" with lines
+ pause 0.5
+ plot "FFT00930" with lines
+ pause 0.5
+ plot "FFT00931" with lines
+ pause 0.5
+ plot "FFT00932" with lines
+ pause 0.5
+ plot "FFT00933" with lines
+ pause 0.5
+ plot "FFT00934" with lines
+ pause 0.5
+ plot "FFT00935" with lines
+ pause 0.5
+ plot "FFT00936" with lines
+ pause 0.5
+ plot "FFT00937" with lines
+ pause 0.5
+ plot "FFT00938" with lines
+ pause 0.5
+ plot "FFT00939" with lines
+ pause 0.5
+ plot "FFT00940" with lines
+ pause 0.5
+ plot "FFT00941" with lines
+ pause 0.5
+ plot "FFT00942" with lines
+ pause 0.5
+ plot "FFT00943" with lines
+ pause 0.5
+ plot "FFT00944" with lines
+ pause 0.5
+ plot "FFT00945" with lines
+ pause 0.5
+ plot "FFT00946" with lines
+ pause 0.5
+ plot "FFT00947" with lines
+ pause 0.5
+ plot "FFT00948" with lines
+ pause 0.5
+ plot "FFT00949" with lines
+ pause 0.5
+ plot "FFT00950" with lines
+ pause 0.5
+ plot "FFT00951" with lines
+ pause 0.5
+ plot "FFT00952" with lines
+ pause 0.5
+ plot "FFT00953" with lines
+ pause 0.5
+ plot "FFT00954" with lines
+ pause 0.5
+ plot "FFT00955" with lines
+ pause 0.5
+ plot "FFT00956" with lines
+ pause 0.5
+ plot "FFT00957" with lines
+ pause 0.5
+ plot "FFT00958" with lines
+ pause 0.5
+ plot "FFT00959" with lines
+ pause 0.5
+ plot "FFT00960" with lines
+ pause 0.5
+ plot "FFT00961" with lines
+ pause 0.5
+ plot "FFT00962" with lines
+ pause 0.5
+ plot "FFT00963" with lines
+ pause 0.5
+ plot "FFT00964" with lines
+ pause 0.5
+ plot "FFT00965" with lines
+ pause 0.5
+ plot "FFT00966" with lines
+ pause 0.5
+ plot "FFT00967" with lines
+ pause 0.5
+ plot "FFT00968" with lines
+ pause 0.5
+ plot "FFT00969" with lines
+ pause 0.5
+ plot "FFT00970" with lines
+ pause 0.5
+ plot "FFT00971" with lines
+ pause 0.5
+ plot "FFT00972" with lines
+ pause 0.5
+ plot "FFT00973" with lines
+ pause 0.5
+ plot "FFT00974" with lines
+ pause 0.5
+ plot "FFT00975" with lines
+ pause 0.5
+ plot "FFT00976" with lines
+ pause 0.5
+ plot "FFT00977" with lines
+ pause 0.5
+ plot "FFT00978" with lines
+ pause 0.5
+ plot "FFT00979" with lines
+ pause 0.5
+ plot "FFT00980" with lines
+ pause 0.5
+ plot "FFT00981" with lines
+ pause 0.5
+ plot "FFT00982" with lines
+ pause 0.5
+ plot "FFT00983" with lines
+ pause 0.5
+ plot "FFT00984" with lines
+ pause 0.5
+ plot "FFT00985" with lines
+ pause 0.5
+ plot "FFT00986" with lines
+ pause 0.5
+ plot "FFT00987" with lines
+ pause 0.5
+ plot "FFT00988" with lines
+ pause 0.5
+ plot "FFT00989" with lines
+ pause 0.5
+ plot "FFT00990" with lines
+ pause 0.5
+ plot "FFT00991" with lines
+ pause 0.5
+ plot "FFT00992" with lines
+ pause 0.5
+ plot "FFT00993" with lines
+ pause 0.5
+ plot "FFT00994" with lines
+ pause 0.5
+ plot "FFT00995" with lines
+ pause 0.5
+ plot "FFT00996" with lines
+ pause 0.5
+ plot "FFT00997" with lines
+ pause 0.5
+ plot "FFT00998" with lines
+ pause 0.5
+ plot "FFT00999" with lines
+ pause 0.5
+ plot "FFT01000" with lines
+ pause 0.5
+ plot "FFT01001" with lines
+ pause 0.5
+ plot "FFT01002" with lines
+ pause 0.5
+ plot "FFT01003" with lines
+ pause 0.5
+ plot "FFT01004" with lines
+ pause 0.5
+ plot "FFT01005" with lines
+ pause 0.5
+ plot "FFT01006" with lines
+ pause 0.5
+ plot "FFT01007" with lines
+ pause 0.5
+ plot "FFT01008" with lines
+ pause 0.5
+ plot "FFT01009" with lines
+ pause 0.5
+ plot "FFT01010" with lines
+ pause 0.5
+ plot "FFT01011" with lines
+ pause 0.5
+ plot "FFT01012" with lines
+ pause 0.5
+ plot "FFT01013" with lines
+ pause 0.5
+ plot "FFT01014" with lines
+ pause 0.5
+ plot "FFT01015" with lines
+ pause 0.5
+ plot "FFT01016" with lines
+ pause 0.5
+ plot "FFT01017" with lines
+ pause 0.5
+ plot "FFT01018" with lines
+ pause 0.5
+ plot "FFT01019" with lines
+ pause 0.5
+ plot "FFT01020" with lines
+ pause 0.5
+ plot "FFT01021" with lines
+ pause 0.5
+ plot "FFT01022" with lines
+ pause 0.5
+ plot "FFT01023" with lines
+ pause 0.5
+ plot "FFT01024" with lines
+ pause 0.5
+ plot "FFT01025" with lines
+ pause 0.5
+ plot "FFT01026" with lines
+ pause 0.5
+ plot "FFT01027" with lines
+ pause 0.5
+ plot "FFT01028" with lines
+ pause 0.5
+ plot "FFT01029" with lines
+ pause 0.5
+ plot "FFT01030" with lines
+ pause 0.5
+ plot "FFT01031" with lines
+ pause 0.5
+ plot "FFT01032" with lines
+ pause 0.5
+ plot "FFT01033" with lines
+ pause 0.5
+ plot "FFT01034" with lines
+ pause 0.5
+ plot "FFT01035" with lines
+ pause 0.5
+ plot "FFT01036" with lines
+ pause 0.5
+ plot "FFT01037" with lines
+ pause 0.5
+ plot "FFT01038" with lines
+ pause 0.5
+ plot "FFT01039" with lines
+ pause 0.5
+ plot "FFT01040" with lines
+ pause 0.5
+ plot "FFT01041" with lines
+ pause 0.5
+ plot "FFT01042" with lines
+ pause 0.5
+ plot "FFT01043" with lines
+ pause 0.5
+ plot "FFT01044" with lines
+ pause 0.5
+ plot "FFT01045" with lines
+ pause 0.5
+ plot "FFT01046" with lines
+ pause 0.5
+ plot "FFT01047" with lines
+ pause 0.5
+ plot "FFT01048" with lines
+ pause 0.5
+ plot "FFT01049" with lines
+ pause 0.5
+ plot "FFT01050" with lines
+ pause 0.5
+ plot "FFT01051" with lines
+ pause 0.5
+ plot "FFT01052" with lines
+ pause 0.5
+ plot "FFT01053" with lines
+ pause 0.5
+ plot "FFT01054" with lines
+ pause 0.5
+ plot "FFT01055" with lines
+ pause 0.5
+ plot "FFT01056" with lines
+ pause 0.5
+ plot "FFT01057" with lines
+ pause 0.5
+ plot "FFT01058" with lines
+ pause 0.5
+ plot "FFT01059" with lines
+ pause 0.5
+ plot "FFT01060" with lines
+ pause 0.5
+ plot "FFT01061" with lines
+ pause 0.5
+ plot "FFT01062" with lines
+ pause 0.5
+ plot "FFT01063" with lines
+ pause 0.5
+ plot "FFT01064" with lines
+ pause 0.5
+ plot "FFT01065" with lines
+ pause 0.5
+ plot "FFT01066" with lines
+ pause 0.5
+ plot "FFT01067" with lines
+ pause 0.5
+ plot "FFT01068" with lines
+ pause 0.5
+ plot "FFT01069" with lines
+ pause 0.5
+ plot "FFT01070" with lines
+ pause 0.5
+ plot "FFT01071" with lines
+ pause 0.5
+ plot "FFT01072" with lines
+ pause 0.5
+ plot "FFT01073" with lines
+ pause 0.5
+ plot "FFT01074" with lines
+ pause 0.5
+ plot "FFT01075" with lines
+ pause 0.5
+ plot "FFT01076" with lines
+ pause 0.5
+ plot "FFT01077" with lines
+ pause 0.5
+ plot "FFT01078" with lines
+ pause 0.5
+ plot "FFT01079" with lines
+ pause 0.5
+ plot "FFT01080" with lines
+ pause 0.5
+ plot "FFT01081" with lines
+ pause 0.5
+ plot "FFT01082" with lines
+ pause 0.5
+ plot "FFT01083" with lines
+ pause 0.5
+ plot "FFT01084" with lines
+ pause 0.5
+ plot "FFT01085" with lines
+ pause 0.5
+ plot "FFT01086" with lines
+ pause 0.5
+ plot "FFT01087" with lines
+ pause 0.5
+ plot "FFT01088" with lines
+ pause 0.5
+ plot "FFT01089" with lines
+ pause 0.5
+ plot "FFT01090" with lines
+ pause 0.5
+ plot "FFT01091" with lines
+ pause 0.5
+ plot "FFT01092" with lines
+ pause 0.5
+ plot "FFT01093" with lines
+ pause 0.5
+ plot "FFT01094" with lines
+ pause 0.5
+ plot "FFT01095" with lines
+ pause 0.5
+ plot "FFT01096" with lines
+ pause 0.5
+ plot "FFT01097" with lines
+ pause 0.5
+ plot "FFT01098" with lines
+ pause 0.5
+ plot "FFT01099" with lines
+ pause 0.5
+ plot "FFT01100" with lines
+ pause 0.5
+ plot "FFT01101" with lines
+ pause 0.5
+ plot "FFT01102" with lines
+ pause 0.5
+ plot "FFT01103" with lines
+ pause 0.5
+ plot "FFT01104" with lines
+ pause 0.5
+ plot "FFT01105" with lines
+ pause 0.5
+ plot "FFT01106" with lines
+ pause 0.5
+ plot "FFT01107" with lines
+ pause 0.5
+ plot "FFT01108" with lines
+ pause 0.5
+ plot "FFT01109" with lines
+ pause 0.5
+ plot "FFT01110" with lines
+ pause 0.5
+ plot "FFT01111" with lines
+ pause 0.5
+ plot "FFT01112" with lines
+ pause 0.5
+ plot "FFT01113" with lines
+ pause 0.5
+ plot "FFT01114" with lines
+ pause 0.5
+ plot "FFT01115" with lines
+ pause 0.5
+ plot "FFT01116" with lines
+ pause 0.5
+ plot "FFT01117" with lines
+ pause 0.5
+ plot "FFT01118" with lines
+ pause 0.5
+ plot "FFT01119" with lines
+ pause 0.5
+ plot "FFT01120" with lines
+ pause 0.5
+ plot "FFT01121" with lines
+ pause 0.5
+ plot "FFT01122" with lines
+ pause 0.5
+ plot "FFT01123" with lines
+ pause 0.5
+ plot "FFT01124" with lines
+ pause 0.5
+ plot "FFT01125" with lines
+ pause 0.5
+ plot "FFT01126" with lines
+ pause 0.5
+ plot "FFT01127" with lines
+ pause 0.5
+ plot "FFT01128" with lines
+ pause 0.5
+ plot "FFT01129" with lines
+ pause 0.5
+ plot "FFT01130" with lines
+ pause 0.5
+ plot "FFT01131" with lines
+ pause 0.5
+ plot "FFT01132" with lines
+ pause 0.5
+ plot "FFT01133" with lines
+ pause 0.5
+ plot "FFT01134" with lines
+ pause 0.5
+ plot "FFT01135" with lines
+ pause 0.5
+ plot "FFT01136" with lines
+ pause 0.5
+ plot "FFT01137" with lines
+ pause 0.5
+ plot "FFT01138" with lines
+ pause 0.5
+ plot "FFT01139" with lines
+ pause 0.5
+ plot "FFT01140" with lines
+ pause 0.5
+ plot "FFT01141" with lines
+ pause 0.5
+ plot "FFT01142" with lines
+ pause 0.5
+ plot "FFT01143" with lines
+ pause 0.5
+ plot "FFT01144" with lines
+ pause 0.5
+ plot "FFT01145" with lines
+ pause 0.5
+ plot "FFT01146" with lines
+ pause 0.5
+ plot "FFT01147" with lines
+ pause 0.5
+ plot "FFT01148" with lines
+ pause 0.5
+ plot "FFT01149" with lines
+ pause 0.5
+ plot "FFT01150" with lines
+ pause 0.5
+ plot "FFT01151" with lines
+ pause 0.5
+ plot "FFT01152" with lines
+ pause 0.5
+ plot "FFT01153" with lines
+ pause 0.5
+ plot "FFT01154" with lines
+ pause 0.5
+ plot "FFT01155" with lines
+ pause 0.5
+ plot "FFT01156" with lines
+ pause 0.5
+ plot "FFT01157" with lines
+ pause 0.5
+ plot "FFT01158" with lines
+ pause 0.5
+ plot "FFT01159" with lines
+ pause 0.5
+ plot "FFT01160" with lines
+ pause 0.5
+ plot "FFT01161" with lines
+ pause 0.5
+ plot "FFT01162" with lines
+ pause 0.5
+ plot "FFT01163" with lines
+ pause 0.5
+ plot "FFT01164" with lines
+ pause 0.5
+ plot "FFT01165" with lines
+ pause 0.5
+ plot "FFT01166" with lines
+ pause 0.5
+ plot "FFT01167" with lines
+ pause 0.5
+ plot "FFT01168" with lines
+ pause 0.5
+ plot "FFT01169" with lines
+ pause 0.5
+ plot "FFT01170" with lines
+ pause 0.5
+ plot "FFT01171" with lines
+ pause 0.5
+ plot "FFT01172" with lines
+ pause 0.5
+ plot "FFT01173" with lines
+ pause 0.5
+ plot "FFT01174" with lines
+ pause 0.5
+ plot "FFT01175" with lines
+ pause 0.5
+ plot "FFT01176" with lines
+ pause 0.5
+ plot "FFT01177" with lines
+ pause 0.5
+ plot "FFT01178" with lines
+ pause 0.5
+ plot "FFT01179" with lines
+ pause 0.5
+ plot "FFT01180" with lines
+ pause 0.5
+ plot "FFT01181" with lines
+ pause 0.5
+ plot "FFT01182" with lines
+ pause 0.5
+ plot "FFT01183" with lines
+ pause 0.5
+ plot "FFT01184" with lines
+ pause 0.5
+ plot "FFT01185" with lines
+ pause 0.5
+ plot "FFT01186" with lines
+ pause 0.5
+ plot "FFT01187" with lines
+ pause 0.5
+ plot "FFT01188" with lines
+ pause 0.5
+ plot "FFT01189" with lines
+ pause 0.5
+ plot "FFT01190" with lines
+ pause 0.5
+ plot "FFT01191" with lines
+ pause 0.5
+ plot "FFT01192" with lines
+ pause 0.5
+ plot "FFT01193" with lines
+ pause 0.5
+ plot "FFT01194" with lines
+ pause 0.5
+ plot "FFT01195" with lines
+ pause 0.5
+ plot "FFT01196" with lines
+ pause 0.5
+ plot "FFT01197" with lines
+ pause 0.5
+ plot "FFT01198" with lines
+ pause 0.5
+ plot "FFT01199" with lines
+ pause 0.5
+ plot "FFT01200" with lines
+ pause 0.5
+ plot "FFT01201" with lines
+ pause 0.5
+ plot "FFT01202" with lines
+ pause 0.5
+ plot "FFT01203" with lines
+ pause 0.5
+ plot "FFT01204" with lines
+ pause 0.5
+ plot "FFT01205" with lines
+ pause 0.5
+ plot "FFT01206" with lines
+ pause 0.5
+ plot "FFT01207" with lines
+ pause 0.5
+ plot "FFT01208" with lines
+ pause 0.5
+ plot "FFT01209" with lines
+ pause 0.5
+ plot "FFT01210" with lines
+ pause 0.5
+ plot "FFT01211" with lines
+ pause 0.5
+ plot "FFT01212" with lines
+ pause 0.5
+ plot "FFT01213" with lines
+ pause 0.5
+ plot "FFT01214" with lines
+ pause 0.5
+ plot "FFT01215" with lines
+ pause 0.5
+ plot "FFT01216" with lines
+ pause 0.5
+ plot "FFT01217" with lines
+ pause 0.5
+ plot "FFT01218" with lines
+ pause 0.5
+ plot "FFT01219" with lines
+ pause 0.5
+ plot "FFT01220" with lines
+ pause 0.5
+ plot "FFT01221" with lines
+ pause 0.5
+ plot "FFT01222" with lines
+ pause 0.5
+ plot "FFT01223" with lines
+ pause 0.5
+ plot "FFT01224" with lines
+ pause 0.5
+ plot "FFT01225" with lines
+ pause 0.5
+ plot "FFT01226" with lines
+ pause 0.5
+ plot "FFT01227" with lines
+ pause 0.5
+ plot "FFT01228" with lines
+ pause 0.5
+ plot "FFT01229" with lines
+ pause 0.5
+ plot "FFT01230" with lines
+ pause 0.5
+ plot "FFT01231" with lines
+ pause 0.5
+ plot "FFT01232" with lines
+ pause 0.5
+ plot "FFT01233" with lines
+ pause 0.5
+ plot "FFT01234" with lines
+ pause 0.5
+ plot "FFT01235" with lines
+ pause 0.5
+ plot "FFT01236" with lines
+ pause 0.5
+ plot "FFT01237" with lines
+ pause 0.5
+ plot "FFT01238" with lines
+ pause 0.5
+ plot "FFT01239" with lines
+ pause 0.5
+ plot "FFT01240" with lines
+ pause 0.5
+ plot "FFT01241" with lines
+ pause 0.5
+ plot "FFT01242" with lines
+ pause 0.5
+ plot "FFT01243" with lines
+ pause 0.5
+ plot "FFT01244" with lines
+ pause 0.5
+ plot "FFT01245" with lines
+ pause 0.5
+ plot "FFT01246" with lines
+ pause 0.5
+ plot "FFT01247" with lines
+ pause 0.5
+ plot "FFT01248" with lines
+ pause 0.5
+ plot "FFT01249" with lines
+ pause 0.5
+ plot "FFT01250" with lines
+ pause 0.5
+ plot "FFT01251" with lines
+ pause 0.5
+ plot "FFT01252" with lines
+ pause 0.5
+ plot "FFT01253" with lines
+ pause 0.5
+ plot "FFT01254" with lines
+ pause 0.5
+ plot "FFT01255" with lines
+ pause 0.5
+ plot "FFT01256" with lines
+ pause 0.5
+ plot "FFT01257" with lines
+ pause 0.5
+ plot "FFT01258" with lines
+ pause 0.5
+ plot "FFT01259" with lines
+ pause 0.5
+ plot "FFT01260" with lines
+ pause 0.5
+ plot "FFT01261" with lines
+ pause 0.5
+ plot "FFT01262" with lines
+ pause 0.5
+ plot "FFT01263" with lines
+ pause 0.5
+ plot "FFT01264" with lines
+ pause 0.5
+ plot "FFT01265" with lines
+ pause 0.5
+ plot "FFT01266" with lines
+ pause 0.5
+ plot "FFT01267" with lines
+ pause 0.5
+ plot "FFT01268" with lines
+ pause 0.5
+ plot "FFT01269" with lines
+ pause 0.5
+ plot "FFT01270" with lines
+ pause 0.5
+ plot "FFT01271" with lines
+ pause 0.5
+ plot "FFT01272" with lines
+ pause 0.5
+ plot "FFT01273" with lines
+ pause 0.5
+ plot "FFT01274" with lines
+ pause 0.5
+ plot "FFT01275" with lines
+ pause 0.5
+ plot "FFT01276" with lines
+ pause 0.5
+ plot "FFT01277" with lines
+ pause 0.5
+ plot "FFT01278" with lines
+ pause 0.5
+ plot "FFT01279" with lines
+ pause 0.5
+ plot "FFT01280" with lines
+ pause 0.5
+ plot "FFT01281" with lines
+ pause 0.5
+ plot "FFT01282" with lines
+ pause 0.5
+ plot "FFT01283" with lines
+ pause 0.5
+ plot "FFT01284" with lines
+ pause 0.5
+ plot "FFT01285" with lines
+ pause 0.5
+ plot "FFT01286" with lines
+ pause 0.5
+ plot "FFT01287" with lines
+ pause 0.5
+ plot "FFT01288" with lines
+ pause 0.5
+ plot "FFT01289" with lines
+ pause 0.5
+ plot "FFT01290" with lines
+ pause 0.5
+ plot "FFT01291" with lines
+ pause 0.5
+ plot "FFT01292" with lines
+ pause 0.5
+ plot "FFT01293" with lines
+ pause 0.5
+ plot "FFT01294" with lines
+ pause 0.5
+ plot "FFT01295" with lines
+ pause 0.5
+ plot "FFT01296" with lines
+ pause 0.5
+ plot "FFT01297" with lines
+ pause 0.5
+ plot "FFT01298" with lines
+ pause 0.5
+ plot "FFT01299" with lines
+ pause 0.5
+ plot "FFT01300" with lines
+ pause 0.5
+ plot "FFT01301" with lines
+ pause 0.5
+ plot "FFT01302" with lines
+ pause 0.5
+ plot "FFT01303" with lines
+ pause 0.5
+ plot "FFT01304" with lines
+ pause 0.5
+ plot "FFT01305" with lines
+ pause 0.5
+ plot "FFT01306" with lines
+ pause 0.5
+ plot "FFT01307" with lines
+ pause 0.5
+ plot "FFT01308" with lines
+ pause 0.5
+ plot "FFT01309" with lines
+ pause 0.5
+ plot "FFT01310" with lines
+ pause 0.5
+ plot "FFT01311" with lines
+ pause 0.5
+ plot "FFT01312" with lines
+ pause 0.5
+ plot "FFT01313" with lines
+ pause 0.5
+ plot "FFT01314" with lines
+ pause 0.5
+ plot "FFT01315" with lines
+ pause 0.5
+ plot "FFT01316" with lines
+ pause 0.5
+ plot "FFT01317" with lines
+ pause 0.5
+ plot "FFT01318" with lines
+ pause 0.5
+ plot "FFT01319" with lines
+ pause 0.5
+ plot "FFT01320" with lines
+ pause 0.5
+ plot "FFT01321" with lines
+ pause 0.5
+ plot "FFT01322" with lines
+ pause 0.5
+ plot "FFT01323" with lines
+ pause 0.5
+ plot "FFT01324" with lines
+ pause 0.5
+ plot "FFT01325" with lines
+ pause 0.5
+ plot "FFT01326" with lines
+ pause 0.5
+ plot "FFT01327" with lines
+ pause 0.5
+ plot "FFT01328" with lines
+ pause 0.5
+ plot "FFT01329" with lines
+ pause 0.5
+ plot "FFT01330" with lines
+ pause 0.5
+ plot "FFT01331" with lines
+ pause 0.5
+ plot "FFT01332" with lines
+ pause 0.5
+ plot "FFT01333" with lines
+ pause 0.5
+ plot "FFT01334" with lines
+ pause 0.5
+ plot "FFT01335" with lines
+ pause 0.5
+ plot "FFT01336" with lines
+ pause 0.5
+ plot "FFT01337" with lines
+ pause 0.5
+ plot "FFT01338" with lines
+ pause 0.5
+ plot "FFT01339" with lines
+ pause 0.5
+ plot "FFT01340" with lines
+ pause 0.5
+ plot "FFT01341" with lines
+ pause 0.5
+ plot "FFT01342" with lines
+ pause 0.5
+ plot "FFT01343" with lines
+ pause 0.5
+ plot "FFT01344" with lines
+ pause 0.5
+ plot "FFT01345" with lines
+ pause 0.5
+ plot "FFT01346" with lines
+ pause 0.5
+ plot "FFT01347" with lines
+ pause 0.5
+ plot "FFT01348" with lines
+ pause 0.5
+ plot "FFT01349" with lines
+ pause 0.5
+ plot "FFT01350" with lines
+ pause 0.5
+ plot "FFT01351" with lines
+ pause 0.5
+ plot "FFT01352" with lines
+ pause 0.5
+ plot "FFT01353" with lines
+ pause 0.5
+ plot "FFT01354" with lines
+ pause 0.5
+ plot "FFT01355" with lines
+ pause 0.5
+ plot "FFT01356" with lines
+ pause 0.5
+ plot "FFT01357" with lines
+ pause 0.5
+ plot "FFT01358" with lines
+ pause 0.5
+ plot "FFT01359" with lines
+ pause 0.5
+ plot "FFT01360" with lines
+ pause 0.5
+ plot "FFT01361" with lines
+ pause 0.5
+ plot "FFT01362" with lines
+ pause 0.5
+ plot "FFT01363" with lines
+ pause 0.5
+ plot "FFT01364" with lines
+ pause 0.5
+ plot "FFT01365" with lines
+ pause 0.5
+ plot "FFT01366" with lines
+ pause 0.5
+ plot "FFT01367" with lines
+ pause 0.5
+ plot "FFT01368" with lines
+ pause 0.5
+ plot "FFT01369" with lines
+ pause 0.5
+ plot "FFT01370" with lines
+ pause 0.5
+ plot "FFT01371" with lines
+ pause 0.5
+ plot "FFT01372" with lines
+ pause 0.5
+ plot "FFT01373" with lines
+ pause 0.5
+ plot "FFT01374" with lines
+ pause 0.5
+ plot "FFT01375" with lines
+ pause 0.5
+ plot "FFT01376" with lines
+ pause 0.5
+ plot "FFT01377" with lines
+ pause 0.5
+ plot "FFT01378" with lines
+ pause 0.5
+ plot "FFT01379" with lines
+ pause 0.5
+ plot "FFT01380" with lines
+ pause 0.5
+ plot "FFT01381" with lines
+ pause 0.5
+ plot "FFT01382" with lines
+ pause 0.5
+ plot "FFT01383" with lines
+ pause 0.5
+ plot "FFT01384" with lines
+ pause 0.5
+ plot "FFT01385" with lines
+ pause 0.5
+ plot "FFT01386" with lines
+ pause 0.5
+ plot "FFT01387" with lines
+ pause 0.5
+ plot "FFT01388" with lines
+ pause 0.5
+ plot "FFT01389" with lines
+ pause 0.5
+ plot "FFT01390" with lines
+ pause 0.5
+ plot "FFT01391" with lines
+ pause 0.5
+ plot "FFT01392" with lines
+ pause 0.5
+ plot "FFT01393" with lines
+ pause 0.5
+ plot "FFT01394" with lines
+ pause 0.5
+ plot "FFT01395" with lines
+ pause 0.5
+ plot "FFT01396" with lines
+ pause 0.5
+ plot "FFT01397" with lines
+ pause 0.5
+ plot "FFT01398" with lines
+ pause 0.5
+ plot "FFT01399" with lines
+ pause 0.5
+ plot "FFT01400" with lines
+ pause 0.5
+ plot "FFT01401" with lines
+ pause 0.5
+ plot "FFT01402" with lines
+ pause 0.5
+ plot "FFT01403" with lines
+ pause 0.5
+ plot "FFT01404" with lines
+ pause 0.5
+ plot "FFT01405" with lines
+ pause 0.5
+ plot "FFT01406" with lines
+ pause 0.5
+ plot "FFT01407" with lines
+ pause 0.5
+ plot "FFT01408" with lines
+ pause 0.5
+ plot "FFT01409" with lines
+ pause 0.5
+ plot "FFT01410" with lines
+ pause 0.5
+ plot "FFT01411" with lines
+ pause 0.5
+ plot "FFT01412" with lines
+ pause 0.5
+ plot "FFT01413" with lines
+ pause 0.5
+ plot "FFT01414" with lines
+ pause 0.5
+ plot "FFT01415" with lines
+ pause 0.5
+ plot "FFT01416" with lines
+ pause 0.5
+ plot "FFT01417" with lines
+ pause 0.5
+ plot "FFT01418" with lines
+ pause 0.5
+ plot "FFT01419" with lines
+ pause 0.5
+ plot "FFT01420" with lines
+ pause 0.5
+ plot "FFT01421" with lines
+ pause 0.5
+ plot "FFT01422" with lines
+ pause 0.5
+ plot "FFT01423" with lines
+ pause 0.5
+ plot "FFT01424" with lines
+ pause 0.5
+ plot "FFT01425" with lines
+ pause 0.5
+ plot "FFT01426" with lines
+ pause 0.5
+ plot "FFT01427" with lines
+ pause 0.5
+ plot "FFT01428" with lines
+ pause 0.5
+ plot "FFT01429" with lines
+ pause 0.5
+ plot "FFT01430" with lines
+ pause 0.5
+ plot "FFT01431" with lines
+ pause 0.5
+ plot "FFT01432" with lines
+ pause 0.5
+ plot "FFT01433" with lines
+ pause 0.5
+ plot "FFT01434" with lines
+ pause 0.5
+ plot "FFT01435" with lines
+ pause 0.5
+ plot "FFT01436" with lines
+ pause 0.5
+ plot "FFT01437" with lines
+ pause 0.5
+ plot "FFT01438" with lines
+ pause 0.5
+ plot "FFT01439" with lines
+ pause 0.5
+ plot "FFT01440" with lines
+ pause 0.5
+ plot "FFT01441" with lines
+ pause 0.5
+ plot "FFT01442" with lines
+ pause 0.5
+ plot "FFT01443" with lines
+ pause 0.5
+ plot "FFT01444" with lines
+ pause 0.5
+ plot "FFT01445" with lines
+ pause 0.5
+ plot "FFT01446" with lines
+ pause 0.5
+ plot "FFT01447" with lines
+ pause 0.5
+ plot "FFT01448" with lines
+ pause 0.5
+ plot "FFT01449" with lines
+ pause 0.5
+ plot "FFT01450" with lines
+ pause 0.5
+ plot "FFT01451" with lines
+ pause 0.5
+ plot "FFT01452" with lines
+ pause 0.5
+ plot "FFT01453" with lines
+ pause 0.5
+ plot "FFT01454" with lines
+ pause 0.5
+ plot "FFT01455" with lines
+ pause 0.5
+ plot "FFT01456" with lines
+ pause 0.5
+ plot "FFT01457" with lines
+ pause 0.5
+ plot "FFT01458" with lines
+ pause 0.5
+ plot "FFT01459" with lines
+ pause 0.5
+ plot "FFT01460" with lines
+ pause 0.5
+ plot "FFT01461" with lines
+ pause 0.5
+ plot "FFT01462" with lines
+ pause 0.5
+ plot "FFT01463" with lines
+ pause 0.5
+ plot "FFT01464" with lines
+ pause 0.5
+ plot "FFT01465" with lines
+ pause 0.5
+ plot "FFT01466" with lines
+ pause 0.5
+ plot "FFT01467" with lines
+ pause 0.5
+ plot "FFT01468" with lines
+ pause 0.5
+ plot "FFT01469" with lines
+ pause 0.5
+ plot "FFT01470" with lines
+ pause 0.5
+ plot "FFT01471" with lines
+ pause 0.5
+ plot "FFT01472" with lines
+ pause 0.5
+ plot "FFT01473" with lines
+ pause 0.5
+ plot "FFT01474" with lines
+ pause 0.5
+ plot "FFT01475" with lines
+ pause 0.5
+ plot "FFT01476" with lines
+ pause 0.5
+ plot "FFT01477" with lines
+ pause 0.5
+ plot "FFT01478" with lines
+ pause 0.5
+ plot "FFT01479" with lines
+ pause 0.5
+ plot "FFT01480" with lines
+ pause 0.5
+ plot "FFT01481" with lines
+ pause 0.5
+ plot "FFT01482" with lines
+ pause 0.5
+ plot "FFT01483" with lines
+ pause 0.5
+ plot "FFT01484" with lines
+ pause 0.5
+ plot "FFT01485" with lines
+ pause 0.5
+ plot "FFT01486" with lines
+ pause 0.5
+ plot "FFT01487" with lines
+ pause 0.5
+ plot "FFT01488" with lines
+ pause 0.5
+ plot "FFT01489" with lines
+ pause 0.5
+ plot "FFT01490" with lines
+ pause 0.5
+ plot "FFT01491" with lines
+ pause 0.5
+ plot "FFT01492" with lines
+ pause 0.5
+ plot "FFT01493" with lines
+ pause 0.5
+ plot "FFT01494" with lines
+ pause 0.5
+ plot "FFT01495" with lines
+ pause 0.5
+ plot "FFT01496" with lines
+ pause 0.5
+ plot "FFT01497" with lines
+ pause 0.5
+ plot "FFT01498" with lines
+ pause 0.5
+ plot "FFT01499" with lines
+ pause 0.5
+ plot "FFT01500" with lines
+ pause 0.5
+ plot "FFT01501" with lines
+ pause 0.5
+ plot "FFT01502" with lines
+ pause 0.5
+ plot "FFT01503" with lines
+ pause 0.5
+ plot "FFT01504" with lines
+ pause 0.5
+ plot "FFT01505" with lines
+ pause 0.5
+ plot "FFT01506" with lines
+ pause 0.5
+ plot "FFT01507" with lines
+ pause 0.5
+ plot "FFT01508" with lines
+ pause 0.5
+ plot "FFT01509" with lines
+ pause 0.5
+ plot "FFT01510" with lines
+ pause 0.5
+ plot "FFT01511" with lines
+ pause 0.5
+ plot "FFT01512" with lines
+ pause 0.5
+ plot "FFT01513" with lines
+ pause 0.5
+ plot "FFT01514" with lines
+ pause 0.5
+ plot "FFT01515" with lines
+ pause 0.5
+ plot "FFT01516" with lines
+ pause 0.5
+ plot "FFT01517" with lines
+ pause 0.5
+ plot "FFT01518" with lines
+ pause 0.5
+ plot "FFT01519" with lines
+ pause 0.5
+ plot "FFT01520" with lines
+ pause 0.5
+ plot "FFT01521" with lines
+ pause 0.5
+ plot "FFT01522" with lines
+ pause 0.5
+ plot "FFT01523" with lines
+ pause 0.5
+ plot "FFT01524" with lines
+ pause 0.5
+ plot "FFT01525" with lines
+ pause 0.5
+ plot "FFT01526" with lines
+ pause 0.5
+ plot "FFT01527" with lines
+ pause 0.5
+ plot "FFT01528" with lines
+ pause 0.5
+ plot "FFT01529" with lines
+ pause 0.5
+ plot "FFT01530" with lines
+ pause 0.5
+ plot "FFT01531" with lines
+ pause 0.5
+ plot "FFT01532" with lines
+ pause 0.5
+ plot "FFT01533" with lines
+ pause 0.5
+ plot "FFT01534" with lines
+ pause 0.5
+ plot "FFT01535" with lines
+ pause 0.5
+ plot "FFT01536" with lines
+ pause 0.5
+ plot "FFT01537" with lines
+ pause 0.5
+ plot "FFT01538" with lines
+ pause 0.5
+ plot "FFT01539" with lines
+ pause 0.5
+ plot "FFT01540" with lines
+ pause 0.5
+ plot "FFT01541" with lines
+ pause 0.5
+ plot "FFT01542" with lines
+ pause 0.5
+ plot "FFT01543" with lines
+ pause 0.5
+ plot "FFT01544" with lines
+ pause 0.5
+ plot "FFT01545" with lines
+ pause 0.5
+ plot "FFT01546" with lines
+ pause 0.5
+ plot "FFT01547" with lines
+ pause 0.5
+ plot "FFT01548" with lines
+ pause 0.5
+ plot "FFT01549" with lines
+ pause 0.5
+ plot "FFT01550" with lines
+ pause 0.5
+ plot "FFT01551" with lines
+ pause 0.5
+ plot "FFT01552" with lines
+ pause 0.5
+ plot "FFT01553" with lines
+ pause 0.5
+ plot "FFT01554" with lines
+ pause 0.5
+ plot "FFT01555" with lines
+ pause 0.5
+ plot "FFT01556" with lines
+ pause 0.5
+ plot "FFT01557" with lines
+ pause 0.5
+ plot "FFT01558" with lines
+ pause 0.5
+ plot "FFT01559" with lines
+ pause 0.5
+ plot "FFT01560" with lines
+ pause 0.5
+ plot "FFT01561" with lines
+ pause 0.5
+ plot "FFT01562" with lines
+ pause 0.5
+ plot "FFT01563" with lines
+ pause 0.5
+ plot "FFT01564" with lines
+ pause 0.5
+ plot "FFT01565" with lines
+ pause 0.5
+ plot "FFT01566" with lines
+ pause 0.5
+ plot "FFT01567" with lines
+ pause 0.5
+ plot "FFT01568" with lines
+ pause 0.5
+ plot "FFT01569" with lines
+ pause 0.5
+ plot "FFT01570" with lines
+ pause 0.5
+ plot "FFT01571" with lines
+ pause 0.5
+ plot "FFT01572" with lines
+ pause 0.5
+ plot "FFT01573" with lines
+ pause 0.5
+ plot "FFT01574" with lines
+ pause 0.5
+ plot "FFT01575" with lines
+ pause 0.5
+ plot "FFT01576" with lines
+ pause 0.5
+ plot "FFT01577" with lines
+ pause 0.5
+ plot "FFT01578" with lines
+ pause 0.5
+ plot "FFT01579" with lines
+ pause 0.5
+ plot "FFT01580" with lines
+ pause 0.5
+ plot "FFT01581" with lines
+ pause 0.5
+ plot "FFT01582" with lines
+ pause 0.5
+ plot "FFT01583" with lines
+ pause 0.5
+ plot "FFT01584" with lines
+ pause 0.5
+ plot "FFT01585" with lines
+ pause 0.5
+ plot "FFT01586" with lines
+ pause 0.5
+ plot "FFT01587" with lines
+ pause 0.5
+ plot "FFT01588" with lines
+ pause 0.5
+ plot "FFT01589" with lines
+ pause 0.5
+ plot "FFT01590" with lines
+ pause 0.5
+ plot "FFT01591" with lines
+ pause 0.5
+ plot "FFT01592" with lines
+ pause 0.5
+ plot "FFT01593" with lines
+ pause 0.5
+ plot "FFT01594" with lines
+ pause 0.5
+ plot "FFT01595" with lines
+ pause 0.5
+ plot "FFT01596" with lines
+ pause 0.5
+ plot "FFT01597" with lines
+ pause 0.5
+ plot "FFT01598" with lines
+ pause 0.5
+ plot "FFT01599" with lines
+ pause 0.5
+ plot "FFT01600" with lines
+ pause 0.5
+ plot "FFT01601" with lines
+ pause 0.5
+ plot "FFT01602" with lines
+ pause 0.5
+ plot "FFT01603" with lines
+ pause 0.5
+ plot "FFT01604" with lines
+ pause 0.5
+ plot "FFT01605" with lines
+ pause 0.5
+ plot "FFT01606" with lines
+ pause 0.5
+ plot "FFT01607" with lines
+ pause 0.5
+ plot "FFT01608" with lines
+ pause 0.5
+ plot "FFT01609" with lines
+ pause 0.5
+ plot "FFT01610" with lines
+ pause 0.5
+ plot "FFT01611" with lines
+ pause 0.5
+ plot "FFT01612" with lines
+ pause 0.5
+ plot "FFT01613" with lines
+ pause 0.5
+ plot "FFT01614" with lines
+ pause 0.5
+ plot "FFT01615" with lines
+ pause 0.5
+ plot "FFT01616" with lines
+ pause 0.5
+ plot "FFT01617" with lines
+ pause 0.5
+ plot "FFT01618" with lines
+ pause 0.5
+ plot "FFT01619" with lines
+ pause 0.5
+ plot "FFT01620" with lines
+ pause 0.5
+ plot "FFT01621" with lines
+ pause 0.5
+ plot "FFT01622" with lines
+ pause 0.5
+ plot "FFT01623" with lines
+ pause 0.5
+ plot "FFT01624" with lines
+ pause 0.5
+ plot "FFT01625" with lines
+ pause 0.5
+ plot "FFT01626" with lines
+ pause 0.5
+ plot "FFT01627" with lines
+ pause 0.5
+ plot "FFT01628" with lines
+ pause 0.5
+ plot "FFT01629" with lines
+ pause 0.5
+ plot "FFT01630" with lines
+ pause 0.5
+ plot "FFT01631" with lines
+ pause 0.5
+ plot "FFT01632" with lines
+ pause 0.5
+ plot "FFT01633" with lines
+ pause 0.5
+ plot "FFT01634" with lines
+ pause 0.5
+ plot "FFT01635" with lines
+ pause 0.5
+ plot "FFT01636" with lines
+ pause 0.5
+ plot "FFT01637" with lines
+ pause 0.5
+ plot "FFT01638" with lines
+ pause 0.5
+ plot "FFT01639" with lines
+ pause 0.5
+ plot "FFT01640" with lines
+ pause 0.5
+ plot "FFT01641" with lines
+ pause 0.5
+ plot "FFT01642" with lines
+ pause 0.5
+ plot "FFT01643" with lines
+ pause 0.5
+ plot "FFT01644" with lines
+ pause 0.5
+ plot "FFT01645" with lines
+ pause 0.5
+ plot "FFT01646" with lines
+ pause 0.5
+ plot "FFT01647" with lines
+ pause 0.5
+ plot "FFT01648" with lines
+ pause 0.5
+ plot "FFT01649" with lines
+ pause 0.5
+ plot "FFT01650" with lines
+ pause 0.5
+ plot "FFT01651" with lines
+ pause 0.5
+ plot "FFT01652" with lines
+ pause 0.5
+ plot "FFT01653" with lines
+ pause 0.5
+ plot "FFT01654" with lines
+ pause 0.5
+ plot "FFT01655" with lines
+ pause 0.5
+ plot "FFT01656" with lines
+ pause 0.5
+ plot "FFT01657" with lines
+ pause 0.5
+ plot "FFT01658" with lines
+ pause 0.5
+ plot "FFT01659" with lines
+ pause 0.5
+ plot "FFT01660" with lines
+ pause 0.5
+ plot "FFT01661" with lines
+ pause 0.5
+ plot "FFT01662" with lines
+ pause 0.5
+ plot "FFT01663" with lines
+ pause 0.5
+ plot "FFT01664" with lines
+ pause 0.5
+ plot "FFT01665" with lines
+ pause 0.5
+ plot "FFT01666" with lines
+ pause 0.5
+ plot "FFT01667" with lines
+ pause 0.5
+ plot "FFT01668" with lines
+ pause 0.5
+ plot "FFT01669" with lines
+ pause 0.5
+ plot "FFT01670" with lines
+ pause 0.5
+ plot "FFT01671" with lines
+ pause 0.5
+ plot "FFT01672" with lines
+ pause 0.5
+ plot "FFT01673" with lines
+ pause 0.5
+ plot "FFT01674" with lines
+ pause 0.5
+ plot "FFT01675" with lines
+ pause 0.5
+ plot "FFT01676" with lines
+ pause 0.5
+ plot "FFT01677" with lines
+ pause 0.5
+ plot "FFT01678" with lines
+ pause 0.5
+ plot "FFT01679" with lines
+ pause 0.5
+ plot "FFT01680" with lines
+ pause 0.5
+ plot "FFT01681" with lines
+ pause 0.5
+ plot "FFT01682" with lines
+ pause 0.5
+ plot "FFT01683" with lines
+ pause 0.5
+ plot "FFT01684" with lines
+ pause 0.5
+ plot "FFT01685" with lines
+ pause 0.5
+ plot "FFT01686" with lines
+ pause 0.5
+ plot "FFT01687" with lines
+ pause 0.5
+ plot "FFT01688" with lines
+ pause 0.5
+ plot "FFT01689" with lines
+ pause 0.5
+ plot "FFT01690" with lines
+ pause 0.5
+ plot "FFT01691" with lines
+ pause 0.5
+ plot "FFT01692" with lines
+ pause 0.5
+ plot "FFT01693" with lines
+ pause 0.5
+ plot "FFT01694" with lines
+ pause 0.5
+ plot "FFT01695" with lines
+ pause 0.5
+ plot "FFT01696" with lines
+ pause 0.5
+ plot "FFT01697" with lines
+ pause 0.5
+ plot "FFT01698" with lines
+ pause 0.5
+ plot "FFT01699" with lines
+ pause 0.5
+ plot "FFT01700" with lines
+ pause 0.5
+ plot "FFT01701" with lines
+ pause 0.5
+ plot "FFT01702" with lines
+ pause 0.5
+ plot "FFT01703" with lines
+ pause 0.5
+ plot "FFT01704" with lines
+ pause 0.5
+ plot "FFT01705" with lines
+ pause 0.5
+ plot "FFT01706" with lines
+ pause 0.5
+ plot "FFT01707" with lines
+ pause 0.5
+ plot "FFT01708" with lines
+ pause 0.5
+ plot "FFT01709" with lines
+ pause 0.5
+ plot "FFT01710" with lines
+ pause 0.5
+ plot "FFT01711" with lines
+ pause 0.5
+ plot "FFT01712" with lines
+ pause 0.5
+ plot "FFT01713" with lines
+ pause 0.5
+ plot "FFT01714" with lines
+ pause 0.5
+ plot "FFT01715" with lines
+ pause 0.5
+ plot "FFT01716" with lines
+ pause 0.5
+ plot "FFT01717" with lines
+ pause 0.5
+ plot "FFT01718" with lines
+ pause 0.5
+ plot "FFT01719" with lines
+ pause 0.5
+ plot "FFT01720" with lines
+ pause 0.5
+ plot "FFT01721" with lines
+ pause 0.5
+ plot "FFT01722" with lines
+ pause 0.5
+ plot "FFT01723" with lines
+ pause 0.5
+ plot "FFT01724" with lines
+ pause 0.5
+ plot "FFT01725" with lines
+ pause 0.5
+ plot "FFT01726" with lines
+ pause 0.5
+ plot "FFT01727" with lines
+ pause 0.5
+ plot "FFT01728" with lines
+ pause 0.5
+ plot "FFT01729" with lines
+ pause 0.5
+ plot "FFT01730" with lines
+ pause 0.5
+ plot "FFT01731" with lines
+ pause 0.5
+ plot "FFT01732" with lines
+ pause 0.5
+ plot "FFT01733" with lines
+ pause 0.5
+ plot "FFT01734" with lines
+ pause 0.5
+ plot "FFT01735" with lines
+ pause 0.5
+ plot "FFT01736" with lines
+ pause 0.5
+ plot "FFT01737" with lines
+ pause 0.5
+ plot "FFT01738" with lines
+ pause 0.5
+ plot "FFT01739" with lines
+ pause 0.5
+ plot "FFT01740" with lines
+ pause 0.5
+ plot "FFT01741" with lines
+ pause 0.5
+ plot "FFT01742" with lines
+ pause 0.5
+ plot "FFT01743" with lines
+ pause 0.5
+ plot "FFT01744" with lines
+ pause 0.5
+ plot "FFT01745" with lines
+ pause 0.5
+ plot "FFT01746" with lines
+ pause 0.5
+ plot "FFT01747" with lines
+ pause 0.5
+ plot "FFT01748" with lines
+ pause 0.5
+ plot "FFT01749" with lines
+ pause 0.5
+ plot "FFT01750" with lines
+ pause 0.5
+ plot "FFT01751" with lines
+ pause 0.5
+ plot "FFT01752" with lines
+ pause 0.5
+ plot "FFT01753" with lines
+ pause 0.5
+ plot "FFT01754" with lines
+ pause 0.5
+ plot "FFT01755" with lines
+ pause 0.5
+ plot "FFT01756" with lines
+ pause 0.5
+ plot "FFT01757" with lines
+ pause 0.5
+ plot "FFT01758" with lines
+ pause 0.5
+ plot "FFT01759" with lines
+ pause 0.5
+ plot "FFT01760" with lines
+ pause 0.5
+ plot "FFT01761" with lines
+ pause 0.5
+ plot "FFT01762" with lines
+ pause 0.5
+ plot "FFT01763" with lines
+ pause 0.5
+ plot "FFT01764" with lines
+ pause 0.5
+ plot "FFT01765" with lines
+ pause 0.5
+ plot "FFT01766" with lines
+ pause 0.5
+ plot "FFT01767" with lines
+ pause 0.5
+ plot "FFT01768" with lines
+ pause 0.5
+ plot "FFT01769" with lines
+ pause 0.5
+ plot "FFT01770" with lines
+ pause 0.5
+ plot "FFT01771" with lines
+ pause 0.5
+ plot "FFT01772" with lines
+ pause 0.5
+ plot "FFT01773" with lines
+ pause 0.5
+ plot "FFT01774" with lines
+ pause 0.5
+ plot "FFT01775" with lines
+ pause 0.5
+ plot "FFT01776" with lines
+ pause 0.5
+ plot "FFT01777" with lines
+ pause 0.5
+ plot "FFT01778" with lines
+ pause 0.5
+ plot "FFT01779" with lines
+ pause 0.5
+ plot "FFT01780" with lines
+ pause 0.5
+ plot "FFT01781" with lines
+ pause 0.5
+ plot "FFT01782" with lines
+ pause 0.5
+ plot "FFT01783" with lines
+ pause 0.5
+ plot "FFT01784" with lines
+ pause 0.5
+ plot "FFT01785" with lines
+ pause 0.5
+ plot "FFT01786" with lines
+ pause 0.5
+ plot "FFT01787" with lines
+ pause 0.5
+ plot "FFT01788" with lines
+ pause 0.5
+ plot "FFT01789" with lines
+ pause 0.5
+ plot "FFT01790" with lines
+ pause 0.5
+ plot "FFT01791" with lines
+ pause 0.5
+ plot "FFT01792" with lines
+ pause 0.5
+ plot "FFT01793" with lines
+ pause 0.5
+ plot "FFT01794" with lines
+ pause 0.5
+ plot "FFT01795" with lines
+ pause 0.5
+ plot "FFT01796" with lines
+ pause 0.5
+ plot "FFT01797" with lines
+ pause 0.5
+ plot "FFT01798" with lines
+ pause 0.5
+ plot "FFT01799" with lines
+ pause 0.5
+ plot "FFT01800" with lines
+ pause 0.5
+ plot "FFT01801" with lines
+ pause 0.5
+ plot "FFT01802" with lines
+ pause 0.5
+ plot "FFT01803" with lines
+ pause 0.5
+ plot "FFT01804" with lines
+ pause 0.5
+ plot "FFT01805" with lines
+ pause 0.5
+ plot "FFT01806" with lines
+ pause 0.5
+ plot "FFT01807" with lines
+ pause 0.5
+ plot "FFT01808" with lines
+ pause 0.5
+ plot "FFT01809" with lines
+ pause 0.5
+ plot "FFT01810" with lines
+ pause 0.5
+ plot "FFT01811" with lines
+ pause 0.5
+ plot "FFT01812" with lines
+ pause 0.5
+ plot "FFT01813" with lines
+ pause 0.5
+ plot "FFT01814" with lines
+ pause 0.5
+ plot "FFT01815" with lines
+ pause 0.5
+ plot "FFT01816" with lines
+ pause 0.5
+ plot "FFT01817" with lines
+ pause 0.5
+ plot "FFT01818" with lines
+ pause 0.5
+ plot "FFT01819" with lines
+ pause 0.5
+ plot "FFT01820" with lines
+ pause 0.5
+ plot "FFT01821" with lines
+ pause 0.5
+ plot "FFT01822" with lines
+ pause 0.5
+ plot "FFT01823" with lines
+ pause 0.5
+ plot "FFT01824" with lines
+ pause 0.5
+ plot "FFT01825" with lines
+ pause 0.5
+ plot "FFT01826" with lines
+ pause 0.5
+ plot "FFT01827" with lines
+ pause 0.5
+ plot "FFT01828" with lines
+ pause 0.5
+ plot "FFT01829" with lines
+ pause 0.5
+ plot "FFT01830" with lines
+ pause 0.5
+ plot "FFT01831" with lines
+ pause 0.5
+ plot "FFT01832" with lines
+ pause 0.5
+ plot "FFT01833" with lines
+ pause 0.5
+ plot "FFT01834" with lines
+ pause 0.5
+ plot "FFT01835" with lines
+ pause 0.5
+ plot "FFT01836" with lines
+ pause 0.5
+ plot "FFT01837" with lines
+ pause 0.5
+ plot "FFT01838" with lines
+ pause 0.5
+ plot "FFT01839" with lines
+ pause 0.5
+ plot "FFT01840" with lines
+ pause 0.5
+ plot "FFT01841" with lines
+ pause 0.5
+ plot "FFT01842" with lines
+ pause 0.5
+ plot "FFT01843" with lines
+ pause 0.5
+ plot "FFT01844" with lines
+ pause 0.5
+ plot "FFT01845" with lines
+ pause 0.5
+ plot "FFT01846" with lines
+ pause 0.5
+ plot "FFT01847" with lines
+ pause 0.5
+ plot "FFT01848" with lines
+ pause 0.5
+ plot "FFT01849" with lines
+ pause 0.5
+ plot "FFT01850" with lines
+ pause 0.5
+ plot "FFT01851" with lines
+ pause 0.5
+ plot "FFT01852" with lines
+ pause 0.5
+ plot "FFT01853" with lines
+ pause 0.5
+ plot "FFT01854" with lines
+ pause 0.5
+ plot "FFT01855" with lines
+ pause 0.5
+ plot "FFT01856" with lines
+ pause 0.5
+ plot "FFT01857" with lines
+ pause 0.5
+ plot "FFT01858" with lines
+ pause 0.5
+ plot "FFT01859" with lines
+ pause 0.5
+ plot "FFT01860" with lines
+ pause 0.5
+ plot "FFT01861" with lines
+ pause 0.5
+ plot "FFT01862" with lines
+ pause 0.5
+ plot "FFT01863" with lines
+ pause 0.5
+ plot "FFT01864" with lines
+ pause 0.5
+ plot "FFT01865" with lines
+ pause 0.5
+ plot "FFT01866" with lines
+ pause 0.5
+ plot "FFT01867" with lines
+ pause 0.5
+ plot "FFT01868" with lines
+ pause 0.5
+ plot "FFT01869" with lines
+ pause 0.5
+ plot "FFT01870" with lines
+ pause 0.5
+ plot "FFT01871" with lines
+ pause 0.5
+ plot "FFT01872" with lines
+ pause 0.5
+ plot "FFT01873" with lines
+ pause 0.5
+ plot "FFT01874" with lines
+ pause 0.5
+ plot "FFT01875" with lines
+ pause 0.5
+ plot "FFT01876" with lines
+ pause 0.5
+ plot "FFT01877" with lines
+ pause 0.5
+ plot "FFT01878" with lines
+ pause 0.5
+ plot "FFT01879" with lines
+ pause 0.5
+ plot "FFT01880" with lines
+ pause 0.5
+ plot "FFT01881" with lines
+ pause 0.5
+ plot "FFT01882" with lines
+ pause 0.5
+ plot "FFT01883" with lines
+ pause 0.5
+ plot "FFT01884" with lines
+ pause 0.5
+ plot "FFT01885" with lines
+ pause 0.5
+ plot "FFT01886" with lines
+ pause 0.5
+ plot "FFT01887" with lines
+ pause 0.5
+ plot "FFT01888" with lines
+ pause 0.5
+ plot "FFT01889" with lines
+ pause 0.5
+ plot "FFT01890" with lines
+ pause 0.5
+ plot "FFT01891" with lines
+ pause 0.5
+ plot "FFT01892" with lines
+ pause 0.5
+ plot "FFT01893" with lines
+ pause 0.5
+ plot "FFT01894" with lines
+ pause 0.5
+ plot "FFT01895" with lines
+ pause 0.5
+ plot "FFT01896" with lines
+ pause 0.5
+ plot "FFT01897" with lines
+ pause 0.5
+ plot "FFT01898" with lines
+ pause 0.5
+ plot "FFT01899" with lines
+ pause 0.5
+ plot "FFT01900" with lines
+ pause 0.5
+ plot "FFT01901" with lines
+ pause 0.5
+ plot "FFT01902" with lines
+ pause 0.5
+ plot "FFT01903" with lines
+ pause 0.5
+ plot "FFT01904" with lines
+ pause 0.5
+ plot "FFT01905" with lines
+ pause 0.5
+ plot "FFT01906" with lines
+ pause 0.5
+ plot "FFT01907" with lines
+ pause 0.5
+ plot "FFT01908" with lines
+ pause 0.5
+ plot "FFT01909" with lines
+ pause 0.5
+ plot "FFT01910" with lines
+ pause 0.5
+ plot "FFT01911" with lines
+ pause 0.5
+ plot "FFT01912" with lines
+ pause 0.5
+ plot "FFT01913" with lines
+ pause 0.5
+ plot "FFT01914" with lines
+ pause 0.5
+ plot "FFT01915" with lines
+ pause 0.5
+ plot "FFT01916" with lines
+ pause 0.5
+ plot "FFT01917" with lines
+ pause 0.5
+ plot "FFT01918" with lines
+ pause 0.5
+ plot "FFT01919" with lines
+ pause 0.5
+ plot "FFT01920" with lines
+ pause 0.5
+ plot "FFT01921" with lines
+ pause 0.5
+ plot "FFT01922" with lines
+ pause 0.5
+ plot "FFT01923" with lines
+ pause 0.5
+ plot "FFT01924" with lines
+ pause 0.5
+ plot "FFT01925" with lines
+ pause 0.5
+ plot "FFT01926" with lines
+ pause 0.5
+ plot "FFT01927" with lines
+ pause 0.5
+ plot "FFT01928" with lines
+ pause 0.5
+ plot "FFT01929" with lines
+ pause 0.5
+ plot "FFT01930" with lines
+ pause 0.5
+ plot "FFT01931" with lines
+ pause 0.5
+ plot "FFT01932" with lines
+ pause 0.5
+ plot "FFT01933" with lines
+ pause 0.5
+ plot "FFT01934" with lines
+ pause 0.5
+ plot "FFT01935" with lines
+ pause 0.5
+ plot "FFT01936" with lines
+ pause 0.5
+ plot "FFT01937" with lines
+ pause 0.5
+ plot "FFT01938" with lines
+ pause 0.5
+ plot "FFT01939" with lines
+ pause 0.5
+ plot "FFT01940" with lines
+ pause 0.5
+ plot "FFT01941" with lines
+ pause 0.5
+ plot "FFT01942" with lines
+ pause 0.5
+ plot "FFT01943" with lines
+ pause 0.5
+ plot "FFT01944" with lines
+ pause 0.5
+ plot "FFT01945" with lines
+ pause 0.5
+ plot "FFT01946" with lines
+ pause 0.5
+ plot "FFT01947" with lines
+ pause 0.5
+ plot "FFT01948" with lines
+ pause 0.5
+ plot "FFT01949" with lines
+ pause 0.5
+ plot "FFT01950" with lines
+ pause 0.5
+ plot "FFT01951" with lines
+ pause 0.5
+ plot "FFT01952" with lines
+ pause 0.5
+ plot "FFT01953" with lines
+ pause 0.5
+ plot "FFT01954" with lines
+ pause 0.5
+ plot "FFT01955" with lines
+ pause 0.5
+ plot "FFT01956" with lines
+ pause 0.5
+ plot "FFT01957" with lines
+ pause 0.5
+ plot "FFT01958" with lines
+ pause 0.5
+ plot "FFT01959" with lines
+ pause 0.5
+ plot "FFT01960" with lines
+ pause 0.5
+ plot "FFT01961" with lines
+ pause 0.5
+ plot "FFT01962" with lines
+ pause 0.5
+ plot "FFT01963" with lines
+ pause 0.5
+ plot "FFT01964" with lines
+ pause 0.5
+ plot "FFT01965" with lines
+ pause 0.5
+ plot "FFT01966" with lines
+ pause 0.5
+ plot "FFT01967" with lines
+ pause 0.5
+ plot "FFT01968" with lines
+ pause 0.5
+ plot "FFT01969" with lines
+ pause 0.5
+ plot "FFT01970" with lines
+ pause 0.5
+ plot "FFT01971" with lines
+ pause 0.5
+ plot "FFT01972" with lines
+ pause 0.5
+ plot "FFT01973" with lines
+ pause 0.5
+ plot "FFT01974" with lines
+ pause 0.5
+ plot "FFT01975" with lines
+ pause 0.5
+ plot "FFT01976" with lines
+ pause 0.5
+ plot "FFT01977" with lines
+ pause 0.5
+ plot "FFT01978" with lines
+ pause 0.5
+ plot "FFT01979" with lines
+ pause 0.5
+ plot "FFT01980" with lines
+ pause 0.5
+ plot "FFT01981" with lines
+ pause 0.5
+ plot "FFT01982" with lines
+ pause 0.5
+ plot "FFT01983" with lines
+ pause 0.5
+ plot "FFT01984" with lines
+ pause 0.5
+ plot "FFT01985" with lines
+ pause 0.5
+ plot "FFT01986" with lines
+ pause 0.5
+ plot "FFT01987" with lines
+ pause 0.5
+ plot "FFT01988" with lines
+ pause 0.5
+ plot "FFT01989" with lines
+ pause 0.5
+ plot "FFT01990" with lines
+ pause 0.5
+ plot "FFT01991" with lines
+ pause 0.5
+ plot "FFT01992" with lines
+ pause 0.5
+ plot "FFT01993" with lines
+ pause 0.5
+ plot "FFT01994" with lines
+ pause 0.5
+ plot "FFT01995" with lines
+ pause 0.5
+ plot "FFT01996" with lines
+ pause 0.5
+ plot "FFT01997" with lines
+ pause 0.5
+ plot "FFT01998" with lines
+ pause 0.5
+ plot "FFT01999" with lines
+ pause 0.5
+ plot "FFT02000" with lines
+ pause 0.5
+ plot "FFT02001" with lines
+ pause 0.5
+ plot "FFT02002" with lines
+ pause 0.5
+ plot "FFT02003" with lines
+ pause 0.5
+ plot "FFT02004" with lines
+ pause 0.5
+ plot "FFT02005" with lines
+ pause 0.5
+ plot "FFT02006" with lines
+ pause 0.5
+ plot "FFT02007" with lines
+ pause 0.5
+ plot "FFT02008" with lines
+ pause 0.5
+ plot "FFT02009" with lines
+ pause 0.5
+ plot "FFT02010" with lines
+ pause 0.5
+ plot "FFT02011" with lines
+ pause 0.5
+ plot "FFT02012" with lines
+ pause 0.5
+ plot "FFT02013" with lines
+ pause 0.5
+ plot "FFT02014" with lines
+ pause 0.5
+ plot "FFT02015" with lines
+ pause 0.5
+ plot "FFT02016" with lines
+ pause 0.5
+ plot "FFT02017" with lines
+ pause 0.5
+ plot "FFT02018" with lines
+ pause 0.5
+ plot "FFT02019" with lines
+ pause 0.5
+ plot "FFT02020" with lines
+ pause 0.5
+ plot "FFT02021" with lines
+ pause 0.5
+ plot "FFT02022" with lines
+ pause 0.5
+ plot "FFT02023" with lines
+ pause 0.5
+ plot "FFT02024" with lines
+ pause 0.5
+ plot "FFT02025" with lines
+ pause 0.5
+ plot "FFT02026" with lines
+ pause 0.5
+ plot "FFT02027" with lines
+ pause 0.5
+ plot "FFT02028" with lines
+ pause 0.5
+ plot "FFT02029" with lines
+ pause 0.5
+ plot "FFT02030" with lines
+ pause 0.5
+ plot "FFT02031" with lines
+ pause 0.5
+ plot "FFT02032" with lines
+ pause 0.5
+ plot "FFT02033" with lines
+ pause 0.5
+ plot "FFT02034" with lines
+ pause 0.5
+ plot "FFT02035" with lines
+ pause 0.5
+ plot "FFT02036" with lines
+ pause 0.5
+ plot "FFT02037" with lines
+ pause 0.5
+ plot "FFT02038" with lines
+ pause 0.5
+ plot "FFT02039" with lines
+ pause 0.5
+ plot "FFT02040" with lines
+ pause 0.5
+ plot "FFT02041" with lines
+ pause 0.5
+ plot "FFT02042" with lines
+ pause 0.5
+ plot "FFT02043" with lines
+ pause 0.5
+ plot "FFT02044" with lines
+ pause 0.5
+ plot "FFT02045" with lines
+ pause 0.5
+ plot "FFT02046" with lines
+ pause 0.5
+ plot "FFT02047" with lines
+ pause 0.5
+ plot "FFT02048" with lines
+ pause 0.5
+ plot "FFT02049" with lines
+ pause 0.5
+ plot "FFT02050" with lines
+ pause 0.5
+ plot "FFT02051" with lines
+ pause 0.5
+ plot "FFT02052" with lines
+ pause 0.5
+ plot "FFT02053" with lines
+ pause 0.5
+ plot "FFT02054" with lines
+ pause 0.5
+ plot "FFT02055" with lines
+ pause 0.5
+ plot "FFT02056" with lines
+ pause 0.5
+ plot "FFT02057" with lines
+ pause 0.5
+ plot "FFT02058" with lines
+ pause 0.5
+ plot "FFT02059" with lines
+ pause 0.5
+ plot "FFT02060" with lines
+ pause 0.5
+ plot "FFT02061" with lines
+ pause 0.5
+ plot "FFT02062" with lines
+ pause 0.5
+ plot "FFT02063" with lines
+ pause 0.5
+ plot "FFT02064" with lines
+ pause 0.5
+ plot "FFT02065" with lines
+ pause 0.5
+ plot "FFT02066" with lines
+ pause 0.5
+ plot "FFT02067" with lines
+ pause 0.5
+ plot "FFT02068" with lines
+ pause 0.5
+ plot "FFT02069" with lines
+ pause 0.5
+ plot "FFT02070" with lines
+ pause 0.5
+ plot "FFT02071" with lines
+ pause 0.5
+ plot "FFT02072" with lines
+ pause 0.5
+ plot "FFT02073" with lines
+ pause 0.5
+ plot "FFT02074" with lines
+ pause 0.5
+ plot "FFT02075" with lines
+ pause 0.5
+ plot "FFT02076" with lines
+ pause 0.5
+ plot "FFT02077" with lines
+ pause 0.5
+ plot "FFT02078" with lines
+ pause 0.5
+ plot "FFT02079" with lines
+ pause 0.5
+ plot "FFT02080" with lines
+ pause 0.5
+ plot "FFT02081" with lines
+ pause 0.5
+ plot "FFT02082" with lines
+ pause 0.5
+ plot "FFT02083" with lines
+ pause 0.5
+ plot "FFT02084" with lines
+ pause 0.5
+ plot "FFT02085" with lines
+ pause 0.5
+ plot "FFT02086" with lines
+ pause 0.5
+ plot "FFT02087" with lines
+ pause 0.5
+ plot "FFT02088" with lines
+ pause 0.5
+ plot "FFT02089" with lines
+ pause 0.5
+ plot "FFT02090" with lines
+ pause 0.5
+ plot "FFT02091" with lines
+ pause 0.5
+ plot "FFT02092" with lines
+ pause 0.5
+ plot "FFT02093" with lines
+ pause 0.5
+ plot "FFT02094" with lines
+ pause 0.5
+ plot "FFT02095" with lines
+ pause 0.5
+ plot "FFT02096" with lines
+ pause 0.5
+ plot "FFT02097" with lines
+ pause 0.5
+ plot "FFT02098" with lines
+ pause 0.5
+ plot "FFT02099" with lines
+ pause 0.5
+ plot "FFT02100" with lines
+ pause 0.5
+ plot "FFT02101" with lines
+ pause 0.5
+ plot "FFT02102" with lines
+ pause 0.5
+ plot "FFT02103" with lines
+ pause 0.5
+ plot "FFT02104" with lines
+ pause 0.5
+ plot "FFT02105" with lines
+ pause 0.5
+ plot "FFT02106" with lines
+ pause 0.5
+ plot "FFT02107" with lines
+ pause 0.5
+ plot "FFT02108" with lines
+ pause 0.5
+ plot "FFT02109" with lines
+ pause 0.5
+ plot "FFT02110" with lines
+ pause 0.5
+ plot "FFT02111" with lines
+ pause 0.5
+ plot "FFT02112" with lines
+ pause 0.5
+ plot "FFT02113" with lines
+ pause 0.5
+ plot "FFT02114" with lines
+ pause 0.5
+ plot "FFT02115" with lines
+ pause 0.5
+ plot "FFT02116" with lines
+ pause 0.5
+ plot "FFT02117" with lines
+ pause 0.5
+ plot "FFT02118" with lines
+ pause 0.5
+ plot "FFT02119" with lines
+ pause 0.5
+ plot "FFT02120" with lines
+ pause 0.5
+ plot "FFT02121" with lines
+ pause 0.5
+ plot "FFT02122" with lines
+ pause 0.5
+ plot "FFT02123" with lines
+ pause 0.5
+ plot "FFT02124" with lines
+ pause 0.5
+ plot "FFT02125" with lines
+ pause 0.5
+ plot "FFT02126" with lines
+ pause 0.5
+ plot "FFT02127" with lines
+ pause 0.5
+ plot "FFT02128" with lines
+ pause 0.5
+ plot "FFT02129" with lines
+ pause 0.5
+ plot "FFT02130" with lines
+ pause 0.5
+ plot "FFT02131" with lines
+ pause 0.5
+ plot "FFT02132" with lines
+ pause 0.5
+ plot "FFT02133" with lines
+ pause 0.5
+ plot "FFT02134" with lines
+ pause 0.5
+ plot "FFT02135" with lines
+ pause 0.5
+ plot "FFT02136" with lines
+ pause 0.5
+ plot "FFT02137" with lines
+ pause 0.5
+ plot "FFT02138" with lines
+ pause 0.5
+ plot "FFT02139" with lines
+ pause 0.5
+ plot "FFT02140" with lines
+ pause 0.5
+ plot "FFT02141" with lines
+ pause 0.5
+ plot "FFT02142" with lines
+ pause 0.5
+ plot "FFT02143" with lines
+ pause 0.5
+ plot "FFT02144" with lines
+ pause 0.5
+ plot "FFT02145" with lines
+ pause 0.5
+ plot "FFT02146" with lines
+ pause 0.5
+ plot "FFT02147" with lines
+ pause 0.5
+ plot "FFT02148" with lines
+ pause 0.5
+ plot "FFT02149" with lines
+ pause 0.5
+ plot "FFT02150" with lines
+ pause 0.5
+ plot "FFT02151" with lines
+ pause 0.5
+ plot "FFT02152" with lines
+ pause 0.5
+ plot "FFT02153" with lines
+ pause 0.5
+ plot "FFT02154" with lines
+ pause 0.5
+ plot "FFT02155" with lines
+ pause 0.5
+ plot "FFT02156" with lines
+ pause 0.5
+ plot "FFT02157" with lines
+ pause 0.5
+ plot "FFT02158" with lines
+ pause 0.5
+ plot "FFT02159" with lines
+ pause 0.5
+ plot "FFT02160" with lines
+ pause 0.5
+ plot "FFT02161" with lines
+ pause 0.5
+ plot "FFT02162" with lines
+ pause 0.5
+ plot "FFT02163" with lines
+ pause 0.5
+ plot "FFT02164" with lines
+ pause 0.5
+ plot "FFT02165" with lines
+ pause 0.5
+ plot "FFT02166" with lines
+ pause 0.5
+ plot "FFT02167" with lines
+ pause 0.5
+ plot "FFT02168" with lines
+ pause 0.5
+ plot "FFT02169" with lines
+ pause 0.5
+ plot "FFT02170" with lines
+ pause 0.5
+ plot "FFT02171" with lines
+ pause 0.5
+ plot "FFT02172" with lines
+ pause 0.5
+ plot "FFT02173" with lines
+ pause 0.5
+ plot "FFT02174" with lines
+ pause 0.5
+ plot "FFT02175" with lines
+ pause 0.5
+ plot "FFT02176" with lines
+ pause 0.5
+ plot "FFT02177" with lines
+ pause 0.5
+ plot "FFT02178" with lines
+ pause 0.5
+ plot "FFT02179" with lines
+ pause 0.5
+ plot "FFT02180" with lines
+ pause 0.5
+ plot "FFT02181" with lines
+ pause 0.5
+ plot "FFT02182" with lines
+ pause 0.5
+ plot "FFT02183" with lines
+ pause 0.5
+ plot "FFT02184" with lines
+ pause 0.5
+ plot "FFT02185" with lines
+ pause 0.5
+ plot "FFT02186" with lines
+ pause 0.5
+ plot "FFT02187" with lines
+ pause 0.5
+ plot "FFT02188" with lines
+ pause 0.5
+ plot "FFT02189" with lines
+ pause 0.5
+ plot "FFT02190" with lines
+ pause 0.5
+ plot "FFT02191" with lines
+ pause 0.5
+ plot "FFT02192" with lines
+ pause 0.5
+ plot "FFT02193" with lines
+ pause 0.5
+ plot "FFT02194" with lines
+ pause 0.5
+ plot "FFT02195" with lines
+ pause 0.5
+ plot "FFT02196" with lines
+ pause 0.5
+ plot "FFT02197" with lines
+ pause 0.5
+ plot "FFT02198" with lines
+ pause 0.5
+ plot "FFT02199" with lines
+ pause 0.5
+ plot "FFT02200" with lines
+ pause 0.5
+ plot "FFT02201" with lines
+ pause 0.5
+ plot "FFT02202" with lines
+ pause 0.5
+ plot "FFT02203" with lines
+ pause 0.5
+ plot "FFT02204" with lines
+ pause 0.5
+ plot "FFT02205" with lines
+ pause 0.5
+ plot "FFT02206" with lines
+ pause 0.5
+ plot "FFT02207" with lines
+ pause 0.5
+ plot "FFT02208" with lines
+ pause 0.5
+ plot "FFT02209" with lines
+ pause 0.5
+ plot "FFT02210" with lines
+ pause 0.5
+ plot "FFT02211" with lines
+ pause 0.5
+ plot "FFT02212" with lines
+ pause 0.5
+ plot "FFT02213" with lines
+ pause 0.5
+ plot "FFT02214" with lines
+ pause 0.5
+ plot "FFT02215" with lines
+ pause 0.5
+ plot "FFT02216" with lines
+ pause 0.5
+ plot "FFT02217" with lines
+ pause 0.5
+ plot "FFT02218" with lines
+ pause 0.5
+ plot "FFT02219" with lines
+ pause 0.5
+ plot "FFT02220" with lines
+ pause 0.5
+ plot "FFT02221" with lines
+ pause 0.5
+ plot "FFT02222" with lines
+ pause 0.5
+ plot "FFT02223" with lines
+ pause 0.5
+ plot "FFT02224" with lines
+ pause 0.5
+ plot "FFT02225" with lines
+ pause 0.5
+ plot "FFT02226" with lines
+ pause 0.5
+ plot "FFT02227" with lines
+ pause 0.5
+ plot "FFT02228" with lines
+ pause 0.5
+ plot "FFT02229" with lines
+ pause 0.5
+ plot "FFT02230" with lines
+ pause 0.5
+ plot "FFT02231" with lines
+ pause 0.5
+ plot "FFT02232" with lines
+ pause 0.5
+ plot "FFT02233" with lines
+ pause 0.5
+ plot "FFT02234" with lines
+ pause 0.5
+ plot "FFT02235" with lines
+ pause 0.5
+ plot "FFT02236" with lines
+ pause 0.5
+ plot "FFT02237" with lines
+ pause 0.5
+ plot "FFT02238" with lines
+ pause 0.5
+ plot "FFT02239" with lines
+ pause 0.5
+ plot "FFT02240" with lines
+ pause 0.5
+ plot "FFT02241" with lines
+ pause 0.5
+ plot "FFT02242" with lines
+ pause 0.5
+ plot "FFT02243" with lines
+ pause 0.5
+ plot "FFT02244" with lines
+ pause 0.5
+ plot "FFT02245" with lines
+ pause 0.5
+ plot "FFT02246" with lines
+ pause 0.5
+ plot "FFT02247" with lines
+ pause 0.5
+ plot "FFT02248" with lines
+ pause 0.5
+ plot "FFT02249" with lines
+ pause 0.5
+ plot "FFT02250" with lines
+ pause 0.5
+ plot "FFT02251" with lines
+ pause 0.5
+ plot "FFT02252" with lines
+ pause 0.5
+ plot "FFT02253" with lines
+ pause 0.5
+ plot "FFT02254" with lines
+ pause 0.5
+ plot "FFT02255" with lines
+ pause 0.5
+ plot "FFT02256" with lines
+ pause 0.5
+ plot "FFT02257" with lines
+ pause 0.5
+ plot "FFT02258" with lines
+ pause 0.5
+ plot "FFT02259" with lines
+ pause 0.5
+ plot "FFT02260" with lines
+ pause 0.5
+ plot "FFT02261" with lines
+ pause 0.5
+ plot "FFT02262" with lines
+ pause 0.5
+ plot "FFT02263" with lines
+ pause 0.5
+ plot "FFT02264" with lines
+ pause 0.5
+ plot "FFT02265" with lines
+ pause 0.5
+ plot "FFT02266" with lines
+ pause 0.5
+ plot "FFT02267" with lines
+ pause 0.5
+ plot "FFT02268" with lines
+ pause 0.5
+ plot "FFT02269" with lines
+ pause 0.5
+ plot "FFT02270" with lines
+ pause 0.5
+ plot "FFT02271" with lines
+ pause 0.5
+ plot "FFT02272" with lines
+ pause 0.5
+ plot "FFT02273" with lines
+ pause 0.5
+ plot "FFT02274" with lines
+ pause 0.5
+ plot "FFT02275" with lines
+ pause 0.5
+ plot "FFT02276" with lines
+ pause 0.5
+ plot "FFT02277" with lines
+ pause 0.5
+ plot "FFT02278" with lines
+ pause 0.5
+ plot "FFT02279" with lines
+ pause 0.5
+ plot "FFT02280" with lines
+ pause 0.5
+ plot "FFT02281" with lines
+ pause 0.5
+ plot "FFT02282" with lines
+ pause 0.5
+ plot "FFT02283" with lines
+ pause 0.5
+ plot "FFT02284" with lines
+ pause 0.5
+ plot "FFT02285" with lines
+ pause 0.5
+ plot "FFT02286" with lines
+ pause 0.5
+ plot "FFT02287" with lines
+ pause 0.5
+ plot "FFT02288" with lines
+ pause 0.5
+ plot "FFT02289" with lines
+ pause 0.5
+ plot "FFT02290" with lines
+ pause 0.5
+ plot "FFT02291" with lines
+ pause 0.5
+ plot "FFT02292" with lines
+ pause 0.5
+ plot "FFT02293" with lines
+ pause 0.5
+ plot "FFT02294" with lines
+ pause 0.5
+ plot "FFT02295" with lines
+ pause 0.5
+ plot "FFT02296" with lines
+ pause 0.5
+ plot "FFT02297" with lines
+ pause 0.5
+ plot "FFT02298" with lines
+ pause 0.5
+ plot "FFT02299" with lines
+ pause 0.5
+ plot "FFT02300" with lines
+ pause 0.5
+ plot "FFT02301" with lines
+ pause 0.5
+ plot "FFT02302" with lines
+ pause 0.5
+ plot "FFT02303" with lines
+ pause 0.5
+ plot "FFT02304" with lines
+ pause 0.5
+ plot "FFT02305" with lines
+ pause 0.5
+ plot "FFT02306" with lines
+ pause 0.5
+ plot "FFT02307" with lines
+ pause 0.5
+ plot "FFT02308" with lines
+ pause 0.5
+ plot "FFT02309" with lines
+ pause 0.5
+ plot "FFT02310" with lines
+ pause 0.5
+ plot "FFT02311" with lines
+ pause 0.5
+ plot "FFT02312" with lines
+ pause 0.5
+ plot "FFT02313" with lines
+ pause 0.5
+ plot "FFT02314" with lines
+ pause 0.5
+ plot "FFT02315" with lines
+ pause 0.5
+ plot "FFT02316" with lines
+ pause 0.5
+ plot "FFT02317" with lines
+ pause 0.5
+ plot "FFT02318" with lines
+ pause 0.5
+ plot "FFT02319" with lines
+ pause 0.5
+ plot "FFT02320" with lines
+ pause 0.5
+ plot "FFT02321" with lines
+ pause 0.5
+ plot "FFT02322" with lines
+ pause 0.5
+ plot "FFT02323" with lines
+ pause 0.5
+ plot "FFT02324" with lines
+ pause 0.5
+ plot "FFT02325" with lines
+ pause 0.5
+ plot "FFT02326" with lines
+ pause 0.5
+ plot "FFT02327" with lines
+ pause 0.5
+ plot "FFT02328" with lines
+ pause 0.5
+ plot "FFT02329" with lines
+ pause 0.5
+ plot "FFT02330" with lines
+ pause 0.5
+ plot "FFT02331" with lines
+ pause 0.5
+ plot "FFT02332" with lines
+ pause 0.5
+ plot "FFT02333" with lines
+ pause 0.5
+ plot "FFT02334" with lines
+ pause 0.5
+ plot "FFT02335" with lines
+ pause 0.5
+ plot "FFT02336" with lines
+ pause 0.5
+ plot "FFT02337" with lines
+ pause 0.5
+ plot "FFT02338" with lines
+ pause 0.5
+ plot "FFT02339" with lines
+ pause 0.5
+ plot "FFT02340" with lines
+ pause 0.5
+ plot "FFT02341" with lines
+ pause 0.5
+ plot "FFT02342" with lines
+ pause 0.5
+ plot "FFT02343" with lines
+ pause 0.5
+ plot "FFT02344" with lines
+ pause 0.5
+ plot "FFT02345" with lines
+ pause 0.5
+ plot "FFT02346" with lines
+ pause 0.5
+ plot "FFT02347" with lines
+ pause 0.5
+ plot "FFT02348" with lines
+ pause 0.5
+ plot "FFT02349" with lines
+ pause 0.5
+ plot "FFT02350" with lines
+ pause 0.5
+ plot "FFT02351" with lines
+ pause 0.5
+ plot "FFT02352" with lines
+ pause 0.5
+ plot "FFT02353" with lines
+ pause 0.5
+ plot "FFT02354" with lines
+ pause 0.5
+ plot "FFT02355" with lines
+ pause 0.5
+ plot "FFT02356" with lines
+ pause 0.5
+ plot "FFT02357" with lines
+ pause 0.5
+ plot "FFT02358" with lines
+ pause 0.5
+ plot "FFT02359" with lines
+ pause 0.5
+ plot "FFT02360" with lines
+ pause 0.5
+ plot "FFT02361" with lines
+ pause 0.5
+ plot "FFT02362" with lines
+ pause 0.5
+ plot "FFT02363" with lines
+ pause 0.5
+ plot "FFT02364" with lines
+ pause 0.5
+ plot "FFT02365" with lines
+ pause 0.5
+ plot "FFT02366" with lines
+ pause 0.5
+ plot "FFT02367" with lines
+ pause 0.5
+ plot "FFT02368" with lines
+ pause 0.5
+ plot "FFT02369" with lines
+ pause 0.5
+ plot "FFT02370" with lines
+ pause 0.5
+ plot "FFT02371" with lines
+ pause 0.5
+ plot "FFT02372" with lines
+ pause 0.5
+ plot "FFT02373" with lines
+ pause 0.5
+ plot "FFT02374" with lines
+ pause 0.5
+ plot "FFT02375" with lines
+ pause 0.5
+ plot "FFT02376" with lines
+ pause 0.5
+ plot "FFT02377" with lines
+ pause 0.5
+ plot "FFT02378" with lines
+ pause 0.5
+ plot "FFT02379" with lines
+ pause 0.5
+ plot "FFT02380" with lines
+ pause 0.5
+ plot "FFT02381" with lines
+ pause 0.5
+ plot "FFT02382" with lines
+ pause 0.5
+ plot "FFT02383" with lines
+ pause 0.5
+ plot "FFT02384" with lines
+ pause 0.5
+ plot "FFT02385" with lines
+ pause 0.5
+ plot "FFT02386" with lines
+ pause 0.5
+ plot "FFT02387" with lines
+ pause 0.5
+ plot "FFT02388" with lines
+ pause 0.5
+ plot "FFT02389" with lines
+ pause 0.5
+ plot "FFT02390" with lines
+ pause 0.5
+ plot "FFT02391" with lines
+ pause 0.5
+ plot "FFT02392" with lines
+ pause 0.5
+ plot "FFT02393" with lines
+ pause 0.5
+ plot "FFT02394" with lines
+ pause 0.5
+ plot "FFT02395" with lines
+ pause 0.5
+ plot "FFT02396" with lines
+ pause 0.5
+ plot "FFT02397" with lines
+ pause 0.5
+ plot "FFT02398" with lines
+ pause 0.5
+ plot "FFT02399" with lines
+ pause 0.5
+ plot "FFT02400" with lines
+ pause 0.5
+ plot "FFT02401" with lines
+ pause 0.5
+ plot "FFT02402" with lines
+ pause 0.5
+ plot "FFT02403" with lines
+ pause 0.5
+ plot "FFT02404" with lines
+ pause 0.5
+ plot "FFT02405" with lines
+ pause 0.5
+ plot "FFT02406" with lines
+ pause 0.5
+ plot "FFT02407" with lines
+ pause 0.5
+ plot "FFT02408" with lines
+ pause 0.5
+ plot "FFT02409" with lines
+ pause 0.5
+ plot "FFT02410" with lines
+ pause 0.5
+ plot "FFT02411" with lines
+ pause 0.5
+ plot "FFT02412" with lines
+ pause 0.5
+ plot "FFT02413" with lines
+ pause 0.5
+ plot "FFT02414" with lines
+ pause 0.5
+ plot "FFT02415" with lines
+ pause 0.5
+ plot "FFT02416" with lines
+ pause 0.5
+ plot "FFT02417" with lines
+ pause 0.5
+ plot "FFT02418" with lines
+ pause 0.5
+ plot "FFT02419" with lines
+ pause 0.5
+ plot "FFT02420" with lines
+ pause 0.5
+ plot "FFT02421" with lines
+ pause 0.5
+ plot "FFT02422" with lines
+ pause 0.5
+ plot "FFT02423" with lines
+ pause 0.5
+ plot "FFT02424" with lines
+ pause 0.5
+ plot "FFT02425" with lines
+ pause 0.5
+ plot "FFT02426" with lines
+ pause 0.5
+ plot "FFT02427" with lines
+ pause 0.5
+ plot "FFT02428" with lines
+ pause 0.5
+ plot "FFT02429" with lines
+ pause 0.5
+ plot "FFT02430" with lines
+ pause 0.5
+ plot "FFT02431" with lines
+ pause 0.5
+ plot "FFT02432" with lines
+ pause 0.5
+ plot "FFT02433" with lines
+ pause 0.5
+ plot "FFT02434" with lines
+ pause 0.5
+ plot "FFT02435" with lines
+ pause 0.5
+ plot "FFT02436" with lines
+ pause 0.5
+ plot "FFT02437" with lines
+ pause 0.5
+ plot "FFT02438" with lines
+ pause 0.5
+ plot "FFT02439" with lines
+ pause 0.5
+ plot "FFT02440" with lines
+ pause 0.5
+ plot "FFT02441" with lines
+ pause 0.5
+ plot "FFT02442" with lines
+ pause 0.5
+ plot "FFT02443" with lines
+ pause 0.5
+ plot "FFT02444" with lines
+ pause 0.5
+ plot "FFT02445" with lines
+ pause 0.5
+ plot "FFT02446" with lines
+ pause 0.5
+ plot "FFT02447" with lines
+ pause 0.5
+ plot "FFT02448" with lines
+ pause 0.5
+ plot "FFT02449" with lines
+ pause 0.5
+ plot "FFT02450" with lines
+ pause 0.5
+ plot "FFT02451" with lines
+ pause 0.5
+ plot "FFT02452" with lines
+ pause 0.5
+ plot "FFT02453" with lines
+ pause 0.5
+ plot "FFT02454" with lines
+ pause 0.5
+ plot "FFT02455" with lines
+ pause 0.5
+ plot "FFT02456" with lines
+ pause 0.5
+ plot "FFT02457" with lines
+ pause 0.5
+ plot "FFT02458" with lines
+ pause 0.5
+ plot "FFT02459" with lines
+ pause 0.5
+ plot "FFT02460" with lines
+ pause 0.5
+ plot "FFT02461" with lines
+ pause 0.5
+ plot "FFT02462" with lines
+ pause 0.5
+ plot "FFT02463" with lines
+ pause 0.5
+ plot "FFT02464" with lines
+ pause 0.5
+ plot "FFT02465" with lines
+ pause 0.5
+ plot "FFT02466" with lines
+ pause 0.5
+ plot "FFT02467" with lines
+ pause 0.5
+ plot "FFT02468" with lines
+ pause 0.5
+ plot "FFT02469" with lines
+ pause 0.5
+ plot "FFT02470" with lines
+ pause 0.5
+ plot "FFT02471" with lines
+ pause 0.5
+ plot "FFT02472" with lines
+ pause 0.5
+ plot "FFT02473" with lines
+ pause 0.5
+ plot "FFT02474" with lines
+ pause 0.5
+ plot "FFT02475" with lines
+ pause 0.5
+ plot "FFT02476" with lines
+ pause 0.5
+ plot "FFT02477" with lines
+ pause 0.5
+ plot "FFT02478" with lines
+ pause 0.5
+ plot "FFT02479" with lines
+ pause 0.5
+ plot "FFT02480" with lines
+ pause 0.5
+ plot "FFT02481" with lines
+ pause 0.5
+ plot "FFT02482" with lines
+ pause 0.5
+ plot "FFT02483" with lines
+ pause 0.5
+ plot "FFT02484" with lines
+ pause 0.5
+ plot "FFT02485" with lines
+ pause 0.5
+ plot "FFT02486" with lines
+ pause 0.5
+ plot "FFT02487" with lines
+ pause 0.5
+ plot "FFT02488" with lines
+ pause 0.5
+ plot "FFT02489" with lines
+ pause 0.5
+ plot "FFT02490" with lines
+ pause 0.5
+ plot "FFT02491" with lines
+ pause 0.5
+ plot "FFT02492" with lines
+ pause 0.5
+ plot "FFT02493" with lines
+ pause 0.5
+ plot "FFT02494" with lines
+ pause 0.5
+ plot "FFT02495" with lines
+ pause 0.5
+ plot "FFT02496" with lines
+ pause 0.5
+ plot "FFT02497" with lines
+ pause 0.5
+ plot "FFT02498" with lines
+ pause 0.5
+ plot "FFT02499" with lines
+ pause 0.5
+ plot "FFT02500" with lines
+ pause 0.5
+ plot "FFT02501" with lines
+ pause 0.5
+ plot "FFT02502" with lines
+ pause 0.5
+ plot "FFT02503" with lines
+ pause 0.5
+ plot "FFT02504" with lines
+ pause 0.5
+ plot "FFT02505" with lines
+ pause 0.5
+ plot "FFT02506" with lines
+ pause 0.5
+ plot "FFT02507" with lines
+ pause 0.5
+ plot "FFT02508" with lines
+ pause 0.5
+ plot "FFT02509" with lines
+ pause 0.5
+ plot "FFT02510" with lines
+ pause 0.5
+ plot "FFT02511" with lines
+ pause 0.5
+ plot "FFT02512" with lines
+ pause 0.5
+ plot "FFT02513" with lines
+ pause 0.5
+ plot "FFT02514" with lines
+ pause 0.5
+ plot "FFT02515" with lines
+ pause 0.5
+ plot "FFT02516" with lines
+ pause 0.5
+ plot "FFT02517" with lines
+ pause 0.5
+ plot "FFT02518" with lines
+ pause 0.5
+ plot "FFT02519" with lines
+ pause 0.5
+ plot "FFT02520" with lines
+ pause 0.5
+ plot "FFT02521" with lines
+ pause 0.5
+ plot "FFT02522" with lines
+ pause 0.5
+ plot "FFT02523" with lines
+ pause 0.5
+ plot "FFT02524" with lines
+ pause 0.5
+ plot "FFT02525" with lines
+ pause 0.5
+ plot "FFT02526" with lines
+ pause 0.5
+ plot "FFT02527" with lines
+ pause 0.5
+ plot "FFT02528" with lines
+ pause 0.5
+ plot "FFT02529" with lines
+ pause 0.5
+ plot "FFT02530" with lines
+ pause 0.5
+ plot "FFT02531" with lines
+ pause 0.5
+ plot "FFT02532" with lines
+ pause 0.5
+ plot "FFT02533" with lines
+ pause 0.5
+ plot "FFT02534" with lines
+ pause 0.5
+ plot "FFT02535" with lines
+ pause 0.5
+ plot "FFT02536" with lines
+ pause 0.5
+ plot "FFT02537" with lines
+ pause 0.5
+ plot "FFT02538" with lines
+ pause 0.5
+ plot "FFT02539" with lines
+ pause 0.5
+ plot "FFT02540" with lines
+ pause 0.5
+ plot "FFT02541" with lines
+ pause 0.5
+ plot "FFT02542" with lines
+ pause 0.5
+ plot "FFT02543" with lines
+ pause 0.5
+ plot "FFT02544" with lines
+ pause 0.5
+ plot "FFT02545" with lines
+ pause 0.5
+ plot "FFT02546" with lines
+ pause 0.5
+ plot "FFT02547" with lines
+ pause 0.5
+ plot "FFT02548" with lines
+ pause 0.5
+ plot "FFT02549" with lines
+ pause 0.5
+ plot "FFT02550" with lines
+ pause 0.5
+ plot "FFT02551" with lines
+ pause 0.5
+ plot "FFT02552" with lines
+ pause 0.5
+ plot "FFT02553" with lines
+ pause 0.5
+ plot "FFT02554" with lines
+ pause 0.5
+ plot "FFT02555" with lines
+ pause 0.5
+ plot "FFT02556" with lines
+ pause 0.5
+ plot "FFT02557" with lines
+ pause 0.5
+ plot "FFT02558" with lines
+ pause 0.5
+ plot "FFT02559" with lines
+ pause 0.5
+ plot "FFT02560" with lines
+ pause 0.5
+ plot "FFT02561" with lines
+ pause 0.5
+ plot "FFT02562" with lines
+ pause 0.5
+ plot "FFT02563" with lines
+ pause 0.5
+ plot "FFT02564" with lines
+ pause 0.5
+ plot "FFT02565" with lines
+ pause 0.5
+ plot "FFT02566" with lines
+ pause 0.5
+ plot "FFT02567" with lines
+ pause 0.5
+ plot "FFT02568" with lines
+ pause 0.5
+ plot "FFT02569" with lines
+ pause 0.5
+ plot "FFT02570" with lines
+ pause 0.5
+ plot "FFT02571" with lines
+ pause 0.5
+ plot "FFT02572" with lines
+ pause 0.5
+ plot "FFT02573" with lines
+ pause 0.5
+ plot "FFT02574" with lines
+ pause 0.5
+ plot "FFT02575" with lines
+ pause 0.5
+ plot "FFT02576" with lines
+ pause 0.5
+ plot "FFT02577" with lines
+ pause 0.5
+ plot "FFT02578" with lines
+ pause 0.5
+ plot "FFT02579" with lines
+ pause 0.5
+ plot "FFT02580" with lines
+ pause 0.5
+ plot "FFT02581" with lines
+ pause 0.5
+ plot "FFT02582" with lines
+ pause 0.5
+ plot "FFT02583" with lines
+ pause 0.5
+ plot "FFT02584" with lines
+ pause 0.5
+ plot "FFT02585" with lines
+ pause 0.5
+ plot "FFT02586" with lines
+ pause 0.5
+ plot "FFT02587" with lines
+ pause 0.5
+ plot "FFT02588" with lines
+ pause 0.5
+ plot "FFT02589" with lines
+ pause 0.5
+ plot "FFT02590" with lines
+ pause 0.5
+ plot "FFT02591" with lines
+ pause 0.5
+ plot "FFT02592" with lines
+ pause 0.5
+ plot "FFT02593" with lines
+ pause 0.5
+ plot "FFT02594" with lines
+ pause 0.5
+ plot "FFT02595" with lines
+ pause 0.5
+ plot "FFT02596" with lines
+ pause 0.5
+ plot "FFT02597" with lines
+ pause 0.5
+ plot "FFT02598" with lines
+ pause 0.5
+ plot "FFT02599" with lines
+ pause 0.5
+ plot "FFT02600" with lines
+ pause 0.5
+ plot "FFT02601" with lines
+ pause 0.5
+ plot "FFT02602" with lines
+ pause 0.5
+ plot "FFT02603" with lines
+ pause 0.5
+ plot "FFT02604" with lines
+ pause 0.5
+ plot "FFT02605" with lines
+ pause 0.5
+ plot "FFT02606" with lines
+ pause 0.5
+ plot "FFT02607" with lines
+ pause 0.5
+ plot "FFT02608" with lines
+ pause 0.5
+ plot "FFT02609" with lines
+ pause 0.5
+ plot "FFT02610" with lines
+ pause 0.5
+ plot "FFT02611" with lines
+ pause 0.5
+ plot "FFT02612" with lines
+ pause 0.5
+ plot "FFT02613" with lines
+ pause 0.5
+ plot "FFT02614" with lines
+ pause 0.5
+ plot "FFT02615" with lines
+ pause 0.5
+ plot "FFT02616" with lines
+ pause 0.5
+ plot "FFT02617" with lines
+ pause 0.5
+ plot "FFT02618" with lines
+ pause 0.5
+ plot "FFT02619" with lines
+ pause 0.5
+ plot "FFT02620" with lines
+ pause 0.5
+ plot "FFT02621" with lines
+ pause 0.5
+ plot "FFT02622" with lines
+ pause 0.5
+ plot "FFT02623" with lines
+ pause 0.5
+ plot "FFT02624" with lines
+ pause 0.5
+ plot "FFT02625" with lines
+ pause 0.5
+ plot "FFT02626" with lines
+ pause 0.5
+ plot "FFT02627" with lines
+ pause 0.5
+ plot "FFT02628" with lines
+ pause 0.5
+ plot "FFT02629" with lines
+ pause 0.5
+ plot "FFT02630" with lines
+ pause 0.5
+ plot "FFT02631" with lines
+ pause 0.5
+ plot "FFT02632" with lines
+ pause 0.5
+ plot "FFT02633" with lines
+ pause 0.5
+ plot "FFT02634" with lines
+ pause 0.5
+ plot "FFT02635" with lines
+ pause 0.5
+ plot "FFT02636" with lines
+ pause 0.5
+ plot "FFT02637" with lines
+ pause 0.5
+ plot "FFT02638" with lines
+ pause 0.5
+ plot "FFT02639" with lines
+ pause 0.5
+ plot "FFT02640" with lines
+ pause 0.5
+ plot "FFT02641" with lines
+ pause 0.5
+ plot "FFT02642" with lines
+ pause 0.5
+ plot "FFT02643" with lines
+ pause 0.5
+ plot "FFT02644" with lines
+ pause 0.5
+ plot "FFT02645" with lines
+ pause 0.5
+ plot "FFT02646" with lines
+ pause 0.5
+ plot "FFT02647" with lines
+ pause 0.5
+ plot "FFT02648" with lines
+ pause 0.5
+ plot "FFT02649" with lines
+ pause 0.5
+ plot "FFT02650" with lines
+ pause 0.5
+ plot "FFT02651" with lines
+ pause 0.5
+ plot "FFT02652" with lines
+ pause 0.5
+ plot "FFT02653" with lines
+ pause 0.5
+ plot "FFT02654" with lines
+ pause 0.5
+ plot "FFT02655" with lines
+ pause 0.5
+ plot "FFT02656" with lines
+ pause 0.5
+ plot "FFT02657" with lines
+ pause 0.5
+ plot "FFT02658" with lines
+ pause 0.5
+ plot "FFT02659" with lines
+ pause 0.5
+ plot "FFT02660" with lines
+ pause 0.5
+ plot "FFT02661" with lines
+ pause 0.5
+ plot "FFT02662" with lines
+ pause 0.5
+ plot "FFT02663" with lines
+ pause 0.5
+ plot "FFT02664" with lines
+ pause 0.5
+ plot "FFT02665" with lines
+ pause 0.5
+ plot "FFT02666" with lines
+ pause 0.5
+ plot "FFT02667" with lines
+ pause 0.5
+ plot "FFT02668" with lines
+ pause 0.5
+ plot "FFT02669" with lines
+ pause 0.5
+ plot "FFT02670" with lines
+ pause 0.5
+ plot "FFT02671" with lines
+ pause 0.5
+ plot "FFT02672" with lines
+ pause 0.5
+ plot "FFT02673" with lines
+ pause 0.5
+ plot "FFT02674" with lines
+ pause 0.5
+ plot "FFT02675" with lines
+ pause 0.5
+ plot "FFT02676" with lines
+ pause 0.5
+ plot "FFT02677" with lines
+ pause 0.5
+ plot "FFT02678" with lines
+ pause 0.5
+ plot "FFT02679" with lines
+ pause 0.5
+ plot "FFT02680" with lines
+ pause 0.5
+ plot "FFT02681" with lines
+ pause 0.5
+ plot "FFT02682" with lines
+ pause 0.5
+ plot "FFT02683" with lines
+ pause 0.5
+ plot "FFT02684" with lines
+ pause 0.5
+ plot "FFT02685" with lines
+ pause 0.5
+ plot "FFT02686" with lines
+ pause 0.5
+ plot "FFT02687" with lines
+ pause 0.5
+ plot "FFT02688" with lines
+ pause 0.5
+ plot "FFT02689" with lines
+ pause 0.5
+ plot "FFT02690" with lines
+ pause 0.5
+ plot "FFT02691" with lines
+ pause 0.5
+ plot "FFT02692" with lines
+ pause 0.5
+ plot "FFT02693" with lines
+ pause 0.5
+ plot "FFT02694" with lines
+ pause 0.5
+ plot "FFT02695" with lines
+ pause 0.5
+ plot "FFT02696" with lines
+ pause 0.5
+ plot "FFT02697" with lines
+ pause 0.5
+ plot "FFT02698" with lines
+ pause 0.5
+ plot "FFT02699" with lines
+ pause 0.5
+ plot "FFT02700" with lines
+ pause 0.5
+ plot "FFT02701" with lines
+ pause 0.5
+ plot "FFT02702" with lines
+ pause 0.5
+ plot "FFT02703" with lines
+ pause 0.5
+ plot "FFT02704" with lines
+ pause 0.5
+ plot "FFT02705" with lines
+ pause 0.5
+ plot "FFT02706" with lines
+ pause 0.5
+ plot "FFT02707" with lines
+ pause 0.5
+ plot "FFT02708" with lines
+ pause 0.5
+ plot "FFT02709" with lines
+ pause 0.5
+ plot "FFT02710" with lines
+ pause 0.5
+ plot "FFT02711" with lines
+ pause 0.5
+ plot "FFT02712" with lines
+ pause 0.5
+ plot "FFT02713" with lines
+ pause 0.5
+ plot "FFT02714" with lines
+ pause 0.5
+ plot "FFT02715" with lines
+ pause 0.5
+ plot "FFT02716" with lines
+ pause 0.5
+ plot "FFT02717" with lines
+ pause 0.5
+ plot "FFT02718" with lines
+ pause 0.5
+ plot "FFT02719" with lines
+ pause 0.5
+ plot "FFT02720" with lines
+ pause 0.5
+ plot "FFT02721" with lines
+ pause 0.5
+ plot "FFT02722" with lines
+ pause 0.5
+ plot "FFT02723" with lines
+ pause 0.5
+ plot "FFT02724" with lines
+ pause 0.5
+ plot "FFT02725" with lines
+ pause 0.5
+ plot "FFT02726" with lines
+ pause 0.5
+ plot "FFT02727" with lines
+ pause 0.5
+ plot "FFT02728" with lines
+ pause 0.5
+ plot "FFT02729" with lines
+ pause 0.5
+ plot "FFT02730" with lines
+ pause 0.5
+ plot "FFT02731" with lines
+ pause 0.5
+ plot "FFT02732" with lines
+ pause 0.5
+ plot "FFT02733" with lines
+ pause 0.5
+ plot "FFT02734" with lines
+ pause 0.5
+ plot "FFT02735" with lines
+ pause 0.5
+ plot "FFT02736" with lines
+ pause 0.5
+ plot "FFT02737" with lines
+ pause 0.5
+ plot "FFT02738" with lines
+ pause 0.5
+ plot "FFT02739" with lines
+ pause 0.5
+ plot "FFT02740" with lines
+ pause 0.5
+ plot "FFT02741" with lines
+ pause 0.5
+ plot "FFT02742" with lines
+ pause 0.5
+ plot "FFT02743" with lines
+ pause 0.5
+ plot "FFT02744" with lines
+ pause 0.5
+ plot "FFT02745" with lines
+ pause 0.5
+ plot "FFT02746" with lines
+ pause 0.5
+ plot "FFT02747" with lines
+ pause 0.5
+ plot "FFT02748" with lines
+ pause 0.5
+ plot "FFT02749" with lines
+ pause 0.5
+ plot "FFT02750" with lines
+ pause 0.5
+ plot "FFT02751" with lines
+ pause 0.5
+ plot "FFT02752" with lines
+ pause 0.5
+ plot "FFT02753" with lines
+ pause 0.5
+ plot "FFT02754" with lines
+ pause 0.5
+ plot "FFT02755" with lines
+ pause 0.5
+ plot "FFT02756" with lines
+ pause 0.5
+ plot "FFT02757" with lines
+ pause 0.5
+ plot "FFT02758" with lines
+ pause 0.5
+ plot "FFT02759" with lines
+ pause 0.5
+ plot "FFT02760" with lines
+ pause 0.5
+ plot "FFT02761" with lines
+ pause 0.5
+ plot "FFT02762" with lines
+ pause 0.5
+ plot "FFT02763" with lines
+ pause 0.5
+ plot "FFT02764" with lines
+ pause 0.5
+ plot "FFT02765" with lines
+ pause 0.5
+ plot "FFT02766" with lines
+ pause 0.5
+ plot "FFT02767" with lines
+ pause 0.5
+ plot "FFT02768" with lines
+ pause 0.5
+ plot "FFT02769" with lines
+ pause 0.5
+ plot "FFT02770" with lines
+ pause 0.5
+ plot "FFT02771" with lines
+ pause 0.5
+ plot "FFT02772" with lines
+ pause 0.5
+ plot "FFT02773" with lines
+ pause 0.5
+ plot "FFT02774" with lines
+ pause 0.5
+ plot "FFT02775" with lines
+ pause 0.5
+ plot "FFT02776" with lines
+ pause 0.5
+ plot "FFT02777" with lines
+ pause 0.5
+ plot "FFT02778" with lines
+ pause 0.5
+ plot "FFT02779" with lines
+ pause 0.5
+ plot "FFT02780" with lines
+ pause 0.5
+ plot "FFT02781" with lines
+ pause 0.5
+ plot "FFT02782" with lines
+ pause 0.5
+ plot "FFT02783" with lines
+ pause 0.5
+ plot "FFT02784" with lines
+ pause 0.5
+ plot "FFT02785" with lines
+ pause 0.5
+ plot "FFT02786" with lines
+ pause 0.5
+ plot "FFT02787" with lines
+ pause 0.5
+ plot "FFT02788" with lines
+ pause 0.5
+ plot "FFT02789" with lines
+ pause 0.5
+ plot "FFT02790" with lines
+ pause 0.5
+ plot "FFT02791" with lines
+ pause 0.5
+ plot "FFT02792" with lines
+ pause 0.5
+ plot "FFT02793" with lines
+ pause 0.5
+ plot "FFT02794" with lines
+ pause 0.5
+ plot "FFT02795" with lines
+ pause 0.5
+ plot "FFT02796" with lines
+ pause 0.5
+ plot "FFT02797" with lines
+ pause 0.5
+ plot "FFT02798" with lines
+ pause 0.5
+ plot "FFT02799" with lines
+ pause 0.5
+ plot "FFT02800" with lines
+ pause 0.5
+ plot "FFT02801" with lines
+ pause 0.5
+ plot "FFT02802" with lines
+ pause 0.5
+ plot "FFT02803" with lines
+ pause 0.5
+ plot "FFT02804" with lines
+ pause 0.5
+ plot "FFT02805" with lines
+ pause 0.5
+ plot "FFT02806" with lines
+ pause 0.5
+ plot "FFT02807" with lines
+ pause 0.5
+ plot "FFT02808" with lines
+ pause 0.5
+ plot "FFT02809" with lines
+ pause 0.5
+ plot "FFT02810" with lines
+ pause 0.5
+ plot "FFT02811" with lines
+ pause 0.5
+ plot "FFT02812" with lines
+ pause 0.5
+ plot "FFT02813" with lines
+ pause 0.5
+ plot "FFT02814" with lines
+ pause 0.5
+ plot "FFT02815" with lines
+ pause 0.5
+ plot "FFT02816" with lines
+ pause 0.5
+ plot "FFT02817" with lines
+ pause 0.5
+ plot "FFT02818" with lines
+ pause 0.5
+ plot "FFT02819" with lines
+ pause 0.5
+ plot "FFT02820" with lines
+ pause 0.5
+ plot "FFT02821" with lines
+ pause 0.5
+ plot "FFT02822" with lines
+ pause 0.5
+ plot "FFT02823" with lines
+ pause 0.5
+ plot "FFT02824" with lines
+ pause 0.5
+ plot "FFT02825" with lines
+ pause 0.5
+ plot "FFT02826" with lines
+ pause 0.5
+ plot "FFT02827" with lines
+ pause 0.5
+ plot "FFT02828" with lines
+ pause 0.5
+ plot "FFT02829" with lines
+ pause 0.5
+ plot "FFT02830" with lines
+ pause 0.5
+ plot "FFT02831" with lines
+ pause 0.5
+ plot "FFT02832" with lines
+ pause 0.5
+ plot "FFT02833" with lines
+ pause 0.5
+ plot "FFT02834" with lines
+ pause 0.5
+ plot "FFT02835" with lines
+ pause 0.5
+ plot "FFT02836" with lines
+ pause 0.5
+ plot "FFT02837" with lines
+ pause 0.5
+ plot "FFT02838" with lines
+ pause 0.5
+ plot "FFT02839" with lines
+ pause 0.5
+ plot "FFT02840" with lines
+ pause 0.5
+ plot "FFT02841" with lines
+ pause 0.5
+ plot "FFT02842" with lines
+ pause 0.5
+ plot "FFT02843" with lines
+ pause 0.5
+ plot "FFT02844" with lines
+ pause 0.5
+ plot "FFT02845" with lines
+ pause 0.5
+ plot "FFT02846" with lines
+ pause 0.5
+ plot "FFT02847" with lines
+ pause 0.5
+ plot "FFT02848" with lines
+ pause 0.5
+ plot "FFT02849" with lines
+ pause 0.5
+ plot "FFT02850" with lines
+ pause 0.5
+ plot "FFT02851" with lines
+ pause 0.5
+ plot "FFT02852" with lines
+ pause 0.5
+ plot "FFT02853" with lines
+ pause 0.5
+ plot "FFT02854" with lines
+ pause 0.5
+ plot "FFT02855" with lines
+ pause 0.5
+ plot "FFT02856" with lines
+ pause 0.5
+ plot "FFT02857" with lines
+ pause 0.5
+ plot "FFT02858" with lines
+ pause 0.5
+ plot "FFT02859" with lines
+ pause 0.5
+ plot "FFT02860" with lines
+ pause 0.5
+ plot "FFT02861" with lines
+ pause 0.5
+ plot "FFT02862" with lines
+ pause 0.5
+ plot "FFT02863" with lines
+ pause 0.5
+ plot "FFT02864" with lines
+ pause 0.5
+ plot "FFT02865" with lines
+ pause 0.5
+ plot "FFT02866" with lines
+ pause 0.5
+ plot "FFT02867" with lines
+ pause 0.5
+ plot "FFT02868" with lines
+ pause 0.5
+ plot "FFT02869" with lines
+ pause 0.5
+ plot "FFT02870" with lines
+ pause 0.5
+ plot "FFT02871" with lines
+ pause 0.5
+ plot "FFT02872" with lines
+ pause 0.5
+ plot "FFT02873" with lines
+ pause 0.5
+ plot "FFT02874" with lines
+ pause 0.5
+ plot "FFT02875" with lines
+ pause 0.5
+ plot "FFT02876" with lines
+ pause 0.5
+ plot "FFT02877" with lines
+ pause 0.5
+ plot "FFT02878" with lines
+ pause 0.5
+ plot "FFT02879" with lines
+ pause 0.5
+ plot "FFT02880" with lines
+ pause 0.5
+ plot "FFT02881" with lines
+ pause 0.5
+ plot "FFT02882" with lines
+ pause 0.5
+ plot "FFT02883" with lines
+ pause 0.5
+ plot "FFT02884" with lines
+ pause 0.5
+ plot "FFT02885" with lines
+ pause 0.5
+ plot "FFT02886" with lines
+ pause 0.5
+ plot "FFT02887" with lines
+ pause 0.5
+ plot "FFT02888" with lines
+ pause 0.5
+ plot "FFT02889" with lines
+ pause 0.5
+ plot "FFT02890" with lines
+ pause 0.5
+ plot "FFT02891" with lines
+ pause 0.5
+ plot "FFT02892" with lines
+ pause 0.5
+ plot "FFT02893" with lines
+ pause 0.5
+ plot "FFT02894" with lines
+ pause 0.5
+ plot "FFT02895" with lines
+ pause 0.5
+ plot "FFT02896" with lines
+ pause 0.5
+ plot "FFT02897" with lines
+ pause 0.5
+ plot "FFT02898" with lines
+ pause 0.5
+ plot "FFT02899" with lines
+ pause 0.5
+ plot "FFT02900" with lines
+ pause 0.5
+ plot "FFT02901" with lines
+ pause 0.5
+ plot "FFT02902" with lines
+ pause 0.5
+ plot "FFT02903" with lines
+ pause 0.5
+ plot "FFT02904" with lines
+ pause 0.5
+ plot "FFT02905" with lines
+ pause 0.5
+ plot "FFT02906" with lines
+ pause 0.5
+ plot "FFT02907" with lines
+ pause 0.5
+ plot "FFT02908" with lines
+ pause 0.5
+ plot "FFT02909" with lines
+ pause 0.5
+ plot "FFT02910" with lines
+ pause 0.5
+ plot "FFT02911" with lines
+ pause 0.5
+ plot "FFT02912" with lines
+ pause 0.5
+ plot "FFT02913" with lines
+ pause 0.5
+ plot "FFT02914" with lines
+ pause 0.5
+ plot "FFT02915" with lines
+ pause 0.5
+ plot "FFT02916" with lines
+ pause 0.5
+ plot "FFT02917" with lines
+ pause 0.5
+ plot "FFT02918" with lines
+ pause 0.5
+ plot "FFT02919" with lines
+ pause 0.5
+ plot "FFT02920" with lines
+ pause 0.5
+ plot "FFT02921" with lines
+ pause 0.5
+ plot "FFT02922" with lines
+ pause 0.5
+ plot "FFT02923" with lines
+ pause 0.5
+ plot "FFT02924" with lines
+ pause 0.5
+ plot "FFT02925" with lines
+ pause 0.5
+ plot "FFT02926" with lines
+ pause 0.5
+ plot "FFT02927" with lines
+ pause 0.5
+ plot "FFT02928" with lines
+ pause 0.5
+ plot "FFT02929" with lines
+ pause 0.5
+ plot "FFT02930" with lines
+ pause 0.5
+ plot "FFT02931" with lines
+ pause 0.5
+ plot "FFT02932" with lines
+ pause 0.5
+ plot "FFT02933" with lines
+ pause 0.5
+ plot "FFT02934" with lines
+ pause 0.5
+ plot "FFT02935" with lines
+ pause 0.5
+ plot "FFT02936" with lines
+ pause 0.5
+ plot "FFT02937" with lines
+ pause 0.5
+ plot "FFT02938" with lines
+ pause 0.5
+ plot "FFT02939" with lines
+ pause 0.5
+ plot "FFT02940" with lines
+ pause 0.5
+ plot "FFT02941" with lines
+ pause 0.5
+ plot "FFT02942" with lines
+ pause 0.5
+ plot "FFT02943" with lines
+ pause 0.5
+ plot "FFT02944" with lines
+ pause 0.5
+ plot "FFT02945" with lines
+ pause 0.5
+ plot "FFT02946" with lines
+ pause 0.5
+ plot "FFT02947" with lines
+ pause 0.5
+ plot "FFT02948" with lines
+ pause 0.5
+ plot "FFT02949" with lines
+ pause 0.5
+ plot "FFT02950" with lines
+ pause 0.5
+ plot "FFT02951" with lines
+ pause 0.5
+ plot "FFT02952" with lines
+ pause 0.5
+ plot "FFT02953" with lines
+ pause 0.5
+ plot "FFT02954" with lines
+ pause 0.5
+ plot "FFT02955" with lines
+ pause 0.5
+ plot "FFT02956" with lines
+ pause 0.5
+ plot "FFT02957" with lines
+ pause 0.5
+ plot "FFT02958" with lines
+ pause 0.5
+ plot "FFT02959" with lines
+ pause 0.5
+ plot "FFT02960" with lines
+ pause 0.5
+ plot "FFT02961" with lines
+ pause 0.5
+ plot "FFT02962" with lines
+ pause 0.5
+ plot "FFT02963" with lines
+ pause 0.5
+ plot "FFT02964" with lines
+ pause 0.5
+ plot "FFT02965" with lines
+ pause 0.5
+ plot "FFT02966" with lines
+ pause 0.5
+ plot "FFT02967" with lines
+ pause 0.5
+ plot "FFT02968" with lines
+ pause 0.5
+ plot "FFT02969" with lines
+ pause 0.5
+ plot "FFT02970" with lines
+ pause 0.5
+ plot "FFT02971" with lines
+ pause 0.5
+ plot "FFT02972" with lines
+ pause 0.5
+ plot "FFT02973" with lines
+ pause 0.5
+ plot "FFT02974" with lines
+ pause 0.5
+ plot "FFT02975" with lines
+ pause 0.5
+ plot "FFT02976" with lines
+ pause 0.5
+ plot "FFT02977" with lines
+ pause 0.5
+ plot "FFT02978" with lines
+ pause 0.5
+ plot "FFT02979" with lines
+ pause 0.5
+ plot "FFT02980" with lines
+ pause 0.5
+ plot "FFT02981" with lines
+ pause 0.5
+ plot "FFT02982" with lines
+ pause 0.5
+ plot "FFT02983" with lines
+ pause 0.5
+ plot "FFT02984" with lines
+ pause 0.5
+ plot "FFT02985" with lines
+ pause 0.5
+ plot "FFT02986" with lines
+ pause 0.5
+ plot "FFT02987" with lines
+ pause 0.5
+ plot "FFT02988" with lines
+ pause 0.5
+ plot "FFT02989" with lines
+ pause 0.5
+ plot "FFT02990" with lines
+ pause 0.5
+ plot "FFT02991" with lines
+ pause 0.5
+ plot "FFT02992" with lines
+ pause 0.5
+ plot "FFT02993" with lines
+ pause 0.5
+ plot "FFT02994" with lines
+ pause 0.5
+ plot "FFT02995" with lines
+ pause 0.5
+ plot "FFT02996" with lines
+ pause 0.5
+ plot "FFT02997" with lines
+ pause 0.5
+ plot "FFT02998" with lines
+ pause 0.5
+ plot "FFT02999" with lines
+ pause 0.5
+ plot "FFT03000" with lines
+ pause 0.5
+ plot "FFT03001" with lines
+ pause 0.5
+ plot "FFT03002" with lines
+ pause 0.5
+ plot "FFT03003" with lines
+ pause 0.5
+ plot "FFT03004" with lines
+ pause 0.5
+ plot "FFT03005" with lines
+ pause 0.5
+ plot "FFT03006" with lines
+ pause 0.5
+ plot "FFT03007" with lines
+ pause 0.5
+ plot "FFT03008" with lines
+ pause 0.5
+ plot "FFT03009" with lines
+ pause 0.5
+ plot "FFT03010" with lines
+ pause 0.5
+ plot "FFT03011" with lines
+ pause 0.5
+ plot "FFT03012" with lines
+ pause 0.5
+ plot "FFT03013" with lines
+ pause 0.5
+ plot "FFT03014" with lines
+ pause 0.5
+ plot "FFT03015" with lines
+ pause 0.5
+ plot "FFT03016" with lines
+ pause 0.5
+ plot "FFT03017" with lines
+ pause 0.5
+ plot "FFT03018" with lines
+ pause 0.5
+ plot "FFT03019" with lines
+ pause 0.5
+ plot "FFT03020" with lines
+ pause 0.5
+ plot "FFT03021" with lines
+ pause 0.5
+ plot "FFT03022" with lines
+ pause 0.5
+ plot "FFT03023" with lines
+ pause 0.5
+ plot "FFT03024" with lines
+ pause 0.5
+ plot "FFT03025" with lines
+ pause 0.5
+ plot "FFT03026" with lines
+ pause 0.5
+ plot "FFT03027" with lines
+ pause 0.5
+ plot "FFT03028" with lines
+ pause 0.5
+ plot "FFT03029" with lines
+ pause 0.5
+ plot "FFT03030" with lines
+ pause 0.5
+ plot "FFT03031" with lines
+ pause 0.5
+ plot "FFT03032" with lines
+ pause 0.5
+ plot "FFT03033" with lines
+ pause 0.5
+ plot "FFT03034" with lines
+ pause 0.5
+ plot "FFT03035" with lines
+ pause 0.5
+ plot "FFT03036" with lines
+ pause 0.5
+ plot "FFT03037" with lines
+ pause 0.5
+ plot "FFT03038" with lines
+ pause 0.5
+ plot "FFT03039" with lines
+ pause 0.5
+ plot "FFT03040" with lines
+ pause 0.5
+ plot "FFT03041" with lines
+ pause 0.5
+ plot "FFT03042" with lines
+ pause 0.5
+ plot "FFT03043" with lines
+ pause 0.5
+ plot "FFT03044" with lines
+ pause 0.5
+ plot "FFT03045" with lines
+ pause 0.5
+ plot "FFT03046" with lines
+ pause 0.5
+ plot "FFT03047" with lines
+ pause 0.5
+ plot "FFT03048" with lines
+ pause 0.5
+ plot "FFT03049" with lines
+ pause 0.5
+ plot "FFT03050" with lines
+ pause 0.5
+ plot "FFT03051" with lines
+ pause 0.5
+ plot "FFT03052" with lines
+ pause 0.5
+ plot "FFT03053" with lines
+ pause 0.5
+ plot "FFT03054" with lines
+ pause 0.5
+ plot "FFT03055" with lines
+ pause 0.5
+ plot "FFT03056" with lines
+ pause 0.5
+ plot "FFT03057" with lines
+ pause 0.5
+ plot "FFT03058" with lines
+ pause 0.5
+ plot "FFT03059" with lines
+ pause 0.5
+ plot "FFT03060" with lines
+ pause 0.5
+ plot "FFT03061" with lines
+ pause 0.5
+ plot "FFT03062" with lines
+ pause 0.5
+ plot "FFT03063" with lines
+ pause 0.5
+ plot "FFT03064" with lines
+ pause 0.5
+ plot "FFT03065" with lines
+ pause 0.5
+ plot "FFT03066" with lines
+ pause 0.5
+ plot "FFT03067" with lines
+ pause 0.5
+ plot "FFT03068" with lines
+ pause 0.5
+ plot "FFT03069" with lines
+ pause 0.5
+ plot "FFT03070" with lines
+ pause 0.5
+ plot "FFT03071" with lines
+ pause 0.5
+ plot "FFT03072" with lines
+ pause 0.5
+ plot "FFT03073" with lines
+ pause 0.5
+ plot "FFT03074" with lines
+ pause 0.5
+ plot "FFT03075" with lines
+ pause 0.5
+ plot "FFT03076" with lines
+ pause 0.5
+ plot "FFT03077" with lines
+ pause 0.5
+ plot "FFT03078" with lines
+ pause 0.5
+ plot "FFT03079" with lines
+ pause 0.5
+ plot "FFT03080" with lines
+ pause 0.5
+ plot "FFT03081" with lines
+ pause 0.5
+ plot "FFT03082" with lines
+ pause 0.5
+ plot "FFT03083" with lines
+ pause 0.5
+ plot "FFT03084" with lines
+ pause 0.5
+ plot "FFT03085" with lines
+ pause 0.5
+ plot "FFT03086" with lines
+ pause 0.5
+ plot "FFT03087" with lines
+ pause 0.5
+ plot "FFT03088" with lines
+ pause 0.5
+ plot "FFT03089" with lines
+ pause 0.5
+ plot "FFT03090" with lines
+ pause 0.5
+ plot "FFT03091" with lines
+ pause 0.5
+ plot "FFT03092" with lines
+ pause 0.5
+ plot "FFT03093" with lines
+ pause 0.5
+ plot "FFT03094" with lines
+ pause 0.5
+ plot "FFT03095" with lines
+ pause 0.5
+ plot "FFT03096" with lines
+ pause 0.5
+ plot "FFT03097" with lines
+ pause 0.5
+ plot "FFT03098" with lines
+ pause 0.5
+ plot "FFT03099" with lines
+ pause 0.5
+ plot "FFT03100" with lines
+ pause 0.5
+ plot "FFT03101" with lines
+ pause 0.5
+ plot "FFT03102" with lines
+ pause 0.5
+ plot "FFT03103" with lines
+ pause 0.5
+ plot "FFT03104" with lines
+ pause 0.5
+ plot "FFT03105" with lines
+ pause 0.5
+ plot "FFT03106" with lines
+ pause 0.5
+ plot "FFT03107" with lines
+ pause 0.5
+ plot "FFT03108" with lines
+ pause 0.5
+ plot "FFT03109" with lines
+ pause 0.5
+ plot "FFT03110" with lines
+ pause 0.5
+ plot "FFT03111" with lines
+ pause 0.5
+ plot "FFT03112" with lines
+ pause 0.5
+ plot "FFT03113" with lines
+ pause 0.5
+ plot "FFT03114" with lines
+ pause 0.5
+ plot "FFT03115" with lines
+ pause 0.5
+ plot "FFT03116" with lines
+ pause 0.5
+ plot "FFT03117" with lines
+ pause 0.5
+ plot "FFT03118" with lines
+ pause 0.5
+ plot "FFT03119" with lines
+ pause 0.5
+ plot "FFT03120" with lines
+ pause 0.5
+ plot "FFT03121" with lines
+ pause 0.5
+ plot "FFT03122" with lines
+ pause 0.5
+ plot "FFT03123" with lines
+ pause 0.5
+ plot "FFT03124" with lines
+ pause 0.5
+ plot "FFT03125" with lines
+ pause 0.5
+ plot "FFT03126" with lines
+ pause 0.5
+ plot "FFT03127" with lines
+ pause 0.5
+ plot "FFT03128" with lines
+ pause 0.5
+ plot "FFT03129" with lines
+ pause 0.5
+ plot "FFT03130" with lines
+ pause 0.5
+ plot "FFT03131" with lines
+ pause 0.5
+ plot "FFT03132" with lines
+ pause 0.5
+ plot "FFT03133" with lines
+ pause 0.5
+ plot "FFT03134" with lines
+ pause 0.5
+ plot "FFT03135" with lines
+ pause 0.5
+ plot "FFT03136" with lines
+ pause 0.5
+ plot "FFT03137" with lines
+ pause 0.5
+ plot "FFT03138" with lines
+ pause 0.5
+ plot "FFT03139" with lines
+ pause 0.5
+ plot "FFT03140" with lines
+ pause 0.5
+ plot "FFT03141" with lines
+ pause 0.5
+ plot "FFT03142" with lines
+ pause 0.5
+ plot "FFT03143" with lines
+ pause 0.5
+ plot "FFT03144" with lines
+ pause 0.5
+ plot "FFT03145" with lines
+ pause 0.5
+ plot "FFT03146" with lines
+ pause 0.5
+ plot "FFT03147" with lines
+ pause 0.5
+ plot "FFT03148" with lines
+ pause 0.5
+ plot "FFT03149" with lines
+ pause 0.5
+ plot "FFT03150" with lines
+ pause 0.5
+ plot "FFT03151" with lines
+ pause 0.5
+ plot "FFT03152" with lines
+ pause 0.5
+ plot "FFT03153" with lines
+ pause 0.5
+ plot "FFT03154" with lines
+ pause 0.5
+ plot "FFT03155" with lines
+ pause 0.5
+ plot "FFT03156" with lines
+ pause 0.5
+ plot "FFT03157" with lines
+ pause 0.5
+ plot "FFT03158" with lines
+ pause 0.5
+ plot "FFT03159" with lines
+ pause 0.5
+ plot "FFT03160" with lines
+ pause 0.5
+ plot "FFT03161" with lines
+ pause 0.5
+ plot "FFT03162" with lines
+ pause 0.5
+ plot "FFT03163" with lines
+ pause 0.5
+ plot "FFT03164" with lines
+ pause 0.5
+ plot "FFT03165" with lines
+ pause 0.5
+ plot "FFT03166" with lines
+ pause 0.5
+ plot "FFT03167" with lines
+ pause 0.5
+ plot "FFT03168" with lines
+ pause 0.5
+ plot "FFT03169" with lines
+ pause 0.5
+ plot "FFT03170" with lines
+ pause 0.5
+ plot "FFT03171" with lines
+ pause 0.5
+ plot "FFT03172" with lines
+ pause 0.5
+ plot "FFT03173" with lines
+ pause 0.5
+ plot "FFT03174" with lines
+ pause 0.5
+ plot "FFT03175" with lines
+ pause 0.5
+ plot "FFT03176" with lines
+ pause 0.5
+ plot "FFT03177" with lines
+ pause 0.5
+ plot "FFT03178" with lines
+ pause 0.5
+ plot "FFT03179" with lines
+ pause 0.5
+ plot "FFT03180" with lines
+ pause 0.5
+ plot "FFT03181" with lines
+ pause 0.5
+ plot "FFT03182" with lines
+ pause 0.5
+ plot "FFT03183" with lines
+ pause 0.5
+ plot "FFT03184" with lines
+ pause 0.5
+ plot "FFT03185" with lines
+ pause 0.5
+ plot "FFT03186" with lines
+ pause 0.5
+ plot "FFT03187" with lines
+ pause 0.5
+ plot "FFT03188" with lines
+ pause 0.5
+ plot "FFT03189" with lines
+ pause 0.5
+ plot "FFT03190" with lines
+ pause 0.5
+ plot "FFT03191" with lines
+ pause 0.5
+ plot "FFT03192" with lines
+ pause 0.5
+ plot "FFT03193" with lines
+ pause 0.5
+ plot "FFT03194" with lines
+ pause 0.5
+ plot "FFT03195" with lines
+ pause 0.5
+ plot "FFT03196" with lines
+ pause 0.5
+ plot "FFT03197" with lines
+ pause 0.5
+ plot "FFT03198" with lines
+ pause 0.5
+ plot "FFT03199" with lines
+ pause 0.5
+ plot "FFT03200" with lines
+ pause 0.5
+ plot "FFT03201" with lines
+ pause 0.5
+ plot "FFT03202" with lines
+ pause 0.5
+ plot "FFT03203" with lines
+ pause 0.5
+ plot "FFT03204" with lines
+ pause 0.5
+ plot "FFT03205" with lines
+ pause 0.5
+ plot "FFT03206" with lines
+ pause 0.5
+ plot "FFT03207" with lines
+ pause 0.5
+ plot "FFT03208" with lines
+ pause 0.5
+ plot "FFT03209" with lines
+ pause 0.5
+ plot "FFT03210" with lines
+ pause 0.5
+ plot "FFT03211" with lines
+ pause 0.5
+ plot "FFT03212" with lines
+ pause 0.5
+ plot "FFT03213" with lines
+ pause 0.5
+ plot "FFT03214" with lines
+ pause 0.5
+ plot "FFT03215" with lines
+ pause 0.5
+ plot "FFT03216" with lines
+ pause 0.5
+ plot "FFT03217" with lines
+ pause 0.5
+ plot "FFT03218" with lines
+ pause 0.5
+ plot "FFT03219" with lines
+ pause 0.5
+ plot "FFT03220" with lines
+ pause 0.5
+ plot "FFT03221" with lines
+ pause 0.5
+ plot "FFT03222" with lines
+ pause 0.5
+ plot "FFT03223" with lines
+ pause 0.5
+ plot "FFT03224" with lines
+ pause 0.5
+ plot "FFT03225" with lines
+ pause 0.5
+ plot "FFT03226" with lines
+ pause 0.5
+ plot "FFT03227" with lines
+ pause 0.5
+ plot "FFT03228" with lines
+ pause 0.5
+ plot "FFT03229" with lines
+ pause 0.5
+ plot "FFT03230" with lines
+ pause 0.5
+ plot "FFT03231" with lines
+ pause 0.5
+ plot "FFT03232" with lines
+ pause 0.5
+ plot "FFT03233" with lines
+ pause 0.5
+ plot "FFT03234" with lines
+ pause 0.5
+ plot "FFT03235" with lines
+ pause 0.5
+ plot "FFT03236" with lines
+ pause 0.5
+ plot "FFT03237" with lines
+ pause 0.5
+ plot "FFT03238" with lines
+ pause 0.5
+ plot "FFT03239" with lines
+ pause 0.5
+ plot "FFT03240" with lines
+ pause 0.5
+ plot "FFT03241" with lines
+ pause 0.5
+ plot "FFT03242" with lines
+ pause 0.5
+ plot "FFT03243" with lines
+ pause 0.5
+ plot "FFT03244" with lines
+ pause 0.5
+ plot "FFT03245" with lines
+ pause 0.5
+ plot "FFT03246" with lines
+ pause 0.5
+ plot "FFT03247" with lines
+ pause 0.5
+ plot "FFT03248" with lines
+ pause 0.5
+ plot "FFT03249" with lines
+ pause 0.5
+ plot "FFT03250" with lines
+ pause 0.5
+ plot "FFT03251" with lines
+ pause 0.5
+ plot "FFT03252" with lines
+ pause 0.5
+ plot "FFT03253" with lines
+ pause 0.5
+ plot "FFT03254" with lines
+ pause 0.5
+ plot "FFT03255" with lines
+ pause 0.5
+ plot "FFT03256" with lines
+ pause 0.5
+ plot "FFT03257" with lines
+ pause 0.5
+ plot "FFT03258" with lines
+ pause 0.5
+ plot "FFT03259" with lines
+ pause 0.5
+ plot "FFT03260" with lines
+ pause 0.5
+ plot "FFT03261" with lines
+ pause 0.5
+ plot "FFT03262" with lines
+ pause 0.5
+ plot "FFT03263" with lines
+ pause 0.5
+ plot "FFT03264" with lines
+ pause 0.5
+ plot "FFT03265" with lines
+ pause 0.5
+ plot "FFT03266" with lines
+ pause 0.5
+ plot "FFT03267" with lines
+ pause 0.5
+ plot "FFT03268" with lines
+ pause 0.5
+ plot "FFT03269" with lines
+ pause 0.5
+ plot "FFT03270" with lines
+ pause 0.5
+ plot "FFT03271" with lines
+ pause 0.5
+ plot "FFT03272" with lines
+ pause 0.5
+ plot "FFT03273" with lines
+ pause 0.5
+ plot "FFT03274" with lines
+ pause 0.5
+ plot "FFT03275" with lines
+ pause 0.5
+ plot "FFT03276" with lines
+ pause 0.5
+ plot "FFT03277" with lines
+ pause 0.5
+ plot "FFT03278" with lines
+ pause 0.5
+ plot "FFT03279" with lines
+ pause 0.5
+ plot "FFT03280" with lines
+ pause 0.5
+ plot "FFT03281" with lines
+ pause 0.5
+ plot "FFT03282" with lines
+ pause 0.5
+ plot "FFT03283" with lines
+ pause 0.5
+ plot "FFT03284" with lines
+ pause 0.5
+ plot "FFT03285" with lines
+ pause 0.5
+ plot "FFT03286" with lines
+ pause 0.5
+ plot "FFT03287" with lines
+ pause 0.5
+ plot "FFT03288" with lines
+ pause 0.5
+ plot "FFT03289" with lines
+ pause 0.5
+ plot "FFT03290" with lines
+ pause 0.5
+ plot "FFT03291" with lines
+ pause 0.5
+ plot "FFT03292" with lines
+ pause 0.5
+ plot "FFT03293" with lines
+ pause 0.5
+ plot "FFT03294" with lines
+ pause 0.5
+ plot "FFT03295" with lines
+ pause 0.5
+ plot "FFT03296" with lines
+ pause 0.5
+ plot "FFT03297" with lines
+ pause 0.5
+ plot "FFT03298" with lines
+ pause 0.5
+ plot "FFT03299" with lines
+ pause 0.5
+ plot "FFT03300" with lines
+ pause 0.5
+ plot "FFT03301" with lines
+ pause 0.5
+ plot "FFT03302" with lines
+ pause 0.5
+ plot "FFT03303" with lines
+ pause 0.5
+ plot "FFT03304" with lines
+ pause 0.5
+ plot "FFT03305" with lines
+ pause 0.5
+ plot "FFT03306" with lines
+ pause 0.5
+ plot "FFT03307" with lines
+ pause 0.5
+ plot "FFT03308" with lines
+ pause 0.5
+ plot "FFT03309" with lines
+ pause 0.5
+ plot "FFT03310" with lines
+ pause 0.5
+ plot "FFT03311" with lines
+ pause 0.5
+ plot "FFT03312" with lines
+ pause 0.5
+ plot "FFT03313" with lines
+ pause 0.5
+ plot "FFT03314" with lines
+ pause 0.5
+ plot "FFT03315" with lines
+ pause 0.5
+ plot "FFT03316" with lines
+ pause 0.5
+ plot "FFT03317" with lines
+ pause 0.5
+ plot "FFT03318" with lines
+ pause 0.5
+ plot "FFT03319" with lines
+ pause 0.5
+ plot "FFT03320" with lines
+ pause 0.5
+ plot "FFT03321" with lines
+ pause 0.5
+ plot "FFT03322" with lines
+ pause 0.5
+ plot "FFT03323" with lines
+ pause 0.5
+ plot "FFT03324" with lines
+ pause 0.5
+ plot "FFT03325" with lines
+ pause 0.5
+ plot "FFT03326" with lines
+ pause 0.5
+ plot "FFT03327" with lines
+ pause 0.5
+ plot "FFT03328" with lines
+ pause 0.5
+ plot "FFT03329" with lines
+ pause 0.5
+ plot "FFT03330" with lines
+ pause 0.5
+ plot "FFT03331" with lines
+ pause 0.5
+ plot "FFT03332" with lines
+ pause 0.5
+ plot "FFT03333" with lines
+ pause 0.5
+ plot "FFT03334" with lines
+ pause 0.5
+ plot "FFT03335" with lines
+ pause 0.5
+ plot "FFT03336" with lines
+ pause 0.5
+ plot "FFT03337" with lines
+ pause 0.5
+ plot "FFT03338" with lines
+ pause 0.5
+ plot "FFT03339" with lines
+ pause 0.5
+ plot "FFT03340" with lines
+ pause 0.5
+ plot "FFT03341" with lines
+ pause 0.5
+ plot "FFT03342" with lines
+ pause 0.5
+ plot "FFT03343" with lines
+ pause 0.5
+ plot "FFT03344" with lines
+ pause 0.5
+ plot "FFT03345" with lines
+ pause 0.5
+ plot "FFT03346" with lines
+ pause 0.5
+ plot "FFT03347" with lines
+ pause 0.5
+ plot "FFT03348" with lines
+ pause 0.5
+ plot "FFT03349" with lines
+ pause 0.5
+ plot "FFT03350" with lines
+ pause 0.5
+ plot "FFT03351" with lines
+ pause 0.5
+ plot "FFT03352" with lines
+ pause 0.5
+ plot "FFT03353" with lines
+ pause 0.5
+ plot "FFT03354" with lines
+ pause 0.5
+ plot "FFT03355" with lines
+ pause 0.5
+ plot "FFT03356" with lines
+ pause 0.5
+ plot "FFT03357" with lines
+ pause 0.5
+ plot "FFT03358" with lines
+ pause 0.5
+ plot "FFT03359" with lines
+ pause 0.5
+ plot "FFT03360" with lines
+ pause 0.5
+ plot "FFT03361" with lines
+ pause 0.5
+ plot "FFT03362" with lines
+ pause 0.5
+ plot "FFT03363" with lines
+ pause 0.5
+ plot "FFT03364" with lines
+ pause 0.5
+ plot "FFT03365" with lines
+ pause 0.5
+ plot "FFT03366" with lines
+ pause 0.5
+ plot "FFT03367" with lines
+ pause 0.5
+ plot "FFT03368" with lines
+ pause 0.5
+ plot "FFT03369" with lines
+ pause 0.5
+ plot "FFT03370" with lines
+ pause 0.5
+ plot "FFT03371" with lines
+ pause 0.5
+ plot "FFT03372" with lines
+ pause 0.5
+ plot "FFT03373" with lines
+ pause 0.5
+ plot "FFT03374" with lines
+ pause 0.5
+ plot "FFT03375" with lines
+ pause 0.5
+ plot "FFT03376" with lines
+ pause 0.5
+ plot "FFT03377" with lines
+ pause 0.5
+ plot "FFT03378" with lines
+ pause 0.5
+ plot "FFT03379" with lines
+ pause 0.5
+ plot "FFT03380" with lines
+ pause 0.5
+ plot "FFT03381" with lines
+ pause 0.5
+ plot "FFT03382" with lines
+ pause 0.5
+ plot "FFT03383" with lines
+ pause 0.5
+ plot "FFT03384" with lines
+ pause 0.5
+ plot "FFT03385" with lines
+ pause 0.5
+ plot "FFT03386" with lines
+ pause 0.5
+ plot "FFT03387" with lines
+ pause 0.5
+ plot "FFT03388" with lines
+ pause 0.5
+ plot "FFT03389" with lines
+ pause 0.5
+ plot "FFT03390" with lines
+ pause 0.5
+ plot "FFT03391" with lines
+ pause 0.5
+ plot "FFT03392" with lines
+ pause 0.5
+ plot "FFT03393" with lines
+ pause 0.5
+ plot "FFT03394" with lines
+ pause 0.5
+ plot "FFT03395" with lines
+ pause 0.5
+ plot "FFT03396" with lines
+ pause 0.5
+ plot "FFT03397" with lines
+ pause 0.5
+ plot "FFT03398" with lines
+ pause 0.5
+ plot "FFT03399" with lines
+ pause 0.5
+ plot "FFT03400" with lines
+ pause 0.5
+ plot "FFT03401" with lines
+ pause 0.5
+ plot "FFT03402" with lines
+ pause 0.5
+ plot "FFT03403" with lines
+ pause 0.5
+ plot "FFT03404" with lines
+ pause 0.5
+ plot "FFT03405" with lines
+ pause 0.5
+ plot "FFT03406" with lines
+ pause 0.5
+ plot "FFT03407" with lines
+ pause 0.5
+ plot "FFT03408" with lines
+ pause 0.5
+ plot "FFT03409" with lines
+ pause 0.5
+ plot "FFT03410" with lines
+ pause 0.5
+ plot "FFT03411" with lines
+ pause 0.5
+ plot "FFT03412" with lines
+ pause 0.5
+ plot "FFT03413" with lines
+ pause 0.5
+ plot "FFT03414" with lines
+ pause 0.5
+ plot "FFT03415" with lines
+ pause 0.5
+ plot "FFT03416" with lines
+ pause 0.5
+ plot "FFT03417" with lines
+ pause 0.5
+ plot "FFT03418" with lines
+ pause 0.5
+ plot "FFT03419" with lines
+ pause 0.5
+ plot "FFT03420" with lines
+ pause 0.5
+ plot "FFT03421" with lines
+ pause 0.5
+ plot "FFT03422" with lines
+ pause 0.5
+ plot "FFT03423" with lines
+ pause 0.5
+ plot "FFT03424" with lines
+ pause 0.5
+ plot "FFT03425" with lines
+ pause 0.5
+ plot "FFT03426" with lines
+ pause 0.5
+ plot "FFT03427" with lines
+ pause 0.5
+ plot "FFT03428" with lines
+ pause 0.5
+ plot "FFT03429" with lines
+ pause 0.5
+ plot "FFT03430" with lines
+ pause 0.5
+ plot "FFT03431" with lines
+ pause 0.5
+ plot "FFT03432" with lines
+ pause 0.5
+ plot "FFT03433" with lines
+ pause 0.5
+ plot "FFT03434" with lines
+ pause 0.5
+ plot "FFT03435" with lines
+ pause 0.5
+ plot "FFT03436" with lines
+ pause 0.5
+ plot "FFT03437" with lines
+ pause 0.5
+ plot "FFT03438" with lines
+ pause 0.5
+ plot "FFT03439" with lines
+ pause 0.5
+ plot "FFT03440" with lines
+ pause 0.5
+ plot "FFT03441" with lines
+ pause 0.5
+ plot "FFT03442" with lines
+ pause 0.5
+ plot "FFT03443" with lines
+ pause 0.5
+ plot "FFT03444" with lines
+ pause 0.5
+ plot "FFT03445" with lines
+ pause 0.5
+ plot "FFT03446" with lines
+ pause 0.5
+ plot "FFT03447" with lines
+ pause 0.5
+ plot "FFT03448" with lines
+ pause 0.5
+ plot "FFT03449" with lines
+ pause 0.5
+ plot "FFT03450" with lines
+ pause 0.5
+ plot "FFT03451" with lines
+ pause 0.5
+ plot "FFT03452" with lines
+ pause 0.5
+ plot "FFT03453" with lines
+ pause 0.5
+ plot "FFT03454" with lines
+ pause 0.5
+ plot "FFT03455" with lines
+ pause 0.5
+ plot "FFT03456" with lines
+ pause 0.5
+ plot "FFT03457" with lines
+ pause 0.5
+ plot "FFT03458" with lines
+ pause 0.5
+ plot "FFT03459" with lines
+ pause 0.5
+ plot "FFT03460" with lines
+ pause 0.5
+ plot "FFT03461" with lines
+ pause 0.5
+ plot "FFT03462" with lines
+ pause 0.5
+ plot "FFT03463" with lines
+ pause 0.5
+ plot "FFT03464" with lines
+ pause 0.5
+ plot "FFT03465" with lines
+ pause 0.5
+ plot "FFT03466" with lines
+ pause 0.5
+ plot "FFT03467" with lines
+ pause 0.5
+ plot "FFT03468" with lines
+ pause 0.5
+ plot "FFT03469" with lines
+ pause 0.5
+ plot "FFT03470" with lines
+ pause 0.5
+ plot "FFT03471" with lines
+ pause 0.5
+ plot "FFT03472" with lines
+ pause 0.5
+ plot "FFT03473" with lines
+ pause 0.5
+ plot "FFT03474" with lines
+ pause 0.5
+ plot "FFT03475" with lines
+ pause 0.5
+ plot "FFT03476" with lines
+ pause 0.5
+ plot "FFT03477" with lines
+ pause 0.5
+ plot "FFT03478" with lines
+ pause 0.5
+ plot "FFT03479" with lines
+ pause 0.5
+ plot "FFT03480" with lines
+ pause 0.5
+ plot "FFT03481" with lines
+ pause 0.5
+ plot "FFT03482" with lines
+ pause 0.5
+ plot "FFT03483" with lines
+ pause 0.5
+ plot "FFT03484" with lines
+ pause 0.5
+ plot "FFT03485" with lines
+ pause 0.5
+ plot "FFT03486" with lines
+ pause 0.5
+ plot "FFT03487" with lines
+ pause 0.5
+ plot "FFT03488" with lines
+ pause 0.5
+ plot "FFT03489" with lines
+ pause 0.5
+ plot "FFT03490" with lines
+ pause 0.5
+ plot "FFT03491" with lines
+ pause 0.5
+ plot "FFT03492" with lines
+ pause 0.5
+ plot "FFT03493" with lines
+ pause 0.5
+ plot "FFT03494" with lines
+ pause 0.5
+ plot "FFT03495" with lines
+ pause 0.5
+ plot "FFT03496" with lines
+ pause 0.5
+ plot "FFT03497" with lines
+ pause 0.5
+ plot "FFT03498" with lines
+ pause 0.5
+ plot "FFT03499" with lines
+ pause 0.5
+ plot "FFT03500" with lines
+ pause 0.5
+ plot "FFT03501" with lines
+ pause 0.5
+ plot "FFT03502" with lines
+ pause 0.5
+ plot "FFT03503" with lines
+ pause 0.5
+ plot "FFT03504" with lines
+ pause 0.5
+ plot "FFT03505" with lines
+ pause 0.5
+ plot "FFT03506" with lines
+ pause 0.5
+ plot "FFT03507" with lines
+ pause 0.5
+ plot "FFT03508" with lines
+ pause 0.5
+ plot "FFT03509" with lines
+ pause 0.5
+ plot "FFT03510" with lines
+ pause 0.5
+ plot "FFT03511" with lines
+ pause 0.5
+ plot "FFT03512" with lines
+ pause 0.5
+ plot "FFT03513" with lines
+ pause 0.5
+ plot "FFT03514" with lines
+ pause 0.5
+ plot "FFT03515" with lines
+ pause 0.5
+ plot "FFT03516" with lines
+ pause 0.5
+ plot "FFT03517" with lines
+ pause 0.5
+ plot "FFT03518" with lines
+ pause 0.5
+ plot "FFT03519" with lines
+ pause 0.5
+ plot "FFT03520" with lines
+ pause 0.5
+ plot "FFT03521" with lines
+ pause 0.5
+ plot "FFT03522" with lines
+ pause 0.5
+ plot "FFT03523" with lines
+ pause 0.5
+ plot "FFT03524" with lines
+ pause 0.5
+ plot "FFT03525" with lines
+ pause 0.5
+ plot "FFT03526" with lines
+ pause 0.5
+ plot "FFT03527" with lines
+ pause 0.5
+ plot "FFT03528" with lines
+ pause 0.5
+ plot "FFT03529" with lines
+ pause 0.5
+ plot "FFT03530" with lines
+ pause 0.5
+ plot "FFT03531" with lines
+ pause 0.5
+ plot "FFT03532" with lines
+ pause 0.5
+ plot "FFT03533" with lines
+ pause 0.5
+ plot "FFT03534" with lines
+ pause 0.5
+ plot "FFT03535" with lines
+ pause 0.5
+ plot "FFT03536" with lines
+ pause 0.5
+ plot "FFT03537" with lines
+ pause 0.5
+ plot "FFT03538" with lines
+ pause 0.5
+ plot "FFT03539" with lines
+ pause 0.5
+ plot "FFT03540" with lines
+ pause 0.5
+ plot "FFT03541" with lines
+ pause 0.5
+ plot "FFT03542" with lines
+ pause 0.5
+ plot "FFT03543" with lines
+ pause 0.5
+ plot "FFT03544" with lines
+ pause 0.5
+ plot "FFT03545" with lines
+ pause 0.5
+ plot "FFT03546" with lines
+ pause 0.5
+ plot "FFT03547" with lines
+ pause 0.5
+ plot "FFT03548" with lines
+ pause 0.5
+ plot "FFT03549" with lines
+ pause 0.5
+ plot "FFT03550" with lines
+ pause 0.5
+ plot "FFT03551" with lines
+ pause 0.5
+ plot "FFT03552" with lines
+ pause 0.5
+ plot "FFT03553" with lines
+ pause 0.5
+ plot "FFT03554" with lines
+ pause 0.5
+ plot "FFT03555" with lines
+ pause 0.5
+ plot "FFT03556" with lines
+ pause 0.5
+ plot "FFT03557" with lines
+ pause 0.5
+ plot "FFT03558" with lines
+ pause 0.5
+ plot "FFT03559" with lines
+ pause 0.5
+ plot "FFT03560" with lines
+ pause 0.5
+ plot "FFT03561" with lines
+ pause 0.5
+ plot "FFT03562" with lines
+ pause 0.5
+ plot "FFT03563" with lines
+ pause 0.5
+ plot "FFT03564" with lines
+ pause 0.5
+ plot "FFT03565" with lines
+ pause 0.5
+ plot "FFT03566" with lines
+ pause 0.5
+ plot "FFT03567" with lines
+ pause 0.5
+ plot "FFT03568" with lines
+ pause 0.5
+ plot "FFT03569" with lines
+ pause 0.5
+ plot "FFT03570" with lines
+ pause 0.5
+ plot "FFT03571" with lines
+ pause 0.5
+ plot "FFT03572" with lines
+ pause 0.5
+ plot "FFT03573" with lines
+ pause 0.5
+ plot "FFT03574" with lines
+ pause 0.5
+ plot "FFT03575" with lines
+ pause 0.5
+ plot "FFT03576" with lines
+ pause 0.5
+ plot "FFT03577" with lines
+ pause 0.5
+ plot "FFT03578" with lines
+ pause 0.5
+ plot "FFT03579" with lines
+ pause 0.5
+ plot "FFT03580" with lines
+ pause 0.5
+ plot "FFT03581" with lines
+ pause 0.5
+ plot "FFT03582" with lines
+ pause 0.5
+ plot "FFT03583" with lines
+ pause 0.5
+ plot "FFT03584" with lines
+ pause 0.5
+ plot "FFT03585" with lines
+ pause 0.5
+ plot "FFT03586" with lines
+ pause 0.5
+ plot "FFT03587" with lines
+ pause 0.5
+ plot "FFT03588" with lines
+ pause 0.5
+ plot "FFT03589" with lines
+ pause 0.5
+ plot "FFT03590" with lines
+ pause 0.5
+ plot "FFT03591" with lines
+ pause 0.5
+ plot "FFT03592" with lines
+ pause 0.5
+ plot "FFT03593" with lines
+ pause 0.5
+ plot "FFT03594" with lines
+ pause 0.5
+ plot "FFT03595" with lines
+ pause 0.5
+ plot "FFT03596" with lines
+ pause 0.5
+ plot "FFT03597" with lines
+ pause 0.5
+ plot "FFT03598" with lines
+ pause 0.5
+ plot "FFT03599" with lines
+ pause 0.5
+ plot "FFT03600" with lines
+ pause 0.5
+ plot "FFT03601" with lines
+ pause 0.5
+ plot "FFT03602" with lines
+ pause 0.5
+ plot "FFT03603" with lines
+ pause 0.5
+ plot "FFT03604" with lines
+ pause 0.5
+ plot "FFT03605" with lines
+ pause 0.5
+ plot "FFT03606" with lines
+ pause 0.5
+ plot "FFT03607" with lines
+ pause 0.5
+ plot "FFT03608" with lines
+ pause 0.5
+ plot "FFT03609" with lines
+ pause 0.5
+ plot "FFT03610" with lines
+ pause 0.5
+ plot "FFT03611" with lines
+ pause 0.5
+ plot "FFT03612" with lines
+ pause 0.5
+ plot "FFT03613" with lines
+ pause 0.5
+ plot "FFT03614" with lines
+ pause 0.5
+ plot "FFT03615" with lines
+ pause 0.5
+ plot "FFT03616" with lines
+ pause 0.5
+ plot "FFT03617" with lines
+ pause 0.5
+ plot "FFT03618" with lines
+ pause 0.5
+ plot "FFT03619" with lines
+ pause 0.5
+ plot "FFT03620" with lines
+ pause 0.5
+ plot "FFT03621" with lines
+ pause 0.5
+ plot "FFT03622" with lines
+ pause 0.5
+ plot "FFT03623" with lines
+ pause 0.5
+ plot "FFT03624" with lines
+ pause 0.5
+ plot "FFT03625" with lines
+ pause 0.5
+ plot "FFT03626" with lines
+ pause 0.5
+ plot "FFT03627" with lines
+ pause 0.5
+ plot "FFT03628" with lines
+ pause 0.5
+ plot "FFT03629" with lines
+ pause 0.5
+ plot "FFT03630" with lines
+ pause 0.5
+ plot "FFT03631" with lines
+ pause 0.5
+ plot "FFT03632" with lines
+ pause 0.5
+ plot "FFT03633" with lines
+ pause 0.5
+ plot "FFT03634" with lines
+ pause 0.5
+ plot "FFT03635" with lines
+ pause 0.5
+ plot "FFT03636" with lines
+ pause 0.5
+ plot "FFT03637" with lines
+ pause 0.5
+ plot "FFT03638" with lines
+ pause 0.5
+ plot "FFT03639" with lines
+ pause 0.5
+ plot "FFT03640" with lines
+ pause 0.5
+ plot "FFT03641" with lines
+ pause 0.5
+ plot "FFT03642" with lines
+ pause 0.5
+ plot "FFT03643" with lines
+ pause 0.5
+ plot "FFT03644" with lines
+ pause 0.5
+ plot "FFT03645" with lines
+ pause 0.5
+ plot "FFT03646" with lines
+ pause 0.5
+ plot "FFT03647" with lines
+ pause 0.5
+ plot "FFT03648" with lines
+ pause 0.5
+ plot "FFT03649" with lines
+ pause 0.5
+ plot "FFT03650" with lines
+ pause 0.5
+ plot "FFT03651" with lines
+ pause 0.5
+ plot "FFT03652" with lines
+ pause 0.5
+ plot "FFT03653" with lines
+ pause 0.5
+ plot "FFT03654" with lines
+ pause 0.5
+ plot "FFT03655" with lines
+ pause 0.5
+ plot "FFT03656" with lines
+ pause 0.5
+ plot "FFT03657" with lines
+ pause 0.5
+ plot "FFT03658" with lines
+ pause 0.5
+ plot "FFT03659" with lines
+ pause 0.5
+ plot "FFT03660" with lines
+ pause 0.5
+ plot "FFT03661" with lines
+ pause 0.5
+ plot "FFT03662" with lines
+ pause 0.5
+ plot "FFT03663" with lines
+ pause 0.5
+ plot "FFT03664" with lines
+ pause 0.5
+ plot "FFT03665" with lines
+ pause 0.5
+ plot "FFT03666" with lines
+ pause 0.5
+ plot "FFT03667" with lines
+ pause 0.5
+ plot "FFT03668" with lines
+ pause 0.5
+ plot "FFT03669" with lines
+ pause 0.5
+ plot "FFT03670" with lines
+ pause 0.5
+ plot "FFT03671" with lines
+ pause 0.5
+ plot "FFT03672" with lines
+ pause 0.5
+ plot "FFT03673" with lines
+ pause 0.5
+ plot "FFT03674" with lines
+ pause 0.5
+ plot "FFT03675" with lines
+ pause 0.5
+ plot "FFT03676" with lines
+ pause 0.5
+ plot "FFT03677" with lines
+ pause 0.5
+ plot "FFT03678" with lines
+ pause 0.5
+ plot "FFT03679" with lines
+ pause 0.5
+ plot "FFT03680" with lines
+ pause 0.5
+ plot "FFT03681" with lines
+ pause 0.5
+ plot "FFT03682" with lines
+ pause 0.5
+ plot "FFT03683" with lines
+ pause 0.5
+ plot "FFT03684" with lines
+ pause 0.5
+ plot "FFT03685" with lines
+ pause 0.5
+ plot "FFT03686" with lines
+ pause 0.5
+ plot "FFT03687" with lines
+ pause 0.5
+ plot "FFT03688" with lines
+ pause 0.5
+ plot "FFT03689" with lines
+ pause 0.5
+ plot "FFT03690" with lines
+ pause 0.5
+ plot "FFT03691" with lines
+ pause 0.5
+ plot "FFT03692" with lines
+ pause 0.5
+ plot "FFT03693" with lines
+ pause 0.5
+ plot "FFT03694" with lines
+ pause 0.5
+ plot "FFT03695" with lines
+ pause 0.5
+ plot "FFT03696" with lines
+ pause 0.5
+ plot "FFT03697" with lines
+ pause 0.5
+ plot "FFT03698" with lines
+ pause 0.5
+ plot "FFT03699" with lines
+ pause 0.5
+ plot "FFT03700" with lines
+ pause 0.5
+ plot "FFT03701" with lines
+ pause 0.5
+ plot "FFT03702" with lines
+ pause 0.5
+ plot "FFT03703" with lines
+ pause 0.5
+ plot "FFT03704" with lines
+ pause 0.5
+ plot "FFT03705" with lines
+ pause 0.5
+ plot "FFT03706" with lines
+ pause 0.5
+ plot "FFT03707" with lines
+ pause 0.5
+ plot "FFT03708" with lines
+ pause 0.5
+ plot "FFT03709" with lines
+ pause 0.5
+ plot "FFT03710" with lines
+ pause 0.5
+ plot "FFT03711" with lines
+ pause 0.5
+ plot "FFT03712" with lines
+ pause 0.5
+ plot "FFT03713" with lines
+ pause 0.5
+ plot "FFT03714" with lines
+ pause 0.5
+ plot "FFT03715" with lines
+ pause 0.5
+ plot "FFT03716" with lines
+ pause 0.5
+ plot "FFT03717" with lines
+ pause 0.5
+ plot "FFT03718" with lines
+ pause 0.5
+ plot "FFT03719" with lines
+ pause 0.5
+ plot "FFT03720" with lines
+ pause 0.5
+ plot "FFT03721" with lines
+ pause 0.5
+ plot "FFT03722" with lines
+ pause 0.5
+ plot "FFT03723" with lines
+ pause 0.5
+ plot "FFT03724" with lines
+ pause 0.5
+ plot "FFT03725" with lines
+ pause 0.5
+ plot "FFT03726" with lines
+ pause 0.5
+ plot "FFT03727" with lines
+ pause 0.5
+ plot "FFT03728" with lines
+ pause 0.5
+ plot "FFT03729" with lines
+ pause 0.5
+ plot "FFT03730" with lines
+ pause 0.5
+ plot "FFT03731" with lines
+ pause 0.5
+ plot "FFT03732" with lines
+ pause 0.5
+ plot "FFT03733" with lines
+ pause 0.5
+ plot "FFT03734" with lines
+ pause 0.5
+ plot "FFT03735" with lines
+ pause 0.5
+ plot "FFT03736" with lines
+ pause 0.5
+ plot "FFT03737" with lines
+ pause 0.5
+ plot "FFT03738" with lines
+ pause 0.5
+ plot "FFT03739" with lines
+ pause 0.5
+ plot "FFT03740" with lines
+ pause 0.5
+ plot "FFT03741" with lines
+ pause 0.5
+ plot "FFT03742" with lines
+ pause 0.5
+ plot "FFT03743" with lines
+ pause 0.5
+ plot "FFT03744" with lines
+ pause 0.5
+ plot "FFT03745" with lines
+ pause 0.5
+ plot "FFT03746" with lines
+ pause 0.5
+ plot "FFT03747" with lines
+ pause 0.5
+ plot "FFT03748" with lines
+ pause 0.5
+ plot "FFT03749" with lines
+ pause 0.5
+ plot "FFT03750" with lines
+ pause 0.5
+ plot "FFT03751" with lines
+ pause 0.5
+ plot "FFT03752" with lines
+ pause 0.5
+ plot "FFT03753" with lines
+ pause 0.5
+ plot "FFT03754" with lines
+ pause 0.5
+ plot "FFT03755" with lines
+ pause 0.5
+ plot "FFT03756" with lines
+ pause 0.5
+ plot "FFT03757" with lines
+ pause 0.5
+ plot "FFT03758" with lines
+ pause 0.5
+ plot "FFT03759" with lines
+ pause 0.5
+ plot "FFT03760" with lines
+ pause 0.5
+ plot "FFT03761" with lines
+ pause 0.5
+ plot "FFT03762" with lines
+ pause 0.5
+ plot "FFT03763" with lines
+ pause 0.5
+ plot "FFT03764" with lines
+ pause 0.5
+ plot "FFT03765" with lines
+ pause 0.5
+ plot "FFT03766" with lines
+ pause 0.5
+ plot "FFT03767" with lines
+ pause 0.5
+ plot "FFT03768" with lines
+ pause 0.5
+ plot "FFT03769" with lines
+ pause 0.5
+ plot "FFT03770" with lines
+ pause 0.5
+ plot "FFT03771" with lines
+ pause 0.5
+ plot "FFT03772" with lines
+ pause 0.5
+ plot "FFT03773" with lines
+ pause 0.5
+ plot "FFT03774" with lines
+ pause 0.5
+ plot "FFT03775" with lines
+ pause 0.5
+ plot "FFT03776" with lines
+ pause 0.5
+ plot "FFT03777" with lines
+ pause 0.5
+ plot "FFT03778" with lines
+ pause 0.5
+ plot "FFT03779" with lines
+ pause 0.5
+ plot "FFT03780" with lines
+ pause 0.5
+ plot "FFT03781" with lines
+ pause 0.5
+ plot "FFT03782" with lines
+ pause 0.5
+ plot "FFT03783" with lines
+ pause 0.5
+ plot "FFT03784" with lines
+ pause 0.5
+ plot "FFT03785" with lines
+ pause 0.5
+ plot "FFT03786" with lines
+ pause 0.5
+ plot "FFT03787" with lines
+ pause 0.5
+ plot "FFT03788" with lines
+ pause 0.5
+ plot "FFT03789" with lines
+ pause 0.5
+ plot "FFT03790" with lines
+ pause 0.5
+ plot "FFT03791" with lines
+ pause 0.5
+ plot "FFT03792" with lines
+ pause 0.5
+ plot "FFT03793" with lines
+ pause 0.5
+ plot "FFT03794" with lines
+ pause 0.5
+ plot "FFT03795" with lines
+ pause 0.5
+ plot "FFT03796" with lines
+ pause 0.5
+ plot "FFT03797" with lines
+ pause 0.5
+ plot "FFT03798" with lines
+ pause 0.5
+ plot "FFT03799" with lines
+ pause 0.5
+ plot "FFT03800" with lines
+ pause 0.5
+ plot "FFT03801" with lines
+ pause 0.5
+ plot "FFT03802" with lines
+ pause 0.5
+ plot "FFT03803" with lines
+ pause 0.5
+ plot "FFT03804" with lines
+ pause 0.5
+ plot "FFT03805" with lines
+ pause 0.5
+ plot "FFT03806" with lines
+ pause 0.5
+ plot "FFT03807" with lines
+ pause 0.5
+ plot "FFT03808" with lines
+ pause 0.5
+ plot "FFT03809" with lines
+ pause 0.5
+ plot "FFT03810" with lines
+ pause 0.5
+ plot "FFT03811" with lines
+ pause 0.5
+ plot "FFT03812" with lines
+ pause 0.5
+ plot "FFT03813" with lines
+ pause 0.5
+ plot "FFT03814" with lines
+ pause 0.5
+ plot "FFT03815" with lines
+ pause 0.5
+ plot "FFT03816" with lines
+ pause 0.5
+ plot "FFT03817" with lines
+ pause 0.5
+ plot "FFT03818" with lines
+ pause 0.5
+ plot "FFT03819" with lines
+ pause 0.5
+ plot "FFT03820" with lines
+ pause 0.5
+ plot "FFT03821" with lines
+ pause 0.5
+ plot "FFT03822" with lines
+ pause 0.5
+ plot "FFT03823" with lines
+ pause 0.5
+ plot "FFT03824" with lines
+ pause 0.5
+ plot "FFT03825" with lines
+ pause 0.5
+ plot "FFT03826" with lines
+ pause 0.5
+ plot "FFT03827" with lines
+ pause 0.5
+ plot "FFT03828" with lines
+ pause 0.5
+ plot "FFT03829" with lines
+ pause 0.5
+ plot "FFT03830" with lines
+ pause 0.5
+ plot "FFT03831" with lines
+ pause 0.5
+ plot "FFT03832" with lines
+ pause 0.5
+ plot "FFT03833" with lines
+ pause 0.5
+ plot "FFT03834" with lines
+ pause 0.5
+ plot "FFT03835" with lines
+ pause 0.5
+ plot "FFT03836" with lines
+ pause 0.5
+ plot "FFT03837" with lines
+ pause 0.5
+ plot "FFT03838" with lines
+ pause 0.5
+ plot "FFT03839" with lines
+ pause 0.5
+ plot "FFT03840" with lines
+ pause 0.5
+ plot "FFT03841" with lines
+ pause 0.5
+ plot "FFT03842" with lines
+ pause 0.5
+ plot "FFT03843" with lines
+ pause 0.5
+ plot "FFT03844" with lines
+ pause 0.5
+ plot "FFT03845" with lines
+ pause 0.5
+ plot "FFT03846" with lines
+ pause 0.5
+ plot "FFT03847" with lines
+ pause 0.5
+ plot "FFT03848" with lines
+ pause 0.5
+ plot "FFT03849" with lines
+ pause 0.5
+ plot "FFT03850" with lines
+ pause 0.5
+ plot "FFT03851" with lines
+ pause 0.5
+ plot "FFT03852" with lines
+ pause 0.5
+ plot "FFT03853" with lines
+ pause 0.5
+ plot "FFT03854" with lines
+ pause 0.5
+ plot "FFT03855" with lines
+ pause 0.5
+ plot "FFT03856" with lines
+ pause 0.5
+ plot "FFT03857" with lines
+ pause 0.5
+ plot "FFT03858" with lines
+ pause 0.5
+ plot "FFT03859" with lines
+ pause 0.5
+ plot "FFT03860" with lines
+ pause 0.5
+ plot "FFT03861" with lines
+ pause 0.5
+ plot "FFT03862" with lines
+ pause 0.5
+ plot "FFT03863" with lines
+ pause 0.5
+ plot "FFT03864" with lines
+ pause 0.5
+ plot "FFT03865" with lines
+ pause 0.5
+ plot "FFT03866" with lines
+ pause 0.5
+ plot "FFT03867" with lines
+ pause 0.5
+ plot "FFT03868" with lines
+ pause 0.5
+ plot "FFT03869" with lines
+ pause 0.5
+ plot "FFT03870" with lines
+ pause 0.5
+ plot "FFT03871" with lines
+ pause 0.5
+ plot "FFT03872" with lines
+ pause 0.5
+ plot "FFT03873" with lines
+ pause 0.5
+ plot "FFT03874" with lines
+ pause 0.5
+ plot "FFT03875" with lines
+ pause 0.5
+ plot "FFT03876" with lines
+ pause 0.5
+ plot "FFT03877" with lines
+ pause 0.5
+ plot "FFT03878" with lines
+ pause 0.5
+ plot "FFT03879" with lines
+ pause 0.5
+ plot "FFT03880" with lines
+ pause 0.5
+ plot "FFT03881" with lines
+ pause 0.5
+ plot "FFT03882" with lines
+ pause 0.5
+ plot "FFT03883" with lines
+ pause 0.5
+ plot "FFT03884" with lines
+ pause 0.5
+ plot "FFT03885" with lines
+ pause 0.5
+ plot "FFT03886" with lines
+ pause 0.5
+ plot "FFT03887" with lines
+ pause 0.5
+ plot "FFT03888" with lines
+ pause 0.5
+ plot "FFT03889" with lines
+ pause 0.5
+ plot "FFT03890" with lines
+ pause 0.5
+ plot "FFT03891" with lines
+ pause 0.5
+ plot "FFT03892" with lines
+ pause 0.5
+ plot "FFT03893" with lines
+ pause 0.5
+ plot "FFT03894" with lines
+ pause 0.5
+ plot "FFT03895" with lines
+ pause 0.5
+ plot "FFT03896" with lines
+ pause 0.5
+ plot "FFT03897" with lines
+ pause 0.5
+ plot "FFT03898" with lines
+ pause 0.5
+ plot "FFT03899" with lines
+ pause 0.5
+ plot "FFT03900" with lines
+ pause 0.5
+ plot "FFT03901" with lines
+ pause 0.5
+ plot "FFT03902" with lines
+ pause 0.5
+ plot "FFT03903" with lines
+ pause 0.5
+ plot "FFT03904" with lines
+ pause 0.5
+ plot "FFT03905" with lines
+ pause 0.5
+ plot "FFT03906" with lines
+ pause 0.5
+ plot "FFT03907" with lines
+ pause 0.5
+ plot "FFT03908" with lines
+ pause 0.5
+ plot "FFT03909" with lines
+ pause 0.5
+ plot "FFT03910" with lines
+ pause 0.5
+ plot "FFT03911" with lines
+ pause 0.5
+ plot "FFT03912" with lines
+ pause 0.5
+ plot "FFT03913" with lines
+ pause 0.5
+ plot "FFT03914" with lines
+ pause 0.5
+ plot "FFT03915" with lines
+ pause 0.5
+ plot "FFT03916" with lines
+ pause 0.5
+ plot "FFT03917" with lines
+ pause 0.5
+ plot "FFT03918" with lines
+ pause 0.5
+ plot "FFT03919" with lines
+ pause 0.5
+ plot "FFT03920" with lines
+ pause 0.5
+ plot "FFT03921" with lines
+ pause 0.5
+ plot "FFT03922" with lines
+ pause 0.5
+ plot "FFT03923" with lines
+ pause 0.5
+ plot "FFT03924" with lines
+ pause 0.5
+ plot "FFT03925" with lines
+ pause 0.5
+ plot "FFT03926" with lines
+ pause 0.5
+ plot "FFT03927" with lines
+ pause 0.5
+ plot "FFT03928" with lines
+ pause 0.5
+ plot "FFT03929" with lines
+ pause 0.5
+ plot "FFT03930" with lines
+ pause 0.5
+ plot "FFT03931" with lines
+ pause 0.5
+ plot "FFT03932" with lines
+ pause 0.5
+ plot "FFT03933" with lines
+ pause 0.5
+ plot "FFT03934" with lines
+ pause 0.5
+ plot "FFT03935" with lines
+ pause 0.5
+ plot "FFT03936" with lines
+ pause 0.5
+ plot "FFT03937" with lines
+ pause 0.5
+ plot "FFT03938" with lines
+ pause 0.5
+ plot "FFT03939" with lines
+ pause 0.5
+ plot "FFT03940" with lines
+ pause 0.5
+ plot "FFT03941" with lines
+ pause 0.5
+ plot "FFT03942" with lines
+ pause 0.5
+ plot "FFT03943" with lines
+ pause 0.5
+ plot "FFT03944" with lines
+ pause 0.5
+ plot "FFT03945" with lines
+ pause 0.5
+ plot "FFT03946" with lines
+ pause 0.5
+ plot "FFT03947" with lines
+ pause 0.5
+ plot "FFT03948" with lines
+ pause 0.5
+ plot "FFT03949" with lines
+ pause 0.5
+ plot "FFT03950" with lines
+ pause 0.5
+ plot "FFT03951" with lines
+ pause 0.5
+ plot "FFT03952" with lines
+ pause 0.5
+ plot "FFT03953" with lines
+ pause 0.5
+ plot "FFT03954" with lines
+ pause 0.5
+ plot "FFT03955" with lines
+ pause 0.5
+ plot "FFT03956" with lines
+ pause 0.5
+ plot "FFT03957" with lines
+ pause 0.5
+ plot "FFT03958" with lines
+ pause 0.5
+ plot "FFT03959" with lines
+ pause 0.5
+ plot "FFT03960" with lines
+ pause 0.5
+ plot "FFT03961" with lines
+ pause 0.5
+ plot "FFT03962" with lines
+ pause 0.5
+ plot "FFT03963" with lines
+ pause 0.5
+ plot "FFT03964" with lines
+ pause 0.5
+ plot "FFT03965" with lines
+ pause 0.5
+ plot "FFT03966" with lines
+ pause 0.5
+ plot "FFT03967" with lines
+ pause 0.5
+ plot "FFT03968" with lines
+ pause 0.5
+ plot "FFT03969" with lines
+ pause 0.5
+ plot "FFT03970" with lines
+ pause 0.5
+ plot "FFT03971" with lines
+ pause 0.5
+ plot "FFT03972" with lines
+ pause 0.5
+ plot "FFT03973" with lines
+ pause 0.5
+ plot "FFT03974" with lines
+ pause 0.5
+ plot "FFT03975" with lines
+ pause 0.5
+ plot "FFT03976" with lines
+ pause 0.5
+ plot "FFT03977" with lines
+ pause 0.5
+ plot "FFT03978" with lines
+ pause 0.5
+ plot "FFT03979" with lines
+ pause 0.5
+ plot "FFT03980" with lines
+ pause 0.5
+ plot "FFT03981" with lines
+ pause 0.5
+ plot "FFT03982" with lines
+ pause 0.5
+ plot "FFT03983" with lines
+ pause 0.5
+ plot "FFT03984" with lines
+ pause 0.5
+ plot "FFT03985" with lines
+ pause 0.5
+ plot "FFT03986" with lines
+ pause 0.5
+ plot "FFT03987" with lines
+ pause 0.5
+ plot "FFT03988" with lines
+ pause 0.5
+ plot "FFT03989" with lines
+ pause 0.5
+ plot "FFT03990" with lines
+ pause 0.5
+ plot "FFT03991" with lines
+ pause 0.5
+ plot "FFT03992" with lines
+ pause 0.5
+ plot "FFT03993" with lines
+ pause 0.5
+ plot "FFT03994" with lines
+ pause 0.5
+ plot "FFT03995" with lines
+ pause 0.5
+ plot "FFT03996" with lines
+ pause 0.5
+ plot "FFT03997" with lines
+ pause 0.5
+ plot "FFT03998" with lines
+ pause 0.5
+ plot "FFT03999" with lines
+ pause 0.5
+ plot "FFT04000" with lines
+ pause 0.5
+ plot "FFT04001" with lines
+ pause 0.5
+ plot "FFT04002" with lines
+ pause 0.5
+ plot "FFT04003" with lines
+ pause 0.5
+ plot "FFT04004" with lines
+ pause 0.5
+ plot "FFT04005" with lines
+ pause 0.5
+ plot "FFT04006" with lines
+ pause 0.5
+ plot "FFT04007" with lines
+ pause 0.5
+ plot "FFT04008" with lines
+ pause 0.5
+ plot "FFT04009" with lines
+ pause 0.5
+ plot "FFT04010" with lines
+ pause 0.5
+ plot "FFT04011" with lines
+ pause 0.5
+ plot "FFT04012" with lines
+ pause 0.5
+ plot "FFT04013" with lines
+ pause 0.5
+ plot "FFT04014" with lines
+ pause 0.5
+ plot "FFT04015" with lines
+ pause 0.5
+ plot "FFT04016" with lines
+ pause 0.5
+ plot "FFT04017" with lines
+ pause 0.5
+ plot "FFT04018" with lines
+ pause 0.5
+ plot "FFT04019" with lines
+ pause 0.5
+ plot "FFT04020" with lines
+ pause 0.5
+ plot "FFT04021" with lines
+ pause 0.5
+ plot "FFT04022" with lines
+ pause 0.5
+ plot "FFT04023" with lines
+ pause 0.5
+ plot "FFT04024" with lines
+ pause 0.5
+ plot "FFT04025" with lines
+ pause 0.5
+ plot "FFT04026" with lines
+ pause 0.5
+ plot "FFT04027" with lines
+ pause 0.5
+ plot "FFT04028" with lines
+ pause 0.5
+ plot "FFT04029" with lines
+ pause 0.5
+ plot "FFT04030" with lines
+ pause 0.5
+ plot "FFT04031" with lines
+ pause 0.5
+ plot "FFT04032" with lines
+ pause 0.5
+ plot "FFT04033" with lines
+ pause 0.5
+ plot "FFT04034" with lines
+ pause 0.5
+ plot "FFT04035" with lines
+ pause 0.5
+ plot "FFT04036" with lines
+ pause 0.5
+ plot "FFT04037" with lines
+ pause 0.5
+ plot "FFT04038" with lines
+ pause 0.5
+ plot "FFT04039" with lines
+ pause 0.5
+ plot "FFT04040" with lines
+ pause 0.5
+ plot "FFT04041" with lines
+ pause 0.5
+ plot "FFT04042" with lines
+ pause 0.5
+ plot "FFT04043" with lines
+ pause 0.5
+ plot "FFT04044" with lines
+ pause 0.5
+ plot "FFT04045" with lines
+ pause 0.5
+ plot "FFT04046" with lines
+ pause 0.5
+ plot "FFT04047" with lines
+ pause 0.5
+ plot "FFT04048" with lines
+ pause 0.5
+ plot "FFT04049" with lines
+ pause 0.5
+ plot "FFT04050" with lines
+ pause 0.5
+ plot "FFT04051" with lines
+ pause 0.5
+ plot "FFT04052" with lines
+ pause 0.5
+ plot "FFT04053" with lines
+ pause 0.5
+ plot "FFT04054" with lines
+ pause 0.5
+ plot "FFT04055" with lines
+ pause 0.5
+ plot "FFT04056" with lines
+ pause 0.5
+ plot "FFT04057" with lines
+ pause 0.5
+ plot "FFT04058" with lines
+ pause 0.5
+ plot "FFT04059" with lines
+ pause 0.5
+ plot "FFT04060" with lines
+ pause 0.5
+ plot "FFT04061" with lines
+ pause 0.5
+ plot "FFT04062" with lines
+ pause 0.5
+ plot "FFT04063" with lines
+ pause 0.5
+ plot "FFT04064" with lines
+ pause 0.5
+ plot "FFT04065" with lines
+ pause 0.5
+ plot "FFT04066" with lines
+ pause 0.5
+ plot "FFT04067" with lines
+ pause 0.5
+ plot "FFT04068" with lines
+ pause 0.5
+ plot "FFT04069" with lines
+ pause 0.5
+ plot "FFT04070" with lines
+ pause 0.5
+ plot "FFT04071" with lines
+ pause 0.5
+ plot "FFT04072" with lines
+ pause 0.5
+ plot "FFT04073" with lines
+ pause 0.5
+ plot "FFT04074" with lines
+ pause 0.5
+ plot "FFT04075" with lines
+ pause 0.5
+ plot "FFT04076" with lines
+ pause 0.5
+ plot "FFT04077" with lines
+ pause 0.5
+ plot "FFT04078" with lines
+ pause 0.5
+ plot "FFT04079" with lines
+ pause 0.5
+ plot "FFT04080" with lines
+ pause 0.5
+ plot "FFT04081" with lines
+ pause 0.5
+ plot "FFT04082" with lines
+ pause 0.5
+ plot "FFT04083" with lines
+ pause 0.5
+ plot "FFT04084" with lines
+ pause 0.5
+ plot "FFT04085" with lines
+ pause 0.5
+ plot "FFT04086" with lines
+ pause 0.5
+ plot "FFT04087" with lines
+ pause 0.5
+ plot "FFT04088" with lines
+ pause 0.5
+ plot "FFT04089" with lines
+ pause 0.5
+ plot "FFT04090" with lines
+ pause 0.5
+ plot "FFT04091" with lines
+ pause 0.5
+ plot "FFT04092" with lines
+ pause 0.5
+ plot "FFT04093" with lines
+ pause 0.5
+ plot "FFT04094" with lines
+ pause 0.5
+ plot "FFT04095" with lines
+ pause 0.5
+ plot "FFT04096" with lines
+ pause 0.5
+ plot "FFT04097" with lines
+ pause 0.5

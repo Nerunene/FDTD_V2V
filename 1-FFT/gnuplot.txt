@@ -1,0 +1,18 @@
+set term gif animate
+set output '1FFT.gif'
+
+
+
+
+do for[i=0:255]{
+
+
+plot sprintf("FFT0%03d",i) using 1:4 with lines
+
+
+plot_title=sprintf("FFT0%03d",i)
+set title plot_title
+
+}
+
+set out
